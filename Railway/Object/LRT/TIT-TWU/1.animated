@@ -1,0 +1,325 @@
+[Object]
+States = 1.csv
+Position = 0,0,-75
+
+[Object]
+States = ..\Road\pole2.csv
+Position = 22.8,-2.6,285
+
+[Object]
+States = 2.csv
+Position = 0,0,350
+
+[Object]
+States = ..\Road\signs\sign3b_small.csv
+Position = -6.5,0,184.5
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 22.5,-3.8,177
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 22.85,-3.7,148.5
+RotateYFunction = 3.14
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = -4,-3.4,162.8
+RotateYFunction = 4.7
+
+[Object]
+States = ..\Traffic_Pack\safe_island\flecta1.csv
+Position = 19,-4,340.6
+
+
+[Object]
+States = ..\Traffic_Pack\02c.csv
+Position = 17.2,-4,341
+
+[Object]
+States = ..\Traffic_Pack\02c.csv
+Position = 16.75,-4,341
+
+[Object]
+States = ..\Traffic_Pack\02c.csv
+Position = 25.2,-4,340.75
+
+[Object]
+States = ..\Road\foliage\tree\tree1a.b3d
+Position = 50,-3.9,224
+
+[Object]
+States = ..\Road\foliage\tree\tree1b.b3d
+Position = -20,-3.9,275
+
+[Object]
+States = ..\Road\foliage\tree\a.b3d
+Position = 48.5,-3.9,340
+
+[Object]
+States = ..\Road\foliage\tree\tree1c.b3d
+Position = -20,-3.9,300
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -40,-3.5,190
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -33,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -50.5,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -71,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -91.5,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -112,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -132.5,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -153,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -173.5,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -194,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -214.5,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -235,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -255.5,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -276,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -296,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -316,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -336,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -356,-3.5,349.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd.b3d
+Position = -376,-3.5,350.5
+
+[Object]
+States = ..\Road\foliage\tree\TinWuRd2.b3d
+Position = -47,-2.5,391
+
+[Object]
+States = buildings\bridge_end.csv
+Position = -1.5,-3.6,180.5
+
+[Object]
+States = buildings\bridge.csv
+Position = 0,2.61,195.5
+
+[Object]
+States = buildings\building1.csv
+Position = 0,-3.5,217
+
+[Object]
+States = buildings\building2.csv
+Position = -40,-4.5,350
+RotateYFunction=-1
+
+[Object]
+States = buildings\building1.csv
+Position = -135,-4.5,252
+
+[Object]
+States = buildings\building1.csv
+Position = -200,-4.5,350
+RotateYFunction=-1.5
+
+[Object]
+States = buildings\building2.csv
+Position = -2,-3.5,170
+
+[Object]
+States = buildings\building3.csv
+Position = 0,-3.5,153
+
+[Object]
+States = buildings\building3L.csv
+Position = 0,-3,155
+
+[Object]
+States = buildings\building4.csv
+Position = 0,-3.3,240
+
+[Object]
+States = buildings\building5.csv
+Position = 0,-3.5,179
+
+[Object]
+States = buildings\building6.csv
+Position = -1,-3.5,279
+
+[Object]
+States = buildings\building7.csv
+Position = 0,-3.4,308
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -185,-25.0,570
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -230,-25.0,570
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -245,-25.0,550
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -278,-25.0,512
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -282,-25.0,495
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Shared_Assets\building8.csv
+Position = -310,-25.0,450
+RotateYFunction = -0.7
+
+;;signs;;
+[Object]
+States = ..\Road\Signs\sign1.csv
+Position = 2.9,0,175
+
+[Object]
+States = ..\Road\Signs\sign1.csv
+Position = 12,0,393.5
+
+[Object]
+States = ..\Road\Signs\sign2.csv
+Position = -3,0,259.3
+
+[Object]
+States = ..\Road\Signs\sign3a.csv
+Position = 14,0,185
+
+[Object]
+States = ..\Road\Signs\sign3b.csv
+Position = 2,1,390
+
+[Object]
+States = ..\Road\Signs\sign3b_small.csv
+Position = -3.5,0,343
+RotateYFunction = 3.1415
+
+[Object]
+States = ..\Road\Signs\sign3a_small.csv
+Position = 8.4,0,343
+RotateYFunction = 3.1415
+
+[Object]
+States = ..\Road\Signs\sign4.csv
+Position = 11,0,262
+
+[Object]
+States = ..\Road\Signs\sign5.csv
+Position = 10,0,302
+
+[Object]
+States = ..\Road\Signs\sign6.csv
+Position = 10,0,310
+
+[Object]
+States = ..\Road\Signs\sign7.csv
+Position = 8,0,314
+
+[Object]
+States = ..\Road\Signs\sign8b.csv
+Position = 10,0,319
+
+[Object]
+States = ..\Road\Signs\sign19.csv
+Position = 10,0,323
+
+[Object]
+States = ..\Road\Signs\sign9.csv
+Position = 24,0,294
+
+[Object]
+States = ..\Road\Signs\sign10.csv
+Position = 16,0,346
+
+[Object]
+States = ..\Road\Signs\sign11.csv
+Position = 9,0,347
+
+[Object]
+States = ..\Road\Signs\sign12.csv
+Position = 9,0,0
+
+[Object]
+States = ..\Road\Signs\sign13.csv
+Position = 6.5,-2.75,149.5
+
+[Object]
+States = ..\Road\Signs\sign13.csv
+Position = -3.9,-2.75,150
+
+[Object]
+States = ..\Road\Signs\sign13.csv
+Position = -3.6,-2.75,178.4
+
+[Object]
+States = ..\Road\Signs\sign13.csv
+Position = 6.4,-2.75,177.9
+
+[Object]
+States = ..\Road\Signs\sign2.csv
+Position = 7.8,0,179.0
+RotateYFunction=3.1415
+
+[Object]
+States = ..\Road\Signs\roadsigns\TinShingRd.csv
+Position = 10.8,-3.7,327
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 44.2,-4.1,361.7
+RotateYFunction = 1.55

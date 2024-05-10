@@ -1,0 +1,224 @@
+;;shadow if needed;;
+CreateMeshBuilder,
+AddVertex, 0,0,6.9
+AddVertex, 0,0,1.1
+AddVertex, 2,0,1.1
+AddVertex, 2,0,6.9
+AddFace2, 0,1,2,3
+SetColor,0,0,0,180
+
+
+
+
+CreateMeshBuilder,
+AddVertex, 0,0,7
+AddVertex, 0,3.1,7
+AddVertex, 0,3.1,1
+AddVertex, 0,0,1
+AddVertex, 0.1,2,7
+AddVertex, 0.1,2,1
+
+AddFace2, 0,1,2,3
+;AddFace2, 1,4,5,2
+LoadTexture, L_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 1, 1
+SetTextureCoordinates, 4, 0, 0
+SetTextureCoordinates, 5, 1, 0
+SetDecalTransparentColor,0,0,255
+CreateMeshBuilder,
+AddVertex, 2,0,7
+AddVertex, 2,3.1,7
+AddVertex, 2,3.1,1
+AddVertex, 2,0,1
+AddVertex, 1.6,2,4.7
+AddVertex, 1.6,2,1
+
+AddFace2, 0,1,2,3
+;AddFace2, 1,4,5,2
+LoadTexture, R_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 1, 1
+SetTextureCoordinates, 4, 0, 0
+SetTextureCoordinates, 5, 1, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 2,0.3,7
+AddVertex, 2,1.4,7
+AddVertex, 0,1.4,7
+AddVertex, 0,0.3,7
+AddVertex, 2,2.3,6.72
+AddVertex, 0,2.3,6.72
+
+AddFace2, 0,1,2,3
+AddFace2, 1,4,5,2
+LoadTexture, F_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0.5
+SetTextureCoordinates, 2, 1, 0.5
+SetTextureCoordinates, 3, 1, 1
+SetTextureCoordinates, 4, 0, 0
+SetTextureCoordinates, 5, 1, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 2,2.3,6.7
+AddVertex, 2,2.3,5.8
+AddVertex, 0,2.3,5.8
+AddVertex, 0,2.3,6.7
+
+AddFace2, 0,1,2,3
+
+LoadTexture, F_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 1, 0.035
+SetTextureCoordinates, 1, 1, 0.03
+SetTextureCoordinates, 2, 0, 0.03
+SetTextureCoordinates, 3, 0, 0.035
+SetDecalTransparentColor,0,0,255
+
+
+CreateMeshBuilder,
+AddVertex, 2,0.25,1
+AddVertex, 2,3.1,1
+AddVertex, 0,3.1,1
+AddVertex, 0,0.25,1
+
+AddFace2, 0,1,2,3
+
+LoadTexture, B_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 1, 1
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 0, 0
+SetTextureCoordinates, 3, 0, 1
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 2,0.7,5.2
+AddVertex, 2,3.1,5.2
+AddVertex, 0,3.1,5.2
+AddVertex, 0,0.7,5.2
+
+AddFace2, 0,1,2,3
+
+LoadTexture, M_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 1, 1
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 0, 0
+SetTextureCoordinates, 3, 0, 1
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 2,3.1,1
+AddVertex, 2,3.1,5.4
+AddVertex, 0,3.1,5.4
+AddVertex, 0,3.1,1
+
+AddFace2, 0,1,2,3
+
+LoadTexture, L_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 1, 0.005
+SetTextureCoordinates, 1, 0.26, 0.01
+SetTextureCoordinates, 2, 0.26, 0.01
+SetTextureCoordinates, 3, 1, 0.005
+SetDecalTransparentColor,0,0,255
+
+
+CreateMeshBuilder,
+AddVertex, 0.35,2.5,5.7
+AddVertex, 0.35,3.0,5.7
+AddVertex, 0.35,3.0,5.2
+AddVertex, 0.35,2.5,5.2
+
+AddFace2, 0,1,2,3
+LoadTexture, T1_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 1, 1
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 1.65,2.5,5.7
+AddVertex, 1.65,3.0,5.7
+AddVertex, 1.65,3.0,5.2
+AddVertex, 1.65,2.5,5.2
+
+AddFace2, 0,1,2,3
+LoadTexture, T1_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 1, 1
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 1.65,2.5,5.2
+AddVertex, 1.65,2.63,5.7
+AddVertex, 0.35,2.63,5.7
+AddVertex, 0.35,2.5,5.2
+AddVertex, 1.65,3,5.7
+AddVertex, 1.65,3,5.2
+AddVertex, 0.35,3,5.2
+AddVertex, 0.35,3,5.7
+AddFace2, 0,1,2,3
+AddFace2, 1,4,7,2
+AddFace2, 4,5,6,7
+LoadTexture, T2_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0.7
+SetTextureCoordinates, 2, 1, 0.7
+SetTextureCoordinates, 3, 1, 1
+SetTextureCoordinates, 4, 0, 0.01
+SetTextureCoordinates, 5, 0, 0
+SetTextureCoordinates, 6, 1, 0
+SetTextureCoordinates, 7, 1, 0.01
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 2,3.1,5.4
+AddVertex, 0,3.1,5.4
+AddVertex, 2,2.45,5.4
+AddVertex, 0,2.45,5.4
+AddVertex, 2,2.3,5.65
+AddVertex, 0,2.3,5.65
+AddVertex, 2,2.3,5.8
+AddVertex, 0,2.3,5.8
+AddVertex, 2,2.1,5.6
+AddVertex, 0,2.1,5.6
+AddVertex, 2,0.7,5.6
+AddVertex, 0,0.7,5.6
+AddFace, 2,3,1,0
+AddFace, 4,5,3,2
+AddFace, 6,7,5,4
+AddFace, 8,9,7,6
+AddFace, 10,11,9,8
+LoadTexture, M_hktv.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0.9, 0
+SetTextureCoordinates, 1, 0.1, 0
+SetTextureCoordinates, 2, 0.9, 0.2
+SetTextureCoordinates, 3, 0.1, 0.2
+SetTextureCoordinates, 4, 0.9, 0.4
+SetTextureCoordinates, 5, 0.1, 0.4
+SetTextureCoordinates, 6, 0.9, 0.6
+SetTextureCoordinates, 7, 0.1, 0.6
+SetTextureCoordinates, 8, 0.9, 0.8
+SetTextureCoordinates, 9, 0.1, 0.8
+SetTextureCoordinates, 10, 0.9, 1
+SetTextureCoordinates, 11, 0.1, 1
+TranslateAll,0,0,-1

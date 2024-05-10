@@ -1,0 +1,25 @@
+CreateMeshBuilder,
+AddVertex,-0.89, -2.95, 0.6, 0,1,0
+AddVertex,-0.89, -2.95, 2.72, 0,1,0
+AddVertex,-0.89, -2.45, 2.72, 0,1,0
+AddVertex,-0.89, -2.45, 0.6, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,sign11.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-0.895, -2.45, 0.6, 0,1,0
+AddVertex,-0.895, -2.45, 2.72, 0,1,0
+AddVertex,-0.895, -2.95, 2.72, 0,1,0
+AddVertex,-0.895, -2.95, 0.6, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,sign13.png,
+SetTextureCoordinates,0, 0.8, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 0.2,
+SetTextureCoordinates,3, 0.8, 0.2,
+SetDecalTransparentColor,0,0,255

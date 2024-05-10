@@ -1,0 +1,15 @@
+CreateMeshBuilder,
+AddVertex,2.70, 0, 0.2,
+AddVertex,2.70, 0, 4.5,
+AddVertex,-2.35, 0, 4.5,
+AddVertex,-2.35, 0, 0.2,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor, 255,255,255
+LoadTexture,01shadow.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 1, -1,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+
+TranslateAll,0,0,-0.2

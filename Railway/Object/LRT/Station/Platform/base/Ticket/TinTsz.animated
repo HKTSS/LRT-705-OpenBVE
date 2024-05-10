@@ -1,0 +1,7 @@
+[Object]
+States = LED_TinTsz.csv
+TextureShiftXFunction = value + 0.08 * delta
+RefreshRate = 0.02
+
+[Object]
+States = LRT_Ticket.csv

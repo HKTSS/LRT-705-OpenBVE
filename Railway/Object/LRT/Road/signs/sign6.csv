@@ -1,0 +1,36 @@
+;;Cube sign 2;;
+CreateMeshBuilder,
+Cube,0.07,2.3,0.07
+SetColor,190,195,205
+Translate,0.6,-1.5,1
+
+CreateMeshBuilder,
+Cube,0.07,2.3,0.07
+SetColor,190,195,205
+Translate,-1.7,-1.5,1
+
+CreateMeshBuilder,
+AddVertex,0.8, 1.1, 0.87, 0,1,0
+AddVertex,-1.9, 1.1, 0.87, 0,1,0
+AddVertex,-1.9, -1.5, 0.87, 0,1,0
+AddVertex,0.8, -1.5, 0.87, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,sign6.png,
+SetTextureCoordinates,0, 0.5, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0.5, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,0.8, 1.1, 0.89, 0,1,0
+AddVertex,-1.9, 1.1, 0.89, 0,1,0
+AddVertex,-1.9, -1.5, 0.89, 0,1,0
+AddVertex,0.8, -1.5, 0.89, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,sign6.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0.5, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255

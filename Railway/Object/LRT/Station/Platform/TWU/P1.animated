@@ -1,0 +1,100 @@
+[Object]
+States = P1_1.csv
+Position = 0, 0, 0
+
+[Object]
+States = P1_2.csv
+Position = 0, 0, 25
+
+[Object]
+States = ..\base\pole_short.csv
+Position = -1.2, -0.9, -22.7
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, -20
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, -15
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, -10
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, -5
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 0
+
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 5
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 10
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 15
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 20
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 25
+
+[Object]
+States = ..\base\pole.csv
+Position = -1.2, 0, 29.7
+
+[Object]
+States = ..\base\pole_short.csv
+Position = -1.2, -0.57, 34.7
+
+[Object]
+States = ..\base\pole_short.csv
+Position = -1.2, -0.81, 39.5
+
+[Object]
+States = ..\base\pole_short.csv
+Position = -1.2, -1.11, 43.5
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = -5.1, 1.25, 5.65
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = -5.1, 1.25, 10.65
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = -5.1, 1.25, 35.65
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = -5.1, 1.25, 40.65
+
+[Object]
+States = ..\advert\1.csv
+Position = -5.1, 1.25, 5.65
+
+[Object]
+States = ..\advert\2.csv
+Position = -5.1, 1.25, 10.65
+
+[Object]
+States = ..\advert\1.csv
+Position = -5.1, 1.25, 35.65
+
+[Object]
+States = ..\advert\2.csv
+Position = -5.1, 1.25, 40.65

@@ -1,0 +1,147 @@
+[MeshBuilder]
+Vertex 0,13,10,0,1,0
+Vertex 9,13,0, 0,1,0
+Vertex 9,0,0, 0,1,0
+Vertex 0,0,10,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+ [MeshBuilder]
+Vertex 9.6,13,10,0,1,0
+Vertex 0.6,13,0, 0,1,0
+Vertex 0.6,0,0, 0,1,0
+Vertex 9.6,0,10,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+
+
+ [MeshBuilder]
+Vertex 0,13,20,0,1,0
+Vertex 9,13,10, 0,1,0
+Vertex 9,0,10, 0,1,0
+Vertex 0,0,20,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree4.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+[MeshBuilder]
+Vertex 9,13,20,0,1,0
+Vertex 0,13,10, 0,1,0
+Vertex 0,0,10, 0,1,0
+Vertex 9,0,20,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree4.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+
+
+[MeshBuilder]
+Vertex 0,13,30,0,1,0
+Vertex 9,13,20, 0,1,0
+Vertex 9,0,20, 0,1,0
+Vertex 0,0,30,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree6.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+[MeshBuilder]
+Vertex 9,13,30,0,1,0
+Vertex 0,13,20, 0,1,0
+Vertex 0,0,20, 0,1,0
+Vertex 9,0,30,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree6.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+[MeshBuilder]
+Vertex 0,10,28,0,1,0
+Vertex 6,10,22, 0,1,0
+Vertex 6,0,22, 0,1,0
+Vertex 0,0,28,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree5.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+Translate 0,0,8
+
+[MeshBuilder]
+Vertex 6,10,28,0,1,0
+Vertex 0,10,22, 0,1,0
+Vertex 0,0,22, 0,1,0
+Vertex 6,0,28,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree5.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+Translate 0,0,8
+
+[MeshBuilder]
+Vertex 0,10,27,0,1,0
+Vertex 5,10,23, 0,1,0
+Vertex 5,0,23, 0,1,0
+Vertex 0,0,27,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree13.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+Translate 0,0,17
+
+[MeshBuilder]
+Vertex 5,10,27,0,1,0
+Vertex 0,10,23, 0,1,0
+Vertex 0,0,23, 0,1,0
+Vertex 5,0,27,0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+Load tree13.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+Translate 0,0,17

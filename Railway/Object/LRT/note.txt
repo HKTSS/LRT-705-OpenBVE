@@ -1,0 +1,10 @@
+----- Performance - Textures -----
+1. Texture resolution should be in Power of Two (e.g. 256x128, 512x512, 768x256).
+Otherwise there will be a chance that the texture will be scaled up internally, causing high VRAM usage and white texture
+
+2. Do not use any transparency effect within the PNG unless absolutely necessary as this also causes more VRAM usage. (Use color key transparency color instead)
+It is recommended to save images without transparency effect to 24bit color to ensure that transparent pixels aren't used.
+
+3. Use an texture atlas, aka putting two or more images together, then use texture coordinate to map the corresponding part. This decreases lag spikes in general.
+
+4. Do not create another duplicated texture just to darken the texture, use SetColor with a texture loaded instead.

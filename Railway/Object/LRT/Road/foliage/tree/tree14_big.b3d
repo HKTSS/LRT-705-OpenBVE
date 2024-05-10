@@ -1,0 +1,25 @@
+[MeshBuilder]
+Vertex 0.3,10,7,0,1,0
+Vertex 7.0,10,0, 0,1,0
+Vertex 7.0,0,0, 0,1,0
+Vertex 0.3,0,7,0,1,0
+Face2 0,1,2,3
+Load tree14.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+[MeshBuilder]
+Vertex 7,10,7,0,1,0
+Vertex 0,10,0, 0,1,0
+Vertex 0,0,0, 0,1,0
+Vertex 7,0,7,0,1,0
+Face2 0,1,2,3
+Load tree14.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255

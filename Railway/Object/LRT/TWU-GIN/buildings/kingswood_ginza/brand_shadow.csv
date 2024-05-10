@@ -1,0 +1,70 @@
+CreateMeshBuilder,
+AddVertex,-21.8, 12.9, -13.0, 0,1,0
+AddVertex,-23.4, 12.9, -13.4, 0,1,0
+AddVertex,-23.4, 10.4, -13.4, 0,1,0
+AddVertex,-21.8, 10.4, -13.0, 0,1,0
+AddFace,3, 2, 1, 0,
+SetColor, 135,122,102
+LoadTexture,1a.png,
+SetTextureCoordinates,0, 0.24, 0,
+SetTextureCoordinates,1, 0.0, 0,
+SetTextureCoordinates,2, 0.0, 0.27,
+SetTextureCoordinates,3, 0.24, 0.27,
+SetDecalTransparentColor,255,255,255
+
+CreateMeshBuilder,
+AddVertex,-20.6, 12.9, -12.4, 0,1,0
+AddVertex,-21.8, 12.9, -13.0, 0,1,0
+AddVertex,-21.8, 10.4, -13.0, 0,1,0
+AddVertex,-20.6, 10.4, -12.4, 0,1,0
+AddFace,3, 2, 1, 0,
+SetColor, 135,122,102
+LoadTexture,1a.png,
+SetTextureCoordinates,0, 0.39, 0,
+SetTextureCoordinates,1, 0.24, 0,
+SetTextureCoordinates,2, 0.24, 0.27,
+SetTextureCoordinates,3, 0.39, 0.27,
+SetDecalTransparentColor,255,255,255
+
+CreateMeshBuilder,
+AddVertex,-19.3, 12.9, -11.6, 0,1,0
+AddVertex,-20.6, 12.9, -12.4, 0,1,0
+AddVertex,-20.6, 10.4, -12.4, 0,1,0
+AddVertex,-19.3, 10.4, -11.6, 0,1,0
+AddFace,3, 2, 1, 0,
+SetColor, 135,122,102
+LoadTexture,1a.png,
+SetTextureCoordinates,0, 0.57, 0,
+SetTextureCoordinates,1, 0.39, 0,
+SetTextureCoordinates,2, 0.39, 0.27,
+SetTextureCoordinates,3, 0.57, 0.27,
+SetDecalTransparentColor,255,255,255
+
+CreateMeshBuilder,
+AddVertex,-18.3, 12.9, -10.8, 0,1,0
+AddVertex,-19.3, 12.9, -11.6, 0,1,0
+AddVertex,-19.3, 10.4, -11.6, 0,1,0
+AddVertex,-18.3, 10.4, -10.8, 0,1,0
+AddFace,3, 2, 1, 0,
+SetColor, 135,122,102
+LoadTexture,1a.png,
+SetTextureCoordinates,0, 0.71, 0,
+SetTextureCoordinates,1, 0.57, 0,
+SetTextureCoordinates,2, 0.57, 0.27,
+SetTextureCoordinates,3, 0.71, 0.27,
+SetDecalTransparentColor,255,255,255
+
+CreateMeshBuilder,
+AddVertex,-16.35, 12.9, -8.9, 0,1,0
+AddVertex,-18.30, 12.9, -10.8, 0,1,0
+AddVertex,-18.30, 10.4, -10.8, 0,1,0
+AddVertex,-16.35, 10.4, -8.9, 0,1,0
+AddFace,3, 2, 1, 0,
+SetColor, 135,122,102
+LoadTexture,1a.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0.71, 0,
+SetTextureCoordinates,2, 0.71, 0.27,
+SetTextureCoordinates,3, 1, 0.27,
+SetDecalTransparentColor,255,255,255
+TranslateAll,0.2,0,0

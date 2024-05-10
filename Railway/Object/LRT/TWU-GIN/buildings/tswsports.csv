@@ -1,0 +1,2837 @@
+CreateMeshBuilder,
+AddVertex,49.75, -0.2, 4, 0,1,0
+AddVertex,50.05, -0.2, 4, 0,1,0
+AddVertex,51.1, -0.2, -11, 0,1,0
+AddVertex,50.8, -0.2, -11, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 3, 0.15,
+SetTextureCoordinates,1, 3, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.15,
+
+CreateMeshBuilder,
+AddVertex,49.75, -0.8, 4, 0,1,0
+AddVertex,49.75, -0.2, 4, 0,1,0
+AddVertex,50.8, -0.2, -11, 0,1,0
+AddVertex,50.8, -0.8, -11, 0,1,0
+AddVertex,50.5, -0.8, 6, 0,1,0
+AddVertex,50.5, -0.2, 6, 0,1,0
+AddVertex,49.75, -0.2, 4, 0,1,0
+AddVertex,49.75, -0.8, 4, 0,1,0
+AddVertex,52, -0.8, 7.2, 0,1,0
+AddVertex,52, -0.2, 7.2, 0,1,0
+AddVertex,50.5, -0.2, 6, 0,1,0
+AddVertex,50.5, -0.8, 6, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 3, 1,
+SetTextureCoordinates,1, 3, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 0.6, 1,
+SetTextureCoordinates,5, 0.6, 0.15,
+SetTextureCoordinates,6, 0, 0.15,
+SetTextureCoordinates,7, 0, 1,
+SetTextureCoordinates,8, 0.6, 1,
+SetTextureCoordinates,9, 0.6, 0.15,
+SetTextureCoordinates,10, 0, 0.15,
+SetTextureCoordinates,11, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.2, 11, 0,1,0
+AddVertex,48.75, -0.2, 21, 0,1,0
+AddVertex,52, -0.2, 21, 0,1,0
+AddVertex,52, -0.2, 11, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0.495, 1,
+SetTextureCoordinates,2, 0.495, 0,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.8, 21, 0,1,0
+AddVertex,48.75, -0.2, 21, 0,1,0
+AddVertex,48.75, -0.2, 12.5, 0,1,0
+AddVertex,48.75, -0.8, 12.5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2.5, 1,
+SetTextureCoordinates,1, 2.5, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1,
+
+;;front;;
+CreateMeshBuilder,
+AddVertex,48.75, -0.6, 29.5, 0,1,0
+AddVertex,48.75, 0, 29.5, 0,1,0
+AddVertex,48.75, 0, 21, 0,1,0
+AddVertex,48.75, -0.7, 21, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2.5, 1,
+SetTextureCoordinates,1, 2.5, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.2, 21, 0,1,0
+AddVertex,48.75, 0, 21, 0,1,0
+AddVertex,52, 0, 21, 0,1,0
+AddVertex,52, -0.2, 21, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0.5, 1,
+SetTextureCoordinates,1, 0.5, 1,
+SetTextureCoordinates,2, 0.5, 0,
+SetTextureCoordinates,3, 0.5, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48.75, 0, 21, 0,1,0
+AddVertex,48.75, 0, 31, 0,1,0
+AddVertex,52, 0, 31, 0,1,0
+AddVertex,52, 0, 21, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0.497, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 0.497, 0,
+SetDecalTransparentColor,0,0,255
+
+;;front front;;
+CreateMeshBuilder,
+AddVertex,48.75, 0.7, 38, 0,1,0
+AddVertex,48.75, 0.7, 48, 0,1,0
+AddVertex,52, 0.7, 48, 0,1,0
+AddVertex,52, 0.7, 38, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0.497, 1,
+SetTextureCoordinates,2, 0.497, 0,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48.75, 0.7, 48, 0,1,0
+AddVertex,48.75, 0.9, 48, 0,1,0
+AddVertex,52, 0.9, 48, 0,1,0
+AddVertex,52, 0.7, 48, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0.497, 1,
+SetTextureCoordinates,1, 0.500, 1,
+SetTextureCoordinates,2, 0.500, 0,
+SetTextureCoordinates,3, 0.497, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48.75, 0.9, 48, 0,1,0
+AddVertex,48.75, 0.9, 58, 0,1,0
+AddVertex,52, 0.9, 58, 0,1,0
+AddVertex,52, 0.9, 48, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports4.png,
+SetTextureCoordinates,0, 0.497, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 0.497, 0,
+SetDecalTransparentColor,0,0,255
+
+;;back curve;;
+CreateMeshBuilder,
+AddVertex,48.75, -0.7, 39.5, 0,1,0
+AddVertex,48.75, 0.7, 39.5, 0,1,0
+AddVertex,49.25, 0.7, 38.5, 0,1,0
+AddVertex,49.25, -0.7, 38.5, 0,1,0
+AddVertex,49.25, -0.7, 38.5, 0,1,0
+AddVertex,49.25, 0.7, 38.5, 0,1,0
+AddVertex,50, 0.7, 38, 0,1,0
+AddVertex,50, -0.7, 38, 0,1,0
+AddVertex,50, -0.7, 38, 0,1,0
+AddVertex,50, 0.7, 38, 0,1,0
+AddVertex,51, 0.7, 38.1, 0,1,0
+AddVertex,51, -0.7, 38.1, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1b.png,
+SetTextureCoordinates,0, 0.32, 1,
+SetTextureCoordinates,1, 0.32, 0.05,
+SetTextureCoordinates,2, 0, 0.05,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 0.3, 1,
+SetTextureCoordinates,5, 0.3, 0.05,
+SetTextureCoordinates,6, 0, 0.05,
+SetTextureCoordinates,7, 0, 1,
+SetTextureCoordinates,8, 0.35, 1,
+SetTextureCoordinates,9, 0.35, 0.05,
+SetTextureCoordinates,10, 0, 0.05,
+SetTextureCoordinates,11, 0, 1,
+;;
+
+CreateMeshBuilder,
+AddVertex,51, -0.7, 38.1, 0,1,0
+AddVertex,51, 0.7, 38.1, 0,1,0
+AddVertex,52, 0.7, 39.2, 0,1,0
+AddVertex,52, -0.7, 39.2, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1b.png,
+SetTextureCoordinates,0, 0.35, 1,
+SetTextureCoordinates,1, 0.35, 0.05,
+SetTextureCoordinates,2, 0, 0.05,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.7, 48, 0,1,0
+AddVertex,48.75, 0.7, 48, 0,1,0
+AddVertex,48.75, 0.7, 39.5, 0,1,0
+AddVertex,48.75, -0.7, 39.5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1b.png,
+SetTextureCoordinates,0, 2, 1,
+SetTextureCoordinates,1, 2, 0.05,
+SetTextureCoordinates,2, 0, 0.05,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.6, 57, 0,1,0
+AddVertex,48.75, 0.9, 57, 0,1,0
+AddVertex,48.75, 0.9, 48, 0,1,0
+AddVertex,48.75, -0.7, 48, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1b.png,
+SetTextureCoordinates,0, 2, 1,
+SetTextureCoordinates,1, 2, 0.05,
+SetTextureCoordinates,2, 0, 0.05,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.6, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddVertex,48.75, -0.6, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48.75, 1.46, 56.655, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddVertex,52, 1.8, 56.655, 0,1,0
+AddVertex,52, 1.46, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 0.135,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.135,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48.75, 0.31, 57.01, 0,1,0
+AddVertex,48.75, 1.46, 57.01, 0,1,0
+AddVertex,52, 1.46, 57.01, 0,1,0
+AddVertex,52, 0.31, 57.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.69,
+SetTextureCoordinates,2, 0, 0.69,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,52, 1.46, 60.1, 0,1,0
+AddVertex,52, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.46, 60.1, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 0.135,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.135,
+
+CreateMeshBuilder,
+AddVertex,52.0, -0.6, 59.82, 0,1,0
+AddVertex,52.0, 1.46, 59.82, 0,1,0
+AddVertex,48.75,1.46, 59.82, 0,1,0
+AddVertex,48.75,-0.6, 59.82, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.7,
+SetTextureCoordinates,2, 0, 0.7,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+
+CreateMeshBuilder,
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,52, 1.8, 60.1, 0,1,0
+AddVertex,52, 1.8, 56.655, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 1, 0.68,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.68,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,60, 0.1, 0, 0,1,0
+AddVertex,60, 0.1, 36, 0,1,0
+AddVertex,85, 0.1, 36, 0,1,0
+AddVertex,85, 0.1, 0, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports7.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+SetDecalTransparentColor,0,0,255
+
+;;box;;
+CreateMeshBuilder,
+AddVertex,48.75, -0.6, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddVertex,48.75, -0.6, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+translate,0,0.1,6.6
+
+CreateMeshBuilder,
+AddVertex,48.75, 1.46, 56.655, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddVertex,52, 1.8, 56.655, 0,1,0
+AddVertex,52, 1.46, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 0.135,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.135,
+SetDecalTransparentColor,0,0,255
+translate,0,0.1,6.6
+
+CreateMeshBuilder,
+AddVertex,48.75, 0.31, 57.01, 0,1,0
+AddVertex,48.75, 1.46, 57.01, 0,1,0
+AddVertex,52, 1.46, 57.01, 0,1,0
+AddVertex,52, 0.31, 57.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.69,
+SetTextureCoordinates,2, 0, 0.69,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+translate,0,0.1,6.6
+
+CreateMeshBuilder,
+AddVertex,48.75, 0.6, 57.01, 0,1,0
+AddVertex,48.75, 1.46, 57.01, 0,1,0
+AddVertex,52, 1.46, 57.01, 0,1,0
+AddVertex,52, 0.6, 57.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.8,
+SetTextureCoordinates,2, 0, 0.8,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+translate,0,-1.05,6.6
+
+CreateMeshBuilder,
+AddVertex,52, 1.46, 60.1, 0,1,0
+AddVertex,52, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,48.75, 1.46, 60.1, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1c.png,
+SetTextureCoordinates,0, 1, 0.135,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.135,
+translate,0,0.1,6.6
+
+CreateMeshBuilder,
+AddVertex,52.0, -0.6, 59.82, 0,1,0
+AddVertex,52.0, 1.46, 59.82, 0,1,0
+AddVertex,48.75,1.46, 59.82, 0,1,0
+AddVertex,48.75,-0.6, 59.82, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 0.7, 1,
+SetTextureCoordinates,1, 0.7, 0.7,
+SetTextureCoordinates,2, 0, 0.7,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+translate,0,0.1,6.6
+
+CreateMeshBuilder,
+AddVertex,48.75, 1.8, 60.1, 0,1,0
+AddVertex,52, 1.8, 60.1, 0,1,0
+AddVertex,52, 1.8, 56.655, 0,1,0
+AddVertex,48.75, 1.8, 56.655, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1d.png,
+SetTextureCoordinates,0, 0.7, 0.68,
+SetTextureCoordinates,1, 0.7, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 0.68,
+SetDecalTransparentColor,0,0,255
+translate,0,0.1,6.6
+;;
+
+CreateMeshBuilder,
+AddVertex,111, -2.05,28, 0,1,0
+AddVertex,111, 0.28, 76, 0,1,0
+AddVertex,145, -1.9, 76, 0,1,0
+AddVertex,145, -2.7, 28, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 11.5, 8,
+SetTextureCoordinates,1, 0, 8,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 11.5, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,49, -0.75,30, 0,1,0
+AddVertex,50, 0.35, 76, 0,1,0
+AddVertex,111, 0.3, 76, 0,1,0
+AddVertex,111, -1.95, 30, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 11, 16.05,
+SetTextureCoordinates,1, 0, 16,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 11, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,51, -1.05, -11, 0,1,0
+AddVertex,47, -0.65, 32, 0,1,0
+AddVertex,85, -1.5, 32, 0,1,0
+AddVertex,85, -1.7, 3, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 10, 9.7,
+SetTextureCoordinates,1, 0, 10.7,
+SetTextureCoordinates,2, 0, 0.4,
+SetTextureCoordinates,3, 7.1, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,85, -1.7, 3, 0,1,0
+AddVertex,85, -1.5, 32, 0,1,0
+AddVertex,111, -1.9, 32, 0,1,0
+AddVertex,111, -2.5, 3, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 7.1, 6.7,
+SetTextureCoordinates,1, 0, 6.7,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 7.1, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,55, -1.1, -13.5, 0,1,0
+AddVertex,55, -1.1, -6.5, 0,1,0
+AddVertex,85, -1.4, 3, 0,1,0
+AddVertex,85, -1.8, 2.5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 1.5, 7.35,
+SetTextureCoordinates,1, 0.4, 7.35,
+SetTextureCoordinates,2, 0.4, 0,
+SetTextureCoordinates,3, 1.5, 0,
+SetDecalTransparentColor,0,0,255
+
+;;Big island 3D;;
+;Front 3D;
+CreateMeshBuilder,
+AddVertex,85, -0.7, 20.85, 0,1,0
+AddVertex,65.4, -0.7, 1.2, 0,1,0
+AddVertex,65.4, 0.1, 1.2, 0,1,0
+AddVertex,85, 0.1, 20.85, 0,1,0
+AddVertex,65.4, -0.7, 1.2, 0,1,0
+AddVertex,63.6, -0.7, 0.6, 0,1,0
+AddVertex,63.6, 0.1, 0.6, 0,1,0
+AddVertex,65.4, 0.1, 1.2, 0,1,0
+AddVertex,63.6, -0.7, 0.6, 0,1,0
+AddVertex,62.1, -0.7, 0.95, 0,1,0
+AddVertex,62.1, 0.1, 0.95, 0,1,0
+AddVertex,63.6, 0.1, 0.6, 0,1,0
+AddVertex,62.1, -0.7, 0.95, 0,1,0
+AddVertex,61.0, -0.7, 2, 0,1,0
+AddVertex,61.0, 0.1, 2, 0,1,0
+AddVertex,62.1, 0.1, 0.95, 0,1,0
+AddVertex,61.0, -0.7, 2, 0,1,0
+AddVertex,60.3, -0.7, 3.5, 0,1,0
+AddVertex,60.3, 0.1, 3.5, 0,1,0
+AddVertex,61.0, 0.1, 2, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+AddFace,12, 13, 14, 15,
+AddFace,16, 17, 18, 19,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 6, 1,
+SetTextureCoordinates,1, 0.6, 1,
+SetTextureCoordinates,2, 0.6, 0.12,
+SetTextureCoordinates,3, 6, 0.12,
+SetTextureCoordinates,4, 1.6, 1,
+SetTextureCoordinates,5, 1.2, 1,
+SetTextureCoordinates,6, 1.2, 0.12,
+SetTextureCoordinates,7, 1.6, 0.12,
+SetTextureCoordinates,8, 1.2, 1,
+SetTextureCoordinates,9, 0.8, 1,
+SetTextureCoordinates,10, 0.8, 0.12,
+SetTextureCoordinates,11, 1.2, 0.12,
+SetTextureCoordinates,12, 0.8, 1,
+SetTextureCoordinates,13, 0.4, 1,
+SetTextureCoordinates,14, 0.4, 0.12,
+SetTextureCoordinates,15, 0.8, 0.12,
+SetTextureCoordinates,16, 0.4, 1,
+SetTextureCoordinates,17, 0, 1,
+SetTextureCoordinates,18, 0, 0.12,
+SetTextureCoordinates,19, 0.4, 0.12,
+
+;Mid 3D;
+CreateMeshBuilder,
+AddVertex,60.3, -0.7, 3.5, 0,1,0
+AddVertex,61.6, -0.7, 20, 0,1,0
+AddVertex,61.6, 0.1, 20, 0,1,0
+AddVertex,60.3, 0.1, 3.5, 0,1,0
+AddVertex,61.6, -0.7, 20, 0,1,0
+AddVertex,66.45, -0.7, 31.2, 0,1,0
+AddVertex,66.45, 0.1, 31.2, 0,1,0
+AddVertex,61.6, 0.1, 20, 0,1,0
+AddVertex,66.45, -0.7, 31.2, 0,1,0
+AddVertex,67.65, -0.7, 32.8, 0,1,0
+AddVertex,67.65, 0.1, 32.8, 0,1,0
+AddVertex,66.45, 0.1, 31.2, 0,1,0
+AddVertex,67.65, -0.7, 32.8, 0,1,0
+AddVertex,71.3, -0.7, 35.3, 0,1,0
+AddVertex,71.3, 0.1, 35.3, 0,1,0
+AddVertex,67.65, 0.1, 32.8, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+AddFace,12, 13, 14, 15,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 3.5, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0.12,
+SetTextureCoordinates,3, 3.5, 0.12,
+SetTextureCoordinates,4, 3, 1,
+SetTextureCoordinates,5, 0, 1,
+SetTextureCoordinates,6, 0, 0.12,
+SetTextureCoordinates,7, 3, 0.12,
+SetTextureCoordinates,8, 0.6, 1,
+SetTextureCoordinates,9, 0, 1,
+SetTextureCoordinates,10, 0, 0.12,
+SetTextureCoordinates,11, 0.6, 0.12,
+SetTextureCoordinates,12, 1.3, 1,
+SetTextureCoordinates,13, 0, 1,
+SetTextureCoordinates,14, 0, 0.12,
+SetTextureCoordinates,15, 1.3, 0.12,
+
+;Back 3D;
+CreateMeshBuilder,
+AddVertex,71.3, -0.7, 35.3, 0,1,0
+AddVertex,72.7, -0.7, 35.9, 0,1,0
+AddVertex,72.7, 0.1, 35.9, 0,1,0
+AddVertex,71.3, 0.1, 35.3, 0,1,0
+AddVertex,72.7, -0.7, 35.9, 0,1,0
+AddVertex,74.1, -0.7, 35.4, 0,1,0
+AddVertex,74.1, 0.1, 35.4, 0,1,0
+AddVertex,72.7, 0.1, 35.9, 0,1,0
+AddVertex,74.1, -0.7, 35.4, 0,1,0
+AddVertex,85, -0.7, 22.2, 0,1,0
+AddVertex,85, 0.1, 22.2, 0,1,0
+AddVertex,74.1, 0.1, 35.4, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.5, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0.12,
+SetTextureCoordinates,3, 0.5, 0.12,
+SetTextureCoordinates,4, 0.5, 1,
+SetTextureCoordinates,5, 0, 1,
+SetTextureCoordinates,6, 0, 0.12,
+SetTextureCoordinates,7, 0.5, 0.12,
+SetTextureCoordinates,8, 5, 1,
+SetTextureCoordinates,9, 0, 1,
+SetTextureCoordinates,10, 0, 0.12,
+SetTextureCoordinates,11, 5, 0.12,
+
+;TREE;
+CreateMeshBuilder,
+AddVertex,65.3, 0.1, 16, 0,1,0
+AddVertex,75.6, 0.1, 23, 0,1,0
+AddVertex,75.6, 9, 23, 0,1,0
+AddVertex,65.3, 9, 16, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports9.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,74.5, 0.1, 14.5, 0,1,0
+AddVertex,67.5, 0.1, 23.5, 0,1,0
+AddVertex,67.5, 9, 23.5, 0,1,0
+AddVertex,74.5, 9, 14.5, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports9.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 0.1, 1,
+SetTextureCoordinates,2, 0.1, 0,
+SetTextureCoordinates,3, 1, 0,
+SetDecalTransparentColor,0,0,255
+;;
+
+CreateMeshBuilder,
+AddVertex,69, 0.2, 34, 0,1,0
+AddVertex,69, 0.4, 61, 0,1,0
+AddVertex,82, 0.4, 61, 0,1,0
+AddVertex,82, 0.2, 34, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports3.png,
+SetTextureCoordinates,0, 0.753, 1,
+SetTextureCoordinates,1, 0.5, 1,
+SetTextureCoordinates,2, 0.5, 0.5,
+SetTextureCoordinates,3, 0.75, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,72.4, 0.2, 40.7, 0,1,0
+AddVertex,69.4, 0.5, 57, 0,1,0
+AddVertex,69.4, -0.2, 57, 0,1,0
+AddVertex,72.4, -0.5, 40.7, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 3, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 3, 0,
+
+CreateMeshBuilder,
+AddVertex,80.4, 0.2, 34.3, 0,1,0
+AddVertex,72.4, 0.2, 40.7, 0,1,0
+AddVertex,72.4, -0.5, 40.7, 0,1,0
+AddVertex,80.4, -0.7, 34.3, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 2, 0,
+
+CreateMeshBuilder,
+AddVertex,81.4, 0.2, 34.5, 0,1,0
+AddVertex,80.4, 0.2, 34.3, 0,1,0
+AddVertex,80.4, -0.7, 34.3, 0,1,0
+AddVertex,81.4, -0.7, 34.5, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.2, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0.2, 0,
+
+CreateMeshBuilder,
+AddVertex,81.8, 0.2, 35.7, 0,1,0
+AddVertex,81.4, 0.2, 34.5, 0,1,0
+AddVertex,81.4, -0.7, 34.5, 0,1,0
+AddVertex,81.8, -0.7, 35.7, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.2, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0.2, 0,
+
+CreateMeshBuilder,
+AddVertex,81, 0.2, 41, 0,1,0
+AddVertex,81.8, 0.2, 35.7, 0,1,0
+AddVertex,81.8, -0.7, 35.7, 0,1,0
+AddVertex,81, -0.6, 41, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,80.6, 0.2, 44, 0,1,0
+AddVertex,81, 0.2, 41, 0,1,0
+AddVertex,81, -0.6, 41, 0,1,0
+AddVertex,80.6, -0.6, 44, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,80.9, 0.3, 50, 0,1,0
+AddVertex,80.6, 0.2, 44, 0,1,0
+AddVertex,80.6, -0.6, 44, 0,1,0
+AddVertex,80.9, -0.3, 50, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,80, 0.3, 57, 0,1,0
+AddVertex,80.9, 0.3, 50, 0,1,0
+AddVertex,80.9, -0.3, 50, 0,1,0
+AddVertex,80, -0.3, 57, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,78.5, 0.4, 58.5, 0,1,0
+AddVertex,80, 0.3, 57, 0,1,0
+AddVertex,80, -0.3, 57, 0,1,0
+AddVertex,78.5, -0.3, 58.5, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,76, 0.4, 60, 0,1,0
+AddVertex,78.5, 0.4, 58.5, 0,1,0
+AddVertex,78.5, -0.3, 58.5, 0,1,0
+AddVertex,76, -0.3, 60, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,74, 0.4, 60.4, 0,1,0
+AddVertex,76, 0.4, 60, 0,1,0
+AddVertex,76, -0.3, 60, 0,1,0
+AddVertex,74, -0.3, 60.4, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,71, 0.4, 60.4, 0,1,0
+AddVertex,74, 0.4, 60.4, 0,1,0
+AddVertex,74, -0.3, 60.4, 0,1,0
+AddVertex,71, -0.3, 60.4, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+CreateMeshBuilder,
+AddVertex,69.4, 0.5, 57, 0,1,0
+AddVertex,71, 0.4, 60.4, 0,1,0
+AddVertex,71, -0.2, 60.4, 0,1,0
+AddVertex,69.4, -0.2, 57, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1, 0.85,
+SetTextureCoordinates,1, 0, 0.85,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+
+;;Right;;
+CreateMeshBuilder,
+AddVertex,56, 0.2, 40, 0,1,0
+AddVertex,56, 0.2, 56, 0,1,0
+AddVertex,63, 0.2, 56, 0,1,0
+AddVertex,63, 0.2, 40, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports6.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,56, -0.6, 40.4, 0,1,0
+AddVertex,56, -0.6, 56, 0,1,0
+AddVertex,56, 0.2, 56, 0,1,0
+AddVertex,56, 0.2, 40.4, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 2.5, 1,
+SetTextureCoordinates,2, 2.5, 0.15,
+SetTextureCoordinates,3, 0, 0.15,
+
+;;stairs;;
+CreateMeshBuilder,
+AddVertex,48.75, -0.6, 63.6, 0,1,0
+AddVertex,48.75, -0.35, 63.6, 0,1,0
+AddVertex,48.75, -0.35, 59.84 0,1,0
+AddVertex,48.75, -0.6, 59.84, 0,1,0
+AddVertex,48.75, -0.35, 63.6, 0,1,0
+AddVertex,49, -0.35, 63.6, 0,1,0
+AddVertex,49, -0.35, 59.84, 0,1,0
+AddVertex,48.75, -0.35, 59.84, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+LoadTexture,tswsports1e.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.3,
+SetTextureCoordinates,2, 0, 0.3,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 1, 0.3,
+SetTextureCoordinates,5, 1, 0,
+SetTextureCoordinates,6, 0, 0,
+SetTextureCoordinates,7, 0, 0.3,
+
+CreateMeshBuilder,
+AddVertex,49, -0.35, 63.6, 0,1,0
+AddVertex,49, -0.1, 63.6, 0,1,0
+AddVertex,49, -0.1, 59.84, 0,1,0
+AddVertex,49, -0.35, 59.84, 0,1,0
+AddVertex,49, -0.1, 63.6, 0,1,0
+AddVertex,49.25, -0.1, 63.6, 0,1,0
+AddVertex,49.25, -0.1, 59.84, 0,1,0
+AddVertex,49, -0.1, 59.84, 0,1,0
+AddVertex,49.25, -0.1, 63.6, 0,1,0
+AddVertex,49.25, 0.15, 63.6, 0,1,0
+AddVertex,49.25, 0.15, 59.84, 0,1,0
+AddVertex,49.25, -0.1, 59.84, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1e.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.3,
+SetTextureCoordinates,2, 0, 0.3,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 1, 0.3,
+SetTextureCoordinates,5, 1, 0,
+SetTextureCoordinates,6, 0, 0,
+SetTextureCoordinates,7, 0, 0.3,
+SetTextureCoordinates,8, 1, 1,
+SetTextureCoordinates,9, 1, 0.3,
+SetTextureCoordinates,10, 0, 0.3,
+SetTextureCoordinates,11, 0, 1,
+
+;;
+
+;front curve;
+CreateMeshBuilder,
+AddVertex,56, -0.6, 56, 0,1,0
+AddVertex,58.5, -0.6, 56, 0,1,0
+AddVertex,58.5, 0.2, 56, 0,1,0
+AddVertex,56, 0.2, 56, 0,1,0
+AddVertex,58.5, -0.6, 56, 0,1,0
+AddVertex,60.5, -0.6, 54.9, 0,1,0
+AddVertex,60.5, 0.2, 54.9, 0,1,0
+AddVertex,58.5, 0.2, 56, 0,1,0
+AddVertex,60.5, -0.6, 54.9, 0,1,0
+AddVertex,62, -0.6, 52.1, 0,1,0
+AddVertex,62, 0.2, 52.1, 0,1,0
+AddVertex,60.5, 0.2, 54.9, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0.45, 1,
+SetTextureCoordinates,2, 0.45, 0.15,
+SetTextureCoordinates,3, 0, 0.15,
+SetTextureCoordinates,4, 0, 1,
+SetTextureCoordinates,5, 0.45, 1,
+SetTextureCoordinates,6, 0.45, 0.15,
+SetTextureCoordinates,7, 0, 0.15,
+SetTextureCoordinates,8, 0, 1,
+SetTextureCoordinates,9, 0.45, 1,
+SetTextureCoordinates,10, 0.45, 0.15,
+SetTextureCoordinates,11, 0, 0.15,
+
+;back curve;
+
+CreateMeshBuilder,
+AddVertex,58, -0.6, 40.0, 0,1,0
+AddVertex,56, -0.6, 40.4, 0,1,0
+AddVertex,56, 0.2, 40.4, 0,1,0
+AddVertex,58, 0.2, 40.0, 0,1,0
+AddVertex,55, -0.6, 40.3, 0,1,0
+AddVertex,58, -0.6, 40.0, 0,1,0
+AddVertex,58, 0.2, 40.0, 0,1,0
+AddVertex,55, 0.2, 40.3, 0,1,0
+
+AddVertex,60.5, -0.6, 40.7, 0,1,0
+AddVertex,58, -0.6, 40, 0,1,0
+AddVertex,58, 0.2, 40, 0,1,0
+AddVertex,60.5, 0.2, 40.7, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0.45, 1,
+SetTextureCoordinates,2, 0.45, 0.15,
+SetTextureCoordinates,3, 0, 0.15,
+SetTextureCoordinates,4, 0, 1,
+SetTextureCoordinates,5, 0.45, 1,
+SetTextureCoordinates,6, 0.45, 0.15,
+SetTextureCoordinates,7, 0, 0.15,
+SetTextureCoordinates,8, 0, 1,
+SetTextureCoordinates,9, 0.45, 1,
+SetTextureCoordinates,10, 0.45, 0.15,
+SetTextureCoordinates,11, 0, 0.15,
+
+CreateMeshBuilder,
+AddVertex,48.75, -0.8, 12.5, 0,1,0
+AddVertex,48.75, -0.2, 12.5, 0,1,0
+AddVertex,49.3, -0.2, 11.3, 0,1,0
+AddVertex,49.3, -0.8, 11.3, 0,1,0
+AddVertex,49.3, -0.8, 11.3, 0,1,0
+AddVertex,49.3, -0.2, 11.3, 0,1,0
+AddVertex,50.5, -0.2, 10.95, 0,1,0
+AddVertex,50.5, -0.8, 10.95, 0,1,0
+AddVertex,50.5, -0.8, 10.95, 0,1,0
+AddVertex,50.5, -0.2, 10.95, 0,1,0
+AddVertex,51.5, -0.2, 11.5, 0,1,0
+AddVertex,51.5, -0.8, 11.5, 0,1,0
+AddVertex,51.5, -0.8, 11.5, 0,1,0
+AddVertex,51.5, -0.2, 11.5, 0,1,0
+AddVertex,52, -0.2, 12.5, 0,1,0
+AddVertex,52, -0.8, 12.5, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+AddFace,12, 13, 14, 15,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.4, 1,
+SetTextureCoordinates,1, 0.4, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 0.5, 1,
+SetTextureCoordinates,5, 0.5, 0.15,
+SetTextureCoordinates,6, 0, 0.15,
+SetTextureCoordinates,7, 0, 1,
+SetTextureCoordinates,8, 0.5, 1,
+SetTextureCoordinates,9, 0.5, 0.15,
+SetTextureCoordinates,10, 0, 0.15,
+SetTextureCoordinates,11, 0, 1,
+SetTextureCoordinates,12, 0.5, 1,
+SetTextureCoordinates,13, 0.5, 0.15,
+SetTextureCoordinates,14, 0, 0.15,
+SetTextureCoordinates,15, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,49.6, -0.21, 7, 0,1,0
+AddVertex,65.8, -0.21, 7, 0,1,0
+AddVertex,65.8, -0.21, -14, 0,1,0
+AddVertex,51.4, -0.21, -16, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports3.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0.5, 0,
+SetTextureCoordinates,3, 0.5, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,67, -0.4, -4.5, 0,1,0
+AddVertex,93.5,-0.9, 15, 0,1,0
+AddVertex,96, -0.9, 11, 0,1,0
+AddVertex,69, -0.4, -8.5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports5.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,69.3, -0.45, -7.25, 0,1,0
+AddVertex,72, -0.45, -6.1, 0,1,0
+AddVertex,72, -1.25, -6.1, 0,1,0
+AddVertex,69.3, -1.25, -7.25, 0,1,0
+
+AddVertex,68.5, -0.45, -7, 0,1,0
+AddVertex,69.3, -0.45, -7.25, 0,1,0
+AddVertex,69.3, -1.25, -7.25, 0,1,0
+AddVertex,68.5, -1.25, -7, 0,1,0
+
+AddVertex,67.9, -0.45, -6, 0,1,0
+AddVertex,68.5, -0.45, -7, 0,1,0
+AddVertex,68.5, -1.25, -7, 0,1,0
+AddVertex,67.9, -1.25, -6, 0,1,0
+
+AddVertex,68.2, -0.45, -4.5, 0,1,0
+AddVertex,67.9, -0.45, -6, 0,1,0
+AddVertex,67.9, -1.25, -6, 0,1,0
+AddVertex,68.2, -1.25, -4.5, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+AddFace,12, 13, 14, 15,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 0.7, 0,
+SetTextureCoordinates,2, 0.7, 1,
+SetTextureCoordinates,3, 0, 1,
+SetTextureCoordinates,4, 0, 0,
+SetTextureCoordinates,5, 0.2, 0,
+SetTextureCoordinates,6, 0.2, 1,
+SetTextureCoordinates,7, 0, 1,
+SetTextureCoordinates,8, 0, 0,
+SetTextureCoordinates,9, 0.2, 0,
+SetTextureCoordinates,10, 0.2, 1,
+SetTextureCoordinates,11, 0, 1,
+SetTextureCoordinates,12, 0, 0,
+SetTextureCoordinates,13, 0.4, 0,
+SetTextureCoordinates,14, 0.4, 1,
+SetTextureCoordinates,15, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,72, -0.45, -6.1, 0,1,0
+AddVertex,85, -0.75, 3.1, 0,1,0
+AddVertex,85, -1.6, 3.1, 0,1,0
+AddVertex,72, -1.25, -6.1, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 3, 0,
+SetTextureCoordinates,2, 3, 1,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,85, -0.75, 3.1, 0,1,0
+AddVertex,94, -0.9, 10.3, 0,1,0
+AddVertex,94, -1.75, 10.3, 0,1,0
+AddVertex,85, -1.6, 3.1, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+
+CreateMeshBuilder,
+;;Sports Sign 3D;;
+AddVertex,54, -0.2, -12.5, 0,1,0
+AddVertex,54.05, -0.2, -12.42, 0,1,0
+AddVertex,54.05, 0.8, -12.42, 0,1,0
+AddVertex,54, 0.8, -12.5, 0,1,0
+AddVertex,54, 0.8, -12.5, 0,1,0
+AddVertex,54.05, 0.8, -12.42, 0,1,0
+AddVertex,56.05, 0.8, -13.62, 0,1,0
+AddVertex,56, 0.8, -13.7, 0,1,0
+AddVertex,56.05, -0.2, -13.62, 0,1,0
+AddVertex,56.00, -0.2, -13.7, 0,1,0
+AddVertex,56.00, 0.8, -13.7, 0,1,0
+AddVertex,56.05, 0.8, -13.62, 0,1,0
+;;Sports Sign;;
+AddVertex,56, -0.2, -13.7, 0,1,0
+AddVertex,54, -0.2, -12.5, 0,1,0
+AddVertex,54, 0.8, -12.5, 0,1,0
+AddVertex,56, 0.8, -13.7, 0,1,0
+AddVertex,56.05, -0.2, -13.62, 0,1,0
+AddVertex,54.05, -0.2, -12.42, 0,1,0
+AddVertex,54.05, 0.8, -12.42, 0,1,0
+AddVertex,56.05, 0.8, -13.62, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+AddFace,12, 13, 14, 15,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports2.png,
+SetTextureCoordinates,0, 0.05, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0.06,
+SetTextureCoordinates,3, 0.05, 0.06,
+SetTextureCoordinates,4, 0.96, 0,
+SetTextureCoordinates,5, 0.96, 0.06,
+SetTextureCoordinates,6, 0.05, 0.06,
+SetTextureCoordinates,7, 0.05, 0,
+SetTextureCoordinates,8, 1, 1,
+SetTextureCoordinates,9, 0.96, 1,
+SetTextureCoordinates,10, 0.96, 0.06,
+SetTextureCoordinates,11, 1, 0.06,
+SetTextureCoordinates,12, 0.96, 1,
+SetTextureCoordinates,13, 0.05, 1,
+SetTextureCoordinates,14, 0.05, 0.06,
+SetTextureCoordinates,15, 0.96, 0.06,
+SetTextureCoordinates,16, 0.05, 1,
+SetTextureCoordinates,17, 0.05, 1,
+SetTextureCoordinates,18, 0.05, 0.06,
+SetTextureCoordinates,19, 0.05, 0.06,
+;;
+
+CreateMeshBuilder,
+AddVertex,50.8, -0.2, -11, 0,1,0
+AddVertex,51.1, -0.197, -10.9, 0,1,0
+AddVertex,57.23, -0.2, -14.91, 0,1,0
+AddVertex,57, -0.2, -15, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2, 0.15,
+SetTextureCoordinates,1, 1.95, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0.04, 0.15,
+
+CreateMeshBuilder,
+AddVertex,50.8, -0.8, -11, 0,1,0
+AddVertex,50.8, -0.2, -11, 0,1,0
+AddVertex,57, -0.2, -15, 0,1,0
+AddVertex,57, -0.8, -15, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2, 1,
+SetTextureCoordinates,1, 2, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1,
+
+;;
+
+CreateMeshBuilder,
+AddVertex,57, -0.8, -15, 0,1,0
+AddVertex,57, -0.2, -15, 0,1,0
+AddVertex,65, -0.2, -11, 0,1,0
+AddVertex,65, -1.05, -11, 0,1,0
+AddVertex,65, -1.05, -11, 0,1,0
+AddVertex,65, -0.2, -11, 0,1,0
+AddVertex,65.8, -0.2, -10.5, 0,1,0
+AddVertex,65.8, -1.05, -10.5, 0,1,0
+AddVertex,65.8, -1.05, -10.5, 0,1,0
+AddVertex,65.8, -0.2, -10.5, 0,1,0
+AddVertex,65.8, -0.2, -9, 0,1,0
+AddVertex,65.8, -1.05, -9, 0,1,0
+AddFace,0, 1, 2, 3,
+AddFace,4, 5, 6, 7,
+AddFace,8, 9, 10, 11,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 2, 1,
+SetTextureCoordinates,1, 2, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1.0,
+SetTextureCoordinates,4, 0.25, 1,
+SetTextureCoordinates,5, 0.25, 0.15,
+SetTextureCoordinates,6, 0, 0.15,
+SetTextureCoordinates,7, 0, 1.0,
+SetTextureCoordinates,8, 0.4, 1,
+SetTextureCoordinates,9, 0.4, 0.15,
+SetTextureCoordinates,10, 0, 0.15,
+SetTextureCoordinates,11, 0, 1.0,
+
+CreateMeshBuilder,
+AddVertex,65.5, -1.05, -8.2, 0,1,0
+AddVertex,65.5, -0.2, -8.2, 0,1,0
+AddVertex,63.8, -0.2, -7.46, 0,1,0
+AddVertex,63.8, -1.05, -7.46, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.35, 1,
+SetTextureCoordinates,1, 0.35, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1.0,
+
+CreateMeshBuilder,
+AddVertex,63.8, -1.05, -7.46,
+AddVertex,63.8, -0.2, -7.46, 0,1,0
+AddVertex,57.8, -0.2, -7.46, 0,1,0
+AddVertex,57.8, -1.05, -7.46, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.9, 1,
+SetTextureCoordinates,1, 0.9, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1.0,
+
+CreateMeshBuilder,
+AddVertex,57.8, -1.05, -7.46, 0,1,0
+AddVertex,57.8, -0.21, -7.46, 0,1,0
+AddVertex,55.5, -0.21, -5, 0,1,0
+AddVertex,55.5, -1.05, -5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 0.5, 1,
+SetTextureCoordinates,1, 0.5, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1.0,
+
+CreateMeshBuilder,
+AddVertex,55.5, -1.05, -5, 0,1,0
+AddVertex,55.5, -0.21, -5, 0,1,0
+AddVertex,55.5, -0.21, 5, 0,1,0
+AddVertex,55.5, -1.05, 5, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports1.png,
+SetTextureCoordinates,0, 1.5, 1,
+SetTextureCoordinates,1, 1.5, 0.15,
+SetTextureCoordinates,2, 0, 0.15,
+SetTextureCoordinates,3, 0, 1.0,
+
+;;building part;;
+CreateMeshBuilder,
+AddVertex,55, 0.31, 75.01, 0,1,0
+AddVertex,55, 15, 75.01, 0,1,0
+AddVertex,105, 15, 75.01, 0,1,0
+AddVertex,105, 0.31, 75.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.21,
+SetTextureCoordinates,2, 6, 0.21,
+SetTextureCoordinates,3, 6, 1,
+
+CreateMeshBuilder,
+AddVertex,55, 0.31, 140.01, 0,1,0
+AddVertex,55, 15, 140.01, 0,1,0
+AddVertex,55, 15, 75.01, 0,1,0
+AddVertex,55, 0.31, 75.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.21,
+SetTextureCoordinates,2, 7, 0.21,
+SetTextureCoordinates,3, 7, 1,
+
+CreateMeshBuilder,
+AddVertex,55, 0.31, 147.5, 0,1,0
+AddVertex,55, 20, 147.5, 0,1,0
+AddVertex,55, 20, 140.01, 0,1,0
+AddVertex,55, 0.31, 140.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building3.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0.35, 0,
+SetTextureCoordinates,3, 0.35, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,55, 0.31, 146.5, 0,1,0
+AddVertex,55, 8, 146.5, 0,1,0
+AddVertex,51, 8, 146.5, 0,1,0
+AddVertex,51, 0.31, 146.5, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.5,
+SetTextureCoordinates,2, 0.85, 0.5,
+SetTextureCoordinates,3, 0.85, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,55, 0.31, 153, 0,1,0
+AddVertex,55, 8, 153, 0,1,0
+AddVertex,51, 8, 153, 0,1,0
+AddVertex,51, 0.31, 153, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 0.95, 1,
+SetTextureCoordinates,1, 0.95, 0.5,
+SetTextureCoordinates,2, 1, 0.5,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,55, 12.35, 146.5, 0,1,0
+AddVertex,55, 20, 146.5, 0,1,0
+AddVertex,51, 20, 146.5, 0,1,0
+AddVertex,51, 12.35, 146.5, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 0.92, 0.45,
+SetTextureCoordinates,1, 0.92, 0,
+SetTextureCoordinates,2, 0.65, 0,
+SetTextureCoordinates,3, 0.65, 0.45,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,51, 12.35, 146.5, 0,1,0
+AddVertex,51, 20, 146.5, 0,1,0
+AddVertex,51, 20, 153, 0,1,0
+AddVertex,51, 12.35, 153, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 0.65, 0.45,
+SetTextureCoordinates,1, 0.65, 0,
+SetTextureCoordinates,2, 0.40, 0,
+SetTextureCoordinates,3, 0.40, 0.45,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,51, 12.35, 153, 0,1,0
+AddVertex,51, 20, 153, 0,1,0
+AddVertex,55, 20, 153, 0,1,0
+AddVertex,55, 12.35, 153, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 0.40, 0.45,
+SetTextureCoordinates,1, 0.40, 0,
+SetTextureCoordinates,2, 0.20, 0,
+SetTextureCoordinates,3, 0.20, 0.45,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,51, 0.31, 146.5, 0,1,0
+AddVertex,51, 8, 146.5, 0,1,0
+AddVertex,51, 8, 153, 0,1,0
+AddVertex,51, 0.31, 153, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building4.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0.5,
+SetTextureCoordinates,2, 0.65, 0.5,
+SetTextureCoordinates,3, 0.65, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,55, 0.31, 140.01, 0,1,0
+AddVertex,55, 20, 140.01, 0,1,0
+AddVertex,75, 20, 140.01, 0,1,0
+AddVertex,75, 0.31, 140.01, 0,1,0
+AddFace2,0, 1, 2, 3,
+LoadTexture,tswsports_building3.png,
+SetTextureCoordinates,0, 0.35, 1,
+SetTextureCoordinates,1, 0.35, 0,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,54.9, 12.1, 113.5, 0,1,0
+AddVertex,54.9, 14.85, 113.5, 0,1,0
+AddVertex,54.9, 14.85, 101.7, 0,1,0
+AddVertex,54.9, 12.1, 101.7, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building2.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;bottom grass;;
+CreateMeshBuilder,
+AddVertex,57, 0.31, 73.01, 0,1,0
+AddVertex,57, 1.2, 73.01, 0,1,0
+AddVertex,57, 1.2, 75.01, 0,1,0
+AddVertex,57, 0.31, 75.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture, ..\..\Road\roadside3c.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.21,
+SetTextureCoordinates,2, 0.5, 0.21,
+SetTextureCoordinates,3, 0.5, 1,
+
+CreateMeshBuilder,
+AddVertex,52.5, 0.31, 73.01, 0,1,0
+AddVertex,52.5, 1.2, 73.01, 0,1,0
+AddVertex,57, 1.2, 73.01, 0,1,0
+AddVertex,57, 0.31, 73.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture, ..\..\Road\roadside3c.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.21,
+SetTextureCoordinates,2, 1.4, 0.21,
+SetTextureCoordinates,3, 1.4, 1,
+
+CreateMeshBuilder,
+AddVertex,52.5, 0.31, 130.01, 0,1,0
+AddVertex,52.5, 1.2, 130.01, 0,1,0
+AddVertex,52.5, 1.2, 73.01, 0,1,0
+AddVertex,52.5, 0.31, 73.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture, ..\..\Road\roadside3c.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.21,
+SetTextureCoordinates,2, 14, 0.21,
+SetTextureCoordinates,3, 14, 1,
+
+CreateMeshBuilder,
+AddVertex,52.5, 1.2, 130.01, 0,1,0
+AddVertex,52.8, 1.2, 130.01, 0,1,0
+AddVertex,52.8, 1.2, 73.01, 0,1,0
+AddVertex,52.5, 1.2, 73.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture, ..\..\Road\roadside3c.png,
+SetTextureCoordinates,0, 0, 0.21,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 14, 0,
+SetTextureCoordinates,3, 14, 0.21,
+
+CreateMeshBuilder,
+AddVertex,52.8, 1.2, 130.01, 0,1,0
+AddVertex,57, 1.2, 130.01, 0,1,0
+AddVertex,57, 1.2, 73.01, 0,1,0
+AddVertex,52.8, 1.2, 73.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture, ..\..\Road\foliage\grass\top1.png,
+SetTextureCoordinates,0, 0, 0.9,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 9, 0,
+SetTextureCoordinates,3, 9, 0.9,
+
+;;
+;;blue top;;
+CreateMeshBuilder,
+AddVertex,57.5, 17.3, 137.91, 0,1,0
+AddVertex,103.5, 17.3, 137.91, 0,1,0
+AddVertex,103.5, 17.3, 77.1, 0,1,0
+AddVertex,57.5, 17.3, 77.1, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 0, 0.09,
+SetTextureCoordinates,1, 0, 0.01,
+SetTextureCoordinates,2, 1, 0.01,
+SetTextureCoordinates,3, 1, 0.09,
+
+;;orange top;;
+;set 1;
+CreateMeshBuilder,
+AddVertex,55, 14.6, 140.01, 0,1,0
+AddVertex,57.5, 17.3, 137.91, 0,1,0
+AddVertex,57.5, 17.3, 77.1, 0,1,0
+AddVertex,55, 14.6, 75, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 0.9, 0.21,
+SetTextureCoordinates,1, 1, 0.1,
+SetTextureCoordinates,2, 5, 0.1,
+SetTextureCoordinates,3, 5.15, 0.21,
+
+;set 1 other side;
+CreateMeshBuilder,
+AddVertex,105, 14.8, 140.01, 0,1,0
+AddVertex,103.5, 17.3, 138.11, 0,1,0
+AddVertex,103.5, 17.3, 77.1, 0,1,0
+AddVertex,105, 14.6, 75.01, 0,1,0
+AddFace, 3, 2, 1, 0
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 0.9, 0.21,
+SetTextureCoordinates,1, 1, 0.1,
+SetTextureCoordinates,2, 5, 0.1,
+SetTextureCoordinates,3, 5.15, 0.21,
+
+;set 2;
+CreateMeshBuilder,
+AddVertex,57.5, 17.3, 77.1, 0,1,0
+AddVertex,103.5, 17.3, 77.1, 0,1,0
+AddVertex,105, 14.6, 75.01, 0,1,0
+AddVertex,55, 14.6, 75.01, 0,1,0
+AddFace,0, 1, 2, 3,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 5, 0.1,
+SetTextureCoordinates,1, 1.22, 0.1,
+SetTextureCoordinates,2, 1, 0.21,
+SetTextureCoordinates,3, 5.2, 0.21,
+
+;set 2 other side;
+
+CreateMeshBuilder,
+AddVertex,57.5, 17.3, 137.91, 0,1,0
+AddVertex,103.5, 17.3, 137.91, 0,1,0
+AddVertex,105, 14.6, 140, 0,1,0
+AddVertex,55, 14.6, 140, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building1.png,
+SetTextureCoordinates,0, 5, 0.1,
+SetTextureCoordinates,1, 1.22, 0.1,
+SetTextureCoordinates,2, 1, 0.21,
+SetTextureCoordinates,3, 5.2, 0.21,
+
+CreateMeshBuilder,
+Cylinder, 18,19,19,9
+LoadTexture,tswsports12.png,
+SetTextureCoordinates,0,0,0
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,1,0
+SetTextureCoordinates,3,1,1
+SetTextureCoordinates,4,0,0
+SetTextureCoordinates,5,0,1
+SetTextureCoordinates,6,1,0
+SetTextureCoordinates,7,1,1
+SetTextureCoordinates,8,0,0
+SetTextureCoordinates,9,0,1
+SetTextureCoordinates,10,1,0
+SetTextureCoordinates,11,1,1
+SetTextureCoordinates,12,0,0
+SetTextureCoordinates,13,0,1
+SetTextureCoordinates,14,1,0
+SetTextureCoordinates,15,1,1
+SetTextureCoordinates,16,0,0
+SetTextureCoordinates,17,0,1
+SetTextureCoordinates,18,1,0
+SetTextureCoordinates,19,1,1
+SetTextureCoordinates,20,0,0
+SetTextureCoordinates,21,0,1
+SetTextureCoordinates,22,1,0
+SetTextureCoordinates,23,1,1
+SetTextureCoordinates,24,0,0
+SetTextureCoordinates,25,0,1
+SetTextureCoordinates,26,1,0
+SetTextureCoordinates,27,1,1
+SetTextureCoordinates,28,0,0
+SetTextureCoordinates,29,0,1
+SetTextureCoordinates,30,1,0
+SetTextureCoordinates,31,1,1
+SetTextureCoordinates,32,0,0
+SetTextureCoordinates,33,0,1
+SetTextureCoordinates,34,1,0
+SetTextureCoordinates,35,1,1
+Translate,105,4,75
+
+CreateMeshBuilder,
+AddVertex,55, 20, 153, 0,1,0
+AddVertex,86, 20, 153, 0,1,0
+AddVertex,86, 0, 153, 0,1,0
+AddVertex,55, 0, 153, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building5.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,48, 0, 153, 0,1,0
+AddVertex,105, 0.31, 153, 0,1,0
+AddVertex,105, 0.31, 216, 0,1,0
+AddVertex,48, 0, 216, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports1f.png,
+SetTextureCoordinates,0, 16, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 14,
+SetTextureCoordinates,3, 16, 14,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,73, 0.2, 153, 0,1,0
+AddVertex,83, 0.25, 153, 0,1,0
+AddVertex,83, 0.25, 216, 0,1,0
+AddVertex,73, 0.2, 216, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture, ..\..\Shared_Assets\gradient.png
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 0, 0.5,
+SetTextureCoordinates,2, 1, 0.5,
+SetTextureCoordinates,3, 1, 0,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,83, 0.25, 153, 0,1,0
+AddVertex,105, 0.35, 153, 0,1,0
+AddVertex,105, 0.35, 216, 0,1,0
+AddVertex,83, 0.25, 216, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture, ..\..\Shared_Assets\gradient.png
+SetTextureCoordinates,0, 0, 0.5,
+SetTextureCoordinates,1, 0, 0.5,
+SetTextureCoordinates,2, 1, 0.5,
+SetTextureCoordinates,3, 1, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,82.5, 4.5, 156, 0,1,0
+AddVertex,82.5, 4.5, 170, 0,1,0
+AddVertex,82.5, 0.31, 170, 0,1,0
+AddVertex,82.5, 0.31, 156, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,tswsports_building7.png,
+SetTextureCoordinates,0, 1, 0.78,
+SetTextureCoordinates,1, 0, 0.78,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,94.5, 4.5, 156, 0,1,0
+AddVertex,94.5, 4.5, 174, 0,1,0
+AddVertex,94.5, 0, 174, 0,1,0
+AddVertex,94.5, 0, 156, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,tswsports_building7.png,
+SetTextureCoordinates,0, 2, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.4,
+SetTextureCoordinates,3, 2, 0.4,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,94.5, 4.5, 174, 0,1,0
+AddVertex,104.5, 4.5, 182, 0,1,0
+AddVertex,104.5, 0, 182, 0,1,0
+AddVertex,94.5, 0, 174, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,tswsports_building7.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.4,
+SetTextureCoordinates,3, 1, 0.4,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,97, 8.2, 189, 0,1,0
+AddVertex,108.5, 8.2, 188.5, 0,1,0
+AddVertex,108.5, 0, 188.5, 0,1,0
+AddVertex,97, 0, 189, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8.png,
+SetTextureCoordinates,0, 0, 0.55,
+SetTextureCoordinates,1, 1, 0.55,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,86, 8.2, 191, 0,1,0
+AddVertex,97, 8.2, 189, 0,1,0
+AddVertex,97, 0, 189, 0,1,0
+AddVertex,86, 0, 191, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8.png,
+SetTextureCoordinates,0, 0, 0.55,
+SetTextureCoordinates,1, 1, 0.55,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,91, 9, 196, 0,1,0
+AddVertex,96, 9, 196, 0,1,0
+AddVertex,96, 6.5, 196, 0,1,0
+AddVertex,91, 6.5, 196, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0.6, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 0.28,
+SetTextureCoordinates,3, 0.6, 0.28,
+SetDecalTransparentColor,0,0,255
+Translate,0,0.5,-11
+
+CreateMeshBuilder,
+AddVertex,91, 9, 196, 0,1,0
+AddVertex,91, 9, 205, 0,1,0
+AddVertex,91, 6.5, 205, 0,1,0
+AddVertex,91, 6.5, 196, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 0.58, 0,
+SetTextureCoordinates,2, 0.58, 0.28,
+SetTextureCoordinates,3, 0, 0.28,
+SetDecalTransparentColor,0,0,255
+Translate,0,0.5,-11
+
+CreateMeshBuilder,
+AddVertex,73, 8.2, 196.5, 0,1,0
+AddVertex,86, 8.2, 191, 0,1,0
+AddVertex,86, 0, 191, 0,1,0
+AddVertex,73, 0, 196.5, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8.png,
+SetTextureCoordinates,0, 0, 0.55,
+SetTextureCoordinates,1, 1, 0.55,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,63, 8.2, 206, 0,1,0
+AddVertex,73, 8.2, 196.5, 0,1,0
+AddVertex,73, 0, 196.5, 0,1,0
+AddVertex,63, 0, 206, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8.png,
+SetTextureCoordinates,0, 0, 0.55,
+SetTextureCoordinates,1, 1, 0.55,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,54.7, 8.2, 215, 0,1,0
+AddVertex,63, 8.2, 206, 0,1,0
+AddVertex,63, 0, 206, 0,1,0
+AddVertex,54.7, 0, 215, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 0.53,
+SetTextureCoordinates,3, 0, 0.53,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,58, 8.2, 219.2, 0,1,0
+AddVertex,54.7, 8.2, 215, 0,1,0
+AddVertex,54.7, 0, 215, 0,1,0
+AddVertex,58, 0, 219.2, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0.53,
+SetTextureCoordinates,1, 0.3, 0.53,
+SetTextureCoordinates,2, 0.3, 0.65,
+SetTextureCoordinates,3, 0, 0.65,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,60.2, 8.2, 223.2, 0,1,0
+AddVertex,58, 8.2, 219.2, 0,1,0
+AddVertex,58, 0, 219.2, 0,1,0
+AddVertex,60.2, 0, 223.2, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0.53,
+SetTextureCoordinates,1, 0.3, 0.53,
+SetTextureCoordinates,2, 0.3, 0.65,
+SetTextureCoordinates,3, 0, 0.65,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,64.2, 8.2, 225.5, 0,1,0
+AddVertex,60.2, 8.2, 223.2, 0,1,0
+AddVertex,60.2, 0, 223.2, 0,1,0
+AddVertex,64.2, 0, 225.5, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0.53,
+SetTextureCoordinates,1, 0.3, 0.53,
+SetTextureCoordinates,2, 0.3, 0.65,
+SetTextureCoordinates,3, 0, 0.65,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,67.8, 8.2, 225, 0,1,0
+AddVertex,64.2, 8.2, 225.5, 0,1,0
+AddVertex,64.2, 0, 225.5, 0,1,0
+AddVertex,67.8, 0, 225, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0.53,
+SetTextureCoordinates,1, 0.3, 0.53,
+SetTextureCoordinates,2, 0.3, 0.65,
+SetTextureCoordinates,3, 0, 0.65,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,67.8, 8.2, 225, 0,1,0
+AddVertex,71.8, 8.2, 228.2, 0,1,0
+AddVertex,71.8, 0, 228.2, 0,1,0
+AddVertex,67.8, 0, 225, 0,1,0
+AddFace2,0, 1, 2, 3
+LoadTexture,tswsports_building8b.png,
+SetTextureCoordinates,0, 0, 0.53,
+SetTextureCoordinates,1, 0.3, 0.53,
+SetTextureCoordinates,2, 0.3, 0.65,
+SetTextureCoordinates,3, 0, 0.65,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-11
+
+CreateMeshBuilder,
+AddVertex,105, 4.5, 158, 0,1,0
+AddVertex,105, 4.5, 177, 0,1,0
+AddVertex,105, 0, 177, 0,1,0
+AddVertex,105, 0, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,tswsports_building7.png,
+SetTextureCoordinates,0, 1, 0.73,
+SetTextureCoordinates,1, 0, 0.73,
+SetTextureCoordinates,2, 0, 0.78,
+SetTextureCoordinates,3, 1, 0.78,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,105, 7.5, 158, 0,1,0
+AddVertex,105, 7.5, 177, 0,1,0
+AddVertex,105, 4.5, 177, 0,1,0
+AddVertex,105, 4.5, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,tswsports_building7.png,
+SetTextureCoordinates,0, 1, 0.57,
+SetTextureCoordinates,1, 0, 0.57,
+SetTextureCoordinates,2, 0, 0.77,
+SetTextureCoordinates,3, 1, 0.77,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 153, 0,1,0
+AddVertex,78, 19, 158, 0,1,0
+AddVertex,78, 16, 158, 0,1,0
+AddVertex,78, 16, 153, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.53, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.53, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 158, 0,1,0
+AddVertex,78, 19, 163, 0,1,0
+AddVertex,78, 16, 163, 0,1,0
+AddVertex,78, 16, 158, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 163, 0,1,0
+AddVertex,78, 19, 168, 0,1,0
+AddVertex,78, 16, 168, 0,1,0
+AddVertex,78, 16, 163, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 168, 0,1,0
+AddVertex,78, 19, 173, 0,1,0
+AddVertex,78, 16, 173, 0,1,0
+AddVertex,78, 16, 168, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 173, 0,1,0
+AddVertex,78, 19, 178, 0,1,0
+AddVertex,78, 16, 178, 0,1,0
+AddVertex,78, 16, 173, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 19, 178, 0,1,0
+AddVertex,78, 19, 183, 0,1,0
+AddVertex,78, 16, 183, 0,1,0
+AddVertex,78, 16, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+;;TSW Sports top cover;;
+
+CreateMeshBuilder,
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,111, 16, 183, 0,1,0
+AddVertex,78, 16, 183, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,78, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,78, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-5
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178,
+AddVertex,111, 17.35, 178,
+AddVertex,111, 18.30, 178.8,
+AddVertex,78, 18.30, 178.8,
+AddVertex,78, 17.10, 177.9,
+AddVertex,111, 17.10, 177.9,
+AddVertex,111, 17.35, 178,
+AddVertex,78, 17.35, 178,
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-10
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,78, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-15
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,78, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-20
+
+CreateMeshBuilder,
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,111, 17.15, 183, 0,1,0
+AddVertex,78, 17.15, 183, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,111, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.20, 182.05, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,111, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.40, 181.8, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,111, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.80, 181.1, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,111, 18.80, 179.7, 0,1,0
+AddVertex,78, 18.80, 179.7, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,111, 18.30, 178.8, 0,1,0
+AddVertex,78, 18.30, 178.8, 0,1,0
+AddVertex,78, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.10, 177.9, 0,1,0
+AddVertex,111, 17.35, 178, 0,1,0
+AddVertex,78, 17.35, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+AddFace,27, 26, 25, 24,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.51, 0.12,
+SetTextureCoordinates,1, 0, 0.12,
+SetTextureCoordinates,2, 0, 0.17,
+SetTextureCoordinates,3, 0.51, 0.17,
+SetTextureCoordinates,4, 0.51, 0.12,
+SetTextureCoordinates,5, 0, 0.12,
+SetTextureCoordinates,6, 0, 0.17,
+SetTextureCoordinates,7, 0.51, 0.17,
+SetTextureCoordinates,8, 0.51, 0.12,
+SetTextureCoordinates,9, 0, 0.12,
+SetTextureCoordinates,10, 0, 0.17,
+SetTextureCoordinates,11, 0.51, 0.17,
+SetTextureCoordinates,12, 0.51, 0.12,
+SetTextureCoordinates,13, 0, 0.12,
+SetTextureCoordinates,14, 0, 0.17,
+SetTextureCoordinates,15, 0.51, 0.17,
+SetTextureCoordinates,16, 0.51, 0.12,
+SetTextureCoordinates,17, 0, 0.12,
+SetTextureCoordinates,18, 0, 0.17,
+SetTextureCoordinates,19, 0.51, 0.17,
+SetTextureCoordinates,20, 0.51, 0.12,
+SetTextureCoordinates,21, 0, 0.12,
+SetTextureCoordinates,22, 0, 0.17,
+SetTextureCoordinates,23, 0.51, 0.17,
+SetTextureCoordinates,24, 0.51, 0.12,
+SetTextureCoordinates,25, 0, 0.12,
+SetTextureCoordinates,26, 0, 0.17,
+SetTextureCoordinates,27, 0.51, 0.17,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-25
+
+;;End TSW Sports top cover;;
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 16, 158, 0,1,0
+AddVertex,78, 14, 158, 0,1,0
+AddVertex,78, 14, 153, 0,1,0
+AddVertex,78, 16, 158, 0,1,0
+AddVertex,78, 16, 163, 0,1,0
+AddVertex,78, 14, 163, 0,1,0
+AddVertex,78, 14, 158, 0,1,0
+AddVertex,78, 16, 163, 0,1,0
+AddVertex,78, 16, 168, 0,1,0
+AddVertex,78, 14, 168, 0,1,0
+AddVertex,78, 14, 163, 0,1,0
+AddVertex,78, 16, 168, 0,1,0
+AddVertex,78, 16, 173, 0,1,0
+AddVertex,78, 14, 173, 0,1,0
+AddVertex,78, 14, 168, 0,1,0
+AddVertex,78, 16, 173, 0,1,0
+AddVertex,78, 16, 178, 0,1,0
+AddVertex,78, 14, 178, 0,1,0
+AddVertex,78, 14, 173, 0,1,0
+AddVertex,78, 16, 178, 0,1,0
+AddVertex,78, 16, 183, 0,1,0
+AddVertex,78, 14, 183, 0,1,0
+AddVertex,78, 14, 178, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+AddFace,23, 22, 21, 20,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0,
+SetTextureCoordinates,1, 0.53, 0,
+SetTextureCoordinates,2, 0.53, 0.22,
+SetTextureCoordinates,3, 0.99, 0.22,
+SetTextureCoordinates,4, 0.99, 0,
+SetTextureCoordinates,5, 0.53, 0,
+SetTextureCoordinates,6, 0.53, 0.22,
+SetTextureCoordinates,7, 0.99, 0.22,
+SetTextureCoordinates,8, 0.99, 0,
+SetTextureCoordinates,9, 0.53, 0,
+SetTextureCoordinates,10, 0.53, 0.22,
+SetTextureCoordinates,11, 0.99, 0.22,
+SetTextureCoordinates,12, 0.99, 0,
+SetTextureCoordinates,13, 0.53, 0,
+SetTextureCoordinates,14, 0.53, 0.22,
+SetTextureCoordinates,15, 0.99, 0.22,
+SetTextureCoordinates,16, 0.99, 0,
+SetTextureCoordinates,17, 0.53, 0,
+SetTextureCoordinates,18, 0.53, 0.22,
+SetTextureCoordinates,19, 0.99, 0.22,
+SetTextureCoordinates,20, 0.99, 0,
+SetTextureCoordinates,21, 0.53, 0,
+SetTextureCoordinates,22, 0.53, 0.22,
+SetTextureCoordinates,23, 0.99, 0.22,
+SetDecalTransparentColor,0,0,255
+
+;;under line;;
+CreateMeshBuilder,
+AddVertex,78.05, 14.2, 155.7, 0,1,0
+AddVertex,78.05, 14.2, 180.5, 0,1,0
+AddVertex,78.05, 14, 180.5, 0,1,0
+AddVertex,78.05, 14, 155.7, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.22,
+SetTextureCoordinates,1, 0.53, 0.22,
+SetTextureCoordinates,2, 0.53, 0.235,
+SetTextureCoordinates,3, 0.99, 0.235,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 14.03, 180.5, 0,1,0
+AddVertex,110.05, 14.03, 180.5, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 180.5, 0,1,0
+AddVertex,78.05, 16, 182.9, 0,1,0
+AddVertex,110.05, 16, 182.9, 0,1,0
+AddVertex,110.05, 14.03, 180.5, 0,1,0
+AddVertex,78.05, 16, 153, 0,1,0
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,110.05, 16, 153, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,78.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,78.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,5
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,78.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,10 
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,78.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,15
+
+CreateMeshBuilder,
+AddVertex,78.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddVertex,110.05, 14.03, 155.7, 0,1,0
+AddVertex,78.05, 16, 158, 0,1,0
+AddVertex,78.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 14.03, 160.7, 0,1,0
+AddVertex,110.05, 16, 158, 0,1,0
+AddFace2,3, 2, 1, 0,
+AddFace2,7, 6, 5, 4,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.99, 0.23,
+SetTextureCoordinates,1, 0.53, 0.23,
+SetTextureCoordinates,2, 0.53, 1,
+SetTextureCoordinates,3, 0.99, 1,
+SetTextureCoordinates,4, 0.99, 0.23,
+SetTextureCoordinates,5, 0.53, 0.23,
+SetTextureCoordinates,6, 0.53, 1,
+SetTextureCoordinates,7, 0.99, 1,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,20
+
+;;;;;;;
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16, 157.8, 0,1,0
+AddVertex,110, 16, 157.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16, 158.0, 0,1,0
+AddVertex,110, 16, 158.0, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,4.8
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16, 158.0, 0,1,0
+AddVertex,110, 16, 158.0, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,9.8
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16, 158.0, 0,1,0
+AddVertex,110, 16, 158.0, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,14.8
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16, 158.05, 0,1,0
+AddVertex,110, 16, 158.05, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,19.8
+
+CreateMeshBuilder,
+AddVertex,78, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,110, 16, 153, 0,1,0
+AddVertex,78, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,110, 17, 153.7, 0,1,0
+AddVertex,78, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,110, 17.5, 154.5, 0,1,0
+AddVertex,78, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddVertex,110, 17.7, 155.8, 0,1,0
+AddVertex,78, 17.4, 156.8, 0,1,0
+AddVertex,78, 16.2, 158.2, 0,1,0
+AddVertex,110, 16.2, 158.2, 0,1,0
+AddVertex,110, 17.4, 156.8, 0,1,0
+AddFace,3, 2, 1, 0,
+AddFace,7, 6, 5, 4,
+AddFace,11, 10, 9, 8,
+AddFace,15, 14, 13, 12,
+AddFace,19, 18, 17, 16,
+LoadTexture,tswsports_building6.png,
+SetTextureCoordinates,0, 0.12, 0.19,
+SetTextureCoordinates,1, 0, 0.19,
+SetTextureCoordinates,2, 0, 0.22,
+SetTextureCoordinates,3, 0.12, 0.22,
+SetTextureCoordinates,4, 0.12, 0.19,
+SetTextureCoordinates,5, 0, 0.19,
+SetTextureCoordinates,6, 0, 0.22,
+SetTextureCoordinates,7, 0.12, 0.22,
+SetTextureCoordinates,8, 0.19, 0.19,
+SetTextureCoordinates,9, 0, 0.19,
+SetTextureCoordinates,10, 0, 0.22,
+SetTextureCoordinates,11, 0.19, 0.22,
+SetTextureCoordinates,12, 0.12, 0.19,
+SetTextureCoordinates,13, 0, 0.19,
+SetTextureCoordinates,14, 0, 0.22,
+SetTextureCoordinates,15, 0.12, 0.22,
+SetTextureCoordinates,16, 0.19, 0.19,
+SetTextureCoordinates,17, 0, 0.19,
+SetTextureCoordinates,18, 0, 0.22,
+SetTextureCoordinates,19, 0.19, 0.22,
+SetDecalTransparentColor,0,0,255
+Translate,0,0,24.8

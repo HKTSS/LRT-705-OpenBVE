@@ -1,0 +1,3 @@
+Hue & Saturation for route map (Paint.NET)
+Brightness: -40
+Saturation: 75

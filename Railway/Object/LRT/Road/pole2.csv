@@ -1,0 +1,88 @@
+CreateMeshBuilder,
+Cylinder,10,0.12,0.12,2.5
+SetColor,30,90,160
+
+CreateMeshBuilder,
+Cylinder,10,0.07,0.12,0.15
+SetColor,30,90,160
+Translate,0,1.32,0
+
+CreateMeshBuilder,
+Cylinder,10,0.07,0.07,9.0
+SetColor,30,90,160
+Translate,0,5.0,0
+
+CreateMeshBuilder,
+Cylinder,10,0.09,0.09,0.5
+SetColor,30,90,160
+Translate,0,9.0,0
+
+CreateMeshBuilder,
+Cylinder,10,0.06,0.06,0.5
+SetColor,30,90,160
+Translate,0,9.5,0
+
+CreateMeshBuilder,
+Cylinder,10,0.005,0.02,0.5
+SetColor,30,90,160
+Translate,0,10.0,0
+
+CreateMeshBuilder,
+Cylinder,20,0.1,0.1,0.15
+SetColor,30,90,160
+Translate,0,0,-9.5
+Rotate,1,0,0,90
+
+CreateMeshBuilder,
+Cylinder,10,0.03,0.03,3
+SetColor,30,90,160
+Translate,9.5,0,0
+Rotate,0,0,1,90
+
+CreateMeshBuilder,
+Cylinder,20,0.03,0.25,0.06
+SetColor,130,130,140
+Translate,1.6,9.56,0
+
+CreateMeshBuilder,
+Cylinder,20,0.25,0.25,0.06
+SetColor,140,140,160
+Translate,1.6,9.5,0
+
+CreateMeshBuilder,
+Cylinder,20,0.03,0.25,0.06
+SetColor,130,130,140
+Translate,-1.6,9.56,0
+
+CreateMeshBuilder,
+Cylinder,20,0.25,0.25,0.06
+SetColor,140,140,160
+Translate,-1.6,9.5,0
+
+CreateMeshBuilder,
+AddVertex,2.25, 9.46, 0,
+AddVertex,2.25, 9.46, 0.5,
+AddVertex,2.75, 9.46, 0.5,
+AddVertex,2.75, 9.46, 0,
+AddFace,3, 2, 1, 0,
+LoadTexture,pole2.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+Translate,-0.9,0,-0.25
+
+CreateMeshBuilder,
+AddVertex,2.25, 9.46, 0,
+AddVertex,2.25, 9.46, 0.5,
+AddVertex,2.75, 9.46, 0.5,
+AddVertex,2.75, 9.46, 0,
+AddFace,3, 2, 1, 0,
+LoadTexture,pole2.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0, 0,
+SetDecalTransparentColor,0,0,255
+Translate,-4.1,0,-0.25

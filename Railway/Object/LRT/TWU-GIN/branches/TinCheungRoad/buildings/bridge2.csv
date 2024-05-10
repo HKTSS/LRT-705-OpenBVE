@@ -1,0 +1,59 @@
+CreateMeshBuilder,
+AddVertex,10, 0, 0, 0,1,0
+AddVertex,10, 0, 6, 0,1,0
+AddVertex,0, 0, 6, 0,1,0
+AddVertex,0, 0, 0, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,bridge_base.png,
+SetTextureCoordinates,0, 0, 0.9,
+SetTextureCoordinates,1, 0, 2,
+SetTextureCoordinates,2, 4, 2,
+SetTextureCoordinates,3, 4, 0.9,
+
+CreateMeshBuilder,
+AddVertex,10, 0.01, 0.65, 0,1,0
+AddVertex,10, 0.01, 0.9, 0,1,0
+AddVertex,0, 0.01, 0.9, 0,1,0
+AddVertex,0, 0.01, 0.65, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,..\..\..\..\road\ground_signs\whiteline\generic.png,
+SetTextureCoordinates,0, 0.5, 0,
+SetTextureCoordinates,1, 0.5, 1,
+SetTextureCoordinates,2, 0.6, 1,
+SetTextureCoordinates,3, 0.6, 0,
+
+CreateMeshBuilder,
+AddVertex,10, 0.01, 5.47, 0,1,0
+AddVertex,10, 0.01, 5.68, 0,1,0
+AddVertex,0, 0.01, 5.68, 0,1,0
+AddVertex,0, 0.01, 5.47, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,..\..\..\..\road\ground_signs\whiteline\generic.png,
+SetTextureCoordinates,0, 0.5, 0,
+SetTextureCoordinates,1, 0.5, 1,
+SetTextureCoordinates,2, 0.6, 1,
+SetTextureCoordinates,3, 0.6, 0,
+
+CreateMeshBuilder,
+AddVertex,10, 0.01, 5.75, 0,1,0
+AddVertex,10, 0.5, 6.00, 0,1,0
+AddVertex,0, 0.5, 6.00, 0,1,0
+AddVertex,0, 0.01, 5.75, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,bridgeside.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 0, 0.5,
+SetTextureCoordinates,2, 5, 0.5,
+SetTextureCoordinates,3, 5, 1,
+
+CreateMeshBuilder,
+AddVertex,10, 0.5, 6.0, 0,1,0
+AddVertex,10, 1.1, 6.0, 0,1,0
+AddVertex,0, 1.1, 6.0, 0,1,0
+AddVertex,0, 0.5, 6.0, 0,1,0
+AddFace,3, 2, 1, 0
+LoadTexture,bridgeside.png,
+SetTextureCoordinates,0, 0, 0.5,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 5, 0,
+SetTextureCoordinates,3, 5, 0.5,

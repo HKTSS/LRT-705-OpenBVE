@@ -1,0 +1,244 @@
+[Object]
+States = 1.csv
+Position = 0,0,0
+
+[Object]
+States = buildings\tswsports.csv
+Position = 0,0,0
+
+;;[Object]
+;;States = ..\Road\OpenStreetMap\4.csv
+;;Position = -35,-0.1,194
+;;RotateYFunction = -0.3
+
+[Object]
+States = buildings\bridge_TWU.csv
+Position = -12.5,8.15,145
+
+[Object]
+States = ..\Road\foliage\tree\tree1d.b3d
+Position = -11,-1,-45
+
+[Object]
+States = ..\Road\foliage\tree\twu.b3d
+Position = 16,1,50
+
+[Object]
+States = ..\Road\foliage\tree\twu.b3d
+Position = 16,1,80
+
+[Object]
+States = ..\Road\foliage\tree\twu.b3d
+Position = 16,1,100
+
+[Object]
+States = ..\Road\signs\sign3a.csv
+Position = 8.8,4.3,-17
+
+[Object]
+States = ..\Road\signs\sign8a.csv
+Position = 8.8,4,7
+
+[Object]
+States = ..\Road\signs\sign5.csv
+Position = 19.4,4,35
+RotateYFunction=3.1415
+
+[Object]
+States = ..\Road\signs\sign5.csv
+Position = 8.00,3.5,191
+RotateYFunction=-0.1
+
+[Object]
+States = ..\Road\signs\sign8a.csv
+Position = 5.5,4,210
+RotateYFunction=-0.15
+
+[Object]
+States = ..\Road\foliage\tree\tree11.b3d
+Position = 33,0,0
+
+[Object]
+States = ..\Road\foliage\tree\tree11.b3d
+Position = 76,-0.4,-1
+
+[Object]
+States = ..\Road\foliage\tree\tree2.b3d
+Position = 59,-0.2,-15
+
+[Object]
+States = ..\Road\foliage\tree\tree4.b3d
+Position = 48,-0.2,0
+
+[Object]
+States = ..\Road\foliage\tree\tree2.b3d
+Position = 70,-0.2,23
+
+[Object]
+States = ..\Road\foliage\tree\tree2a.b3d
+Position = 36.5,-0.2,210
+
+[Object]
+States = ..\Road\foliage\tree\tree13.b3d
+Position = 77,-0.2,65
+
+[Object]
+States = ..\Road\foliage\tree\tree1c.b3d
+Position = -27,-0.2,93
+
+[Object]
+States = ..\Road\foliage\tree\tree1d.b3d
+Position = -18,-0.2,135
+RotateYFunction = 3.1415
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 22.5,-0.7,-14.2
+RotateYFunction=-0.08
+
+[Object]
+States = ..\Road\foliage\tree\tree7.b3d
+Position = -18,0.4,175
+RotateYFunction=-0.1
+
+[Object]
+States = ..\Road\foliage\tree\tree12.b3d
+Position = -23,0.5,197
+RotateYFunction=-0.1
+
+[Object]
+States = ..\Road\foliage\tree\tree6.b3d
+Position = -28,0.5,218
+RotateYFunction=-0.1
+
+[Object]
+States = branches\TinPakroad\buildings\building1.csv
+Position = 30,0,-50
+
+[Object]
+States = branches\TinPakroad\buildings\building2.csv
+Position = 50,0,24
+
+[Object]
+States = ..\Road\signs\roadsigns\TinPakRd.csv
+Position = 62.05,-0.8,-19.4
+
+[Object]
+States = ..\Road\signs\roadsigns\TinShingRd.csv
+Position = -1.8,0.7,234
+RotateYFunction = -0.25
+
+[Object]
+States = ..\Road\signs\sign3a_small.csv
+Position = -19,3.85,245.25
+RotateYFunction = 2.7
+
+[Object]
+States = ..\Road\signs\sign21.csv
+Position = -20,1.6,245.1
+RotateYFunction = 1.2
+
+[Object]
+States = ..\Road\signs\roadsigns\TinShingRd.csv
+Position = 25.5,0.5,235
+RotateYFunction = 2.8
+
+[Object]
+States = ..\Road\signs\sign13.csv
+Position = -18.2,0.6,242.3
+RotateYFunction = -0.4
+
+[Object]
+States = ..\Road\signs\sign20.csv
+Position = -4,3.8,240
+RotateYFunction = -1.2
+
+[Object]
+States = ..\Road\signs\sign16.csv
+Position = 35.7,4,40
+
+[Object]
+States = ..\Road\signs\sign17.csv
+Position = 68,2.5,-14.4
+
+[Object]
+States = ..\Road\signs\sign18.csv
+Position = 8.7,2.3,180
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_1a.csv
+Position = -3.2,3.33,119.1
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_4.csv
+Position = -4.9,0.7,127
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_5.csv
+Position = -4.6,3.1,128.5
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_5.csv
+Position = -4.6,3.1,129.88
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_6.csv
+Position = -3.9,3.095,129.49
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_7.csv
+Position = -3.9,3.095,128
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_8.csv
+Position = 10.4,3.1,128.7
+
+[Object]
+States = ..\Traffic_Pack\safe_island\flecta2.csv
+Position = 2.2,0.05,246
+RotateYFunction = -0.35
+
+[Object]
+States = ..\Road\pole2.csv
+Position = 13.4,0.05,238.3
+RotateYFunction = -0.35
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 9.6,0.2,249.50
+RotateYFunction = 2.9
+
+[Object]
+States = ..\Road\signs\sign10.csv
+Position = 8.5,3.2,248
+RotateYFunction = -0.3
+
+[Object]
+States = ..\Traffic_Pack\01a.csv
+Position = -4,0,239
+RotateYFunction = -0.40
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = -3.5,3.5,42.1
+RotateYFunction=1.5
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = 7,3.5,42.1
+RotateYFunction=1.5
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = -2.6,3.5,117.9
+RotateYFunction=-1.5
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = 9,3.5,118
+RotateYFunction=-1.5
+
+[Object]
+States = ..\Road\signs\sign5.csv
+Position = 52,4,271.3
+RotateYFunction = -2.0

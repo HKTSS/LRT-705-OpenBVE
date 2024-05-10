@@ -1,0 +1,30 @@
+CreateMeshBuilder,
+AddVertex,138, 28, 0,
+AddVertex,138, 28, -48,
+AddVertex,138, -0.4, -48,
+AddVertex,138, -0.4, 0,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.55, 0.5,
+SetTextureCoordinates,1, 1, 0.5,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0.55, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,138, 28, 0,
+AddVertex,210, 28, 32,
+AddVertex,210, -0.4, 32,
+AddVertex,138, -0.4, 0,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.55, 0.5,
+SetTextureCoordinates,1, 0, 0.5,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0.55, 1,
+SetDecalTransparentColor,0,0,255
+
+RotateAll,0,1,0,-35
+TranslateAll,-1,-1.5,-38

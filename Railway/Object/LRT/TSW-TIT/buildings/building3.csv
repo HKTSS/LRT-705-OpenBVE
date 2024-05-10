@@ -1,0 +1,70 @@
+CreateMeshBuilder,
+AddVertex,-50, 50, 10,
+AddVertex,-58, 50, 8,
+AddVertex,-58, 0, 8,
+AddVertex,-50, 0, 10,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building3a.png,
+SetTextureCoordinates,0, 0.18, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0.18, 1,
+
+CreateMeshBuilder,
+AddVertex,-55, 50, 20,
+AddVertex,-50, 50, 10,
+AddVertex,-50, 0, 10,
+AddVertex,-55, 0, 20,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building3a.png,
+SetTextureCoordinates,0, 0.47, 0,
+SetTextureCoordinates,1, 0.18, 0,
+SetTextureCoordinates,2, 0.18, 1,
+SetTextureCoordinates,3, 0.47, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-54.5, 50, 22,
+AddVertex,-55, 50, 20,
+AddVertex,-55, 0, 20,
+AddVertex,-54.5, 0, 22,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building3a.png,
+SetTextureCoordinates,0, 0.52, 0,
+SetTextureCoordinates,1, 0.47, 0,
+SetTextureCoordinates,2, 0.47, 1,
+SetTextureCoordinates,3, 0.52, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-46, 50, 30,
+AddVertex,-54.5, 50, 22,
+AddVertex,-54.5, 0, 22,
+AddVertex,-46, 0, 30,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building3a.png,
+SetTextureCoordinates,0, 0.84, 0,
+SetTextureCoordinates,1, 0.52, 0,
+SetTextureCoordinates,2, 0.52, 1,
+SetTextureCoordinates,3, 0.84, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-49, 50, 38,
+AddVertex,-46, 50, 30,
+AddVertex,-46, 0, 30,
+AddVertex,-49, 0, 38,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building3a.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0.84, 0,
+SetTextureCoordinates,2, 0.84, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+TranslateAll, 0,0,70

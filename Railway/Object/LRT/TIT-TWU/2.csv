@@ -1,0 +1,203 @@
+﻿CreateMeshBuilder
+AddVertex,38.063,-4.000,12.298, 0,1,0
+AddVertex,35.549,-4.395,21.972, 0,1,0
+AddVertex,1.164,-4.044,15.449, 0,1,0
+AddVertex,4.758,-4.000,1.537, 0,1,0
+AddFace,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,0.000,0.000
+SetTextureCoordinates,1,1.000,0.000
+SetTextureCoordinates,2,1.000,6.000
+SetTextureCoordinates,3,0.000,6.000
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder
+AddVertex,05.06, -3.5, 57, 0,1,0
+AddVertex,15.54, -3.5, 1.5, 0,1,0
+AddVertex,-5.16, -3.5, 1.5, 0,1,0
+AddVertex,-15.75,-3.5, 57, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_crossing4.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder
+AddVertex,1.05, -3.75, 7.81, 0,1,0
+AddVertex,1.05, -3.5, 7.81, 0,1,0
+AddVertex,-6.0, -3.5, 5.97, 0,1,0
+AddVertex,-6.0,-3.75, 5.97, 0,1,0
+AddFace,3,2,1,0
+SetColor,140,140,140,
+LoadTexture, ..\Road\road_crossing5.png
+SetTextureCoordinates,0, 0.95, 0.3
+SetTextureCoordinates,1, 0.94, 0.3
+SetTextureCoordinates,2, 0.94, 0
+SetTextureCoordinates,3, 0.95, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder
+AddVertex,1.05, -3.75, 7.81, 0,1,0
+AddVertex,1.05, -3.5, 7.81, 0,1,0
+AddVertex,3.35, -3.5, 1.5, 0,1,0
+AddVertex,3.35,-3.75, 1.5, 0,1,0
+AddFace,0, 1, 2, 3
+SetColor,140,140,140,
+LoadTexture, ..\Road\road_crossing5.png
+SetTextureCoordinates,0, 0.95, 0.3
+SetTextureCoordinates,1, 0.94, 0.3
+SetTextureCoordinates,2, 0.94, 0
+SetTextureCoordinates,3, 0.95, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder
+AddVertex,3.35, -3.75, 1.5, 0,1,0
+AddVertex,3.35, -3.5, 1.5, 0,1,0
+AddVertex,7.6, -3.5, 2.88, 0,1,0
+AddVertex,7.6,-3.75, 2.88, 0,1,0
+AddFace,0, 1, 2, 3
+SetColor,140,140,140,
+LoadTexture, ..\Road\road_crossing5.png
+SetTextureCoordinates,0, 0.95, 0.3
+SetTextureCoordinates,1, 0.94, 0.3
+SetTextureCoordinates,2, 0.94, 0
+SetTextureCoordinates,3, 0.95, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder
+AddVertex,12.06, -4.3, 20, 0,1,0
+AddVertex,12.54, -4, 5, 0,1,0
+AddVertex,7.5, -3.5, 3, 0,1,0
+AddVertex,4.25,-3.5, 20, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+
+CreateMeshBuilder
+AddVertex,12.06, -4.3, 30, 0,1,0
+AddVertex,12.06, -4.3, 20, 0,1,0
+AddVertex,4.25, -3.5, 20, 0,1,0
+AddVertex,2.75,-3.5, 30, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+
+CreateMeshBuilder
+AddVertex,12.06, -4.5, 40, 0,1,0
+AddVertex,12.06, -4.3, 30, 0,1,0
+AddVertex,2.75, -3.5, 30, 0,1,0
+AddVertex,3.25,-3.5, 40, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+
+CreateMeshBuilder
+AddVertex,12.06, -4.65, 50, 0,1,0
+AddVertex,12.06, -4.5, 40, 0,1,0
+AddVertex,3.25, -3.5, 40, 0,1,0
+AddVertex,3.95, -3.5, 50, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+
+CreateMeshBuilder
+AddVertex,12.06, -4.6, 56, 0,1,0
+AddVertex,12.06, -4.65, 50, 0,1,0
+AddVertex,3.95, -3.5, 50, 0,1,0
+AddVertex,4.5, -3.5, 57, 0,1,0
+AddFace2,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,1,1
+SetTextureCoordinates,1,0,1
+SetTextureCoordinates,2,0,0
+SetTextureCoordinates,3,1,0
+
+RotateAll,0,1,0,20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; --- segment 0 ---
+
+CreateMeshBuilder
+AddVertex,40.000,-4.000,0.000
+AddVertex,40.597,-4.137,10.177
+AddVertex,5.849,-4.015,14.367
+AddVertex,5.000,-4.000,0.000
+AddFace,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,0.000,0.000
+SetTextureCoordinates,1,1.000,0.000
+SetTextureCoordinates,2,1.000,6.000
+SetTextureCoordinates,3,0.000,6.000
+SetDecalTransparentColor,0,0,255
+
+; --- segment 1 ---
+
+CreateMeshBuilder
+AddVertex,40.597,-4.137,10.177
+AddVertex,42.408,-4.274,20.212
+AddVertex,8.412,-4.030,28.531
+AddVertex,5.849,-4.015,14.367
+AddFace,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,0.000,0.000
+SetTextureCoordinates,1,1.000,0.000
+SetTextureCoordinates,2,1.000,6.000
+SetTextureCoordinates,3,0.000,6.000
+SetDecalTransparentColor,0,0,255
+
+; --- segment 2 ---
+
+CreateMeshBuilder
+AddVertex,42.408,-4.274,20.212
+AddVertex,45.408,-4.410,29.959
+AddVertex,12.653,-4.045,42.288
+AddVertex,8.412,-4.030,28.531
+AddFace,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,0.000,0.000
+SetTextureCoordinates,1,1.000,0.000
+SetTextureCoordinates,2,1.000,6.000
+SetTextureCoordinates,3,0.000,6.000
+SetDecalTransparentColor,0,0,255
+
+; --- segment 3 ---
+
+CreateMeshBuilder
+AddVertex,45.408,-4.410,29.959
+AddVertex,49.553,-4.547,39.279
+AddVertex,18.511,-4.059,55.439
+AddVertex,12.653,-4.045,42.288
+AddFace,3,2,1,0
+LoadTexture, ..\Road\road_base.png
+SetTextureCoordinates,0,0.000,0.000
+SetTextureCoordinates,1,1.000,0.000
+SetTextureCoordinates,2,1.000,6.000
+SetTextureCoordinates,3,0.000,6.000
+SetDecalTransparentColor,0,0,255

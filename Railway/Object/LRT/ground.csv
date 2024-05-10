@@ -1,0 +1,15 @@
+CreateMeshBuilder,
+Addvertex,-400, -7.75, 30,
+Addvertex,-400, -7.75, -5,
+Addvertex,400, -7.75, -5,
+Addvertex,400, -7.75, 30,
+AddFace2,0,1,2,3,
+SetColor,128,128,128
+
+CreateMeshBuilder,
+Addvertex,-400, -7.75, -5,
+Addvertex,-400, -12, -5,
+Addvertex,400, -12, -5,
+Addvertex,400, -7.75, -5,
+AddFace2,0,1,2,3,
+SetColor,128,128,128,

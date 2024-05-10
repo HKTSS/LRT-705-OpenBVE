@@ -1,0 +1,21 @@
+[Object]
+states = ..\Taxi\red.csv
+Position = -9,0,2
+[Object]
+states = red.csv
+Position = -6,0,0.8
+[Object]
+states = red_n.csv
+Position = -3,0,0
+[Object]
+states = green2.csv
+Position = 0,0,0.8
+[Object]
+states = green_n.csv
+Position = 3,0,0
+[Object]
+states = school.csv
+Position = 6,0,0
+[Object]
+states = neats.csv
+Position = 9,0,0

@@ -1,0 +1,21 @@
+﻿CreateMeshBuilder,
+AddVertex,0.003, 0.00, 4, 0,1,0
+AddVertex,0.003, 0.00, 0, 0,1,0
+AddVertex,0.003, 1.65, 0, 0,1,0
+AddVertex,0.003, 1.65, 4, 0,1,0
+
+AddVertex,0.003, 0.00, 0, 0,1,0
+AddVertex,0.003, 0.00, 4, 0,1,0
+AddVertex,0.003, 1.65, 4, 0,1,0
+AddVertex,0.003, 1.65, 0, 0,1,0
+AddFace, 0, 1, 2, 3
+AddFace, 4, 5, 6, 7
+LoadTexture,1.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 0, 1,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 1, 0,
+SetTextureCoordinates,4, 1, 1,
+SetTextureCoordinates,5, 0, 1,
+SetTextureCoordinates,6, 0, 0,
+SetTextureCoordinates,7, 1, 0,

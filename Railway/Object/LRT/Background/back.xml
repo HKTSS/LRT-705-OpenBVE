@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openBVE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Background>
+        <Time>23.59</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>night.png</Texture>
+		<TransitionTime>1800</TransitionTime>
+  </Background>
+  <Background>
+        <Time>05.30</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>evening.png</Texture>
+        <TransitionTime>1800</TransitionTime>
+  </Background>
+  <Background>
+        <Time>06.00</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>day.png</Texture>
+        <TransitionTime>3600</TransitionTime>
+  </Background>
+  <Background>
+        <Time>16.00</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>evening.png</Texture>
+        <TransitionTime>5400</TransitionTime>
+  </Background>
+  <Background>
+        <Time>17.32</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>night.png</Texture>
+        <TransitionTime>1800</TransitionTime>
+  </Background>
+  <Background>
+        <Time>18.00</Time>
+        <Mode>FadeIn</Mode>
+        <Repetitions>6</Repetitions>
+        <Texture>night.png</Texture>
+		<TransitionTime>7400</TransitionTime>
+  </Background>
+</openBVE>  

@@ -1,0 +1,117 @@
+; by 1081MTR ;
+
+[MeshBuilder]
+Cube 0.1, 0.015, 0.1
+Color 50,50,50
+Translate 0.093,0.015,0.1
+
+[MeshBuilder]
+Vertex 0.184,0.4,0.015, 0,1,0
+Vertex 0.184,0.4,0.185, 0,1,0
+Vertex 0.170,0.03,0.185, 0,1,0
+Vertex 0.170,0.03,0.015, 0,1,0
+Face2 0,1,2,3
+Load LB_yellow.png, LB_yellow_n.png
+Coordinates 0, 0, 0
+Coordinates 1, 0.5, 0
+Coordinates 2, 0.5, 1
+Coordinates 3, 0, 1
+EmissiveColor 255,255,255
+
+[MeshBuilder]
+Vertex 0.015,0.03,0.015
+Vertex 0.0,0.4,0.015
+Vertex 0.0,0.4,0.185
+Vertex 0.015,0.03,0.185
+Face2 0,1,2,3
+Load LB_yellow.png, LB_yellow_n.png
+Coordinates 0, 0.5, 1
+Coordinates 1, 0.5, 0
+Coordinates 2, 0, 0
+Coordinates 3, 0, 1
+EmissiveColor 255,255,255
+
+[MeshBuilder]
+Vertex 0.00,0.4,0.015, 0,1,0
+Vertex 0.015,0.03,0.015, 0,1,0
+Vertex 0.170,0.03,0.015, 0,1,0
+Vertex 0.184,0.4,0.015, 0,1,0
+Face2 0,1,2,3
+Load LB_yellow.png, LB_yellow_n.png
+Coordinates 0, 0.5, 0
+Coordinates 1, 0.5, 1
+Coordinates 2, 1, 1
+Coordinates 3, 1, 0
+EmissiveColor 255,255,255
+
+[MeshBuilder]
+Vertex 0.0,0.4,0.185, 0,1,0
+Vertex 0.015,0.03,0.185, 0,1,0
+Vertex 0.170,0.03,0.185, 0,1,0
+Vertex 0.184,0.4,0.185, 0,1,0
+Face2 0,1,2,3
+Load LB_yellow.png, LB_yellow_n.png
+Coordinates 0, 0.5, 0
+Coordinates 1, 0.5, 1
+Coordinates 2, 0, 1
+Coordinates 3, 0, 0
+EmissiveColor 255,255,255
+
+[MeshBuilder]
+Vertex 0.22,0.4,-0.0, 0,1,0
+Vertex 0.22,0.4,0.21, 0,1,0
+Vertex -0.02,0.4,0.21, 0,1,0
+Vertex -0.02,0.4,-0.0, 0,1,0
+Face2 0,1,2,3
+Color 255,255,255
+
+[MeshBuilder]
+Vertex 0.22,0.62,-0.01, 0,1,0
+Vertex 0.22,0.62,0.21, 0,1,0
+Vertex -0.02,0.62,0.21, 0,1,0
+Vertex -0.02,0.62,-0.01, 0,1,0
+Face2 0,1,2,3
+EmissiveColor 255,255,255
+
+[MeshBuilder]
+Vertex -0.02,0.4,0.21, 0,1,0
+Vertex 0.22,0.4,0.21, 0,1,0
+Vertex 0.22,0.62,0.21, 0,1,0
+Vertex -0.02,0.62,0.21, 0,1,0
+Vertex -0.02,0.4,-0.01, 0,1,0
+Vertex -0.02,0.4,0.21, 0,1,0
+Vertex -0.02,0.62,0.21, 0,1,0
+Vertex -0.02,0.62,-0.01, 0,1,0
+Vertex 0.22,0.4,-0.01, 0,1,0
+Vertex 0.22,0.4,0.21, 0,1,0
+Vertex 0.22,0.62,0.21, 0,1,0
+Vertex 0.22,0.62,-0.01, 0,1,0
+Vertex -0.02,0.4,-0.01, 0,1,0
+Vertex 0.22,0.4,-0.01, 0,1,0
+Vertex 0.22,0.62,-0.01, 0,1,0
+Vertex -0.02,0.62,-0.01, 0,1,0
+Face2 0,1,2,3
+Face2 4,5,6,7
+Face2 8,9,10,11
+Face2 12,13,14,15
+Load LB_white.png
+Coordinates 0, 0, 0
+Coordinates 1, 0, 1
+Coordinates 2, 0.5, 1
+Coordinates 3, 0.5, 0
+Coordinates 4, 0.5, 1
+Coordinates 5, 0.5, 0
+Coordinates 6, 0, 0
+Coordinates 7, 0, 1
+Coordinates 8, 0.5, 1
+Coordinates 9, 0.5, 0
+Coordinates 10, 0, 0
+Coordinates 11, 0, 1
+Coordinates 12, 0.5, 1
+Coordinates 13, 0.5, 0
+Coordinates 14, 1, 0
+Coordinates 15, 1, 1
+EmissiveColor 255,255,255
+
+ScaleAll 1.7,1.9,1.7
+TranslateAll 0,0,-0.5

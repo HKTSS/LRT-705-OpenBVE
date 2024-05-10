@@ -1,0 +1,21 @@
+CreateMeshBuilder,
+Cylinder,6,0.07,0.07,5
+SetColor,165,190,187
+Translate,0,-1.3,0.7
+
+CreateMeshBuilder,
+Cube,0.3,0.12,0.2
+SetColor,176,183,189
+Translate,-0.22,1.08,0.7
+
+CreateMeshBuilder,
+AddVertex,0.08, 0.958, 0.5, 0,1,0
+AddVertex,-0.52, 0.958, 0.5, 0,1,0
+AddVertex,-0.52, 0.958, 0.9, 0,1,0
+AddVertex,0.08, 0.958, 0.9, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,..\pole4.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,

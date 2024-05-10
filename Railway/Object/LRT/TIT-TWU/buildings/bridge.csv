@@ -1,0 +1,945 @@
+CreateMeshBuilder,
+AddVertex, 0,4.1,-10, 0,1,0
+AddVertex, 0,4.1,46, 0,1,0
+AddVertex, 0,0.6,46, 0,1,0
+AddVertex, 0,0.6,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge.png
+SetTextureCoordinates, 0, 0.5, 0
+SetTextureCoordinates, 1, 5, 0
+SetTextureCoordinates, 2, 5, 1
+SetTextureCoordinates, 3, 0.5, 1
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,-6
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,6
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,12
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,18
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,24
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,30
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,36
+
+CreateMeshBuilder,
+AddVertex, 5,3.8,0, 0,1,0
+AddVertex, 0,3.8,0, 0,1,0
+AddVertex, 0,2.8,0, 0,1,0
+AddVertex, 5,2.8,0, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.187
+SetTextureCoordinates, 3, 0.6, 0.187
+SetDecalTransparentColor,0,0,255
+Translate,0,0,42
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,-6
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,0
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,6
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,12
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,18
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,24
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,30
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,36
+
+CreateMeshBuilder,
+Cylinder, 6,0.25,0.25,2
+LoadTexture, Bridge1d.png
+SetTextureCoordinates, 0,0,0
+SetTextureCoordinates, 1,0,1
+SetTextureCoordinates, 2,0.4,0
+SetTextureCoordinates, 3,0.4,1
+SetTextureCoordinates, 4,0,0
+SetTextureCoordinates, 5,0,1
+SetTextureCoordinates, 6,0.4,0
+SetTextureCoordinates, 7,0.4,1
+SetTextureCoordinates, 8,0,0
+SetTextureCoordinates, 9,0,1
+SetTextureCoordinates, 10,0.4,0
+SetTextureCoordinates, 11,0.4,1
+Translate,2.5,1.8,42
+
+CreateMeshBuilder,
+AddVertex, 5,4.1,-10, 0,1,0
+AddVertex, 5,4.1,46, 0,1,0
+AddVertex, 5,0.6,46, 0,1,0
+AddVertex, 5,0.6,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge.png
+SetTextureCoordinates, 0, 0.5, 0
+SetTextureCoordinates, 1, 5, 0
+SetTextureCoordinates, 2, 5, 1
+SetTextureCoordinates, 3, 0.5, 1
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 0.0000, 4.1, 46, 0,1,0
+AddVertex, -22.55, 4.1, 70, 0,1,0
+AddVertex, -22.55, 0.6, 70, 0,1,0
+AddVertex, 0.0000, 0.6, 46, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0.5, 0
+SetTextureCoordinates, 1, 5, 0
+SetTextureCoordinates, 2, 5, 1
+SetTextureCoordinates, 3, 0.5, 1
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 5,4.1,46
+AddVertex, -17.4,4.1,70
+AddVertex, -17.4,0.6,70
+AddVertex, 5,0.6,46
+AddFace2, 0,1,2,3
+LoadTexture, Bridge.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0.5, 0
+SetTextureCoordinates, 1, 5, 0
+SetTextureCoordinates, 2, 5, 1
+SetTextureCoordinates, 3, 0.5, 1
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 5,0.8,-10, 0,1,0
+AddVertex, 5,0.8,46, 0,1,0
+AddVertex, 0,0.8,46, 0,1,0
+AddVertex, 0,0.8,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1b.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 17
+SetTextureCoordinates, 2, 1, 17
+SetTextureCoordinates, 3, 1, 0
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 4.97,1.68,-10, 0,1,0
+AddVertex, 4.97,1.68,46, 0,1,0
+AddVertex, 4.97,0.81,46, 0,1,0
+AddVertex, 4.97,0.81,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 9
+SetTextureCoordinates, 2, 0.23, 9
+SetTextureCoordinates, 3, 0.23, 0
+
+CreateMeshBuilder,
+AddVertex, 0.01,1.68,-10, 0,1,0
+AddVertex, 0.01,1.68,46, 0,1,0
+AddVertex, 0.01,0.81,46, 0,1,0
+AddVertex, 0.01,0.81,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 9
+SetTextureCoordinates, 2, 0.23, 9
+SetTextureCoordinates, 3, 0.23, 0
+
+CreateMeshBuilder,
+AddVertex, 0.01,2.35,-10, 0,1,0
+AddVertex, 0.01,2.35,10, 0,1,0
+AddVertex, 0.01,1.68,10, 0,1,0
+AddVertex, 0.01,1.68,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 0.01,2.35,10, 0,1,0
+AddVertex, 0.01,2.35,30, 0,1,0
+AddVertex, 0.01,1.68,30, 0,1,0
+AddVertex, 0.01,1.68,10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 0.01,2.35,30, 0,1,0
+AddVertex, 0.01,2.35,46, 0,1,0
+AddVertex, 0.01,1.68,46, 0,1,0
+AddVertex, 0.01,1.68,30, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+;;
+CreateMeshBuilder,
+AddVertex, 4.97,2.35,-10, 0,1,0
+AddVertex, 4.97,2.35,10, 0,1,0
+AddVertex, 4.97,1.68,10, 0,1,0
+AddVertex, 4.97,1.68,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 4.97,2.35,10, 0,1,0
+AddVertex, 4.97,2.35,30, 0,1,0
+AddVertex, 4.97,1.68,30, 0,1,0
+AddVertex, 4.97,1.68,10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 4.97,2.35,30, 0,1,0
+AddVertex, 4.97,2.35,46, 0,1,0
+AddVertex, 4.97,1.68,46, 0,1,0
+AddVertex, 4.97,1.68,30, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 0.01,4.17,-10, 0,1,0
+AddVertex, 0.01,4.17,46, 0,1,0
+AddVertex, 0.01,3.1,46, 0,1,0
+AddVertex, 0.01,3.1,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0.2
+SetTextureCoordinates, 1, 1, 0.2
+SetTextureCoordinates, 2, 1, 0.5
+SetTextureCoordinates, 3, 0.6, 0.5
+
+CreateMeshBuilder,
+AddVertex, 0,4.07,-10, 0,1,0
+AddVertex, 0,4.07,46, 0,1,0
+AddVertex, 5,4.07,46, 0,1,0
+AddVertex, 5,4.07,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1c.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 10, 0
+SetTextureCoordinates, 2, 10, 1
+SetTextureCoordinates, 3, 0, 1
+
+CreateMeshBuilder,
+AddVertex, 4.97,4.17,-10, 0,1,0
+AddVertex, 4.97,4.17,46, 0,1,0
+AddVertex, 4.97,3.1,46, 0,1,0
+AddVertex, 4.97,3.1,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.6, 0.2
+SetTextureCoordinates, 1, 1, 0.2
+SetTextureCoordinates, 2, 1, 0.5
+SetTextureCoordinates, 3, 0.6, 0.5
+
+CreateMeshBuilder,
+AddVertex, 5,0.81,-10, 0,1,0
+AddVertex, 5,0.81,46, 0,1,0
+AddVertex, 4.7,0.81,46, 0,1,0
+AddVertex, 4.7,0.81,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0
+SetTextureCoordinates, 1, 0.58, 15
+SetTextureCoordinates, 2, 0.45, 15
+SetTextureCoordinates, 3, 0.45, 0
+
+CreateMeshBuilder,
+AddVertex, 0.3,0.81,-10, 0,1,0
+AddVertex, 0.3,0.81,46, 0,1,0
+AddVertex, 0,0.81,46, 0,1,0
+AddVertex, 0,0.81,-10, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.45, 0
+SetTextureCoordinates, 1, 0.45, 15
+SetTextureCoordinates, 2, 0.58, 15
+SetTextureCoordinates, 3, 0.58, 0
+
+CreateMeshBuilder,
+AddVertex, -1,4.5,-10
+AddVertex, -1,-6,-10
+AddVertex, 6,-6,-10
+AddVertex, 6,4.5,-10
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.25, 0
+SetTextureCoordinates, 1, 0.25, 1
+SetTextureCoordinates, 2, 0.008, 1
+SetTextureCoordinates, 3, 0.008, 0
+SetDecalTransparentColor, 0,0,0
+
+CreateMeshBuilder,
+AddVertex, 6,4.5,-10
+AddVertex, 6,-6,-10
+AddVertex, 6,-6,-11
+AddVertex, 6,4.5,-11
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.008, 0
+SetTextureCoordinates, 1, 0.008, 1
+SetTextureCoordinates, 2, 0, 1
+SetTextureCoordinates, 3, 0, 0
+
+CreateMeshBuilder,
+AddVertex, 6,4.5,-11
+AddVertex, 6,-6,-11
+AddVertex, 6,-6,-13.5
+AddVertex, 6,4.5,-13.5
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 1, 0.46
+SetTextureCoordinates, 1, 1, 1
+SetTextureCoordinates, 2, 0.8, 1
+SetTextureCoordinates, 3, 0.8, 0.46
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, -1,4.5,-10
+AddVertex, -1,-6,-10
+AddVertex, -1,-6,-11
+AddVertex, -1,4.5,-11
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.01, 0
+SetTextureCoordinates, 1, 0.01, 1
+SetTextureCoordinates, 2, 0, 1
+SetTextureCoordinates, 3, 0, 0
+
+CreateMeshBuilder,
+AddVertex, -1,5.1,-11
+AddVertex, -1,-6,-11
+AddVertex, -1,-6,-14
+AddVertex, -1,5.1,-14
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 1, 0.46
+SetTextureCoordinates, 1, 1, 1
+SetTextureCoordinates, 2, 0.75, 1
+SetTextureCoordinates, 3, 0.75, 0.46
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, -1,4.5,-14
+AddVertex, -1,-6,-14
+AddVertex, -1,-6,-15
+AddVertex, -1,4.5,-15
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.05, 0
+SetTextureCoordinates, 1, 0.05, 1
+SetTextureCoordinates, 2, 0, 1
+SetTextureCoordinates, 3, 0, 0
+
+CreateMeshBuilder,
+AddVertex, 6,4.5,-13.5
+AddVertex, 6,-6,-13.5
+AddVertex, 7,-6,-14.5
+AddVertex, 7,4.5,-14.5
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.8, 0.46
+SetTextureCoordinates, 1, 0.8, 1
+SetTextureCoordinates, 2, 0.75, 1
+SetTextureCoordinates, 3, 0.75, 0.46
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 5,4.1,-10
+AddVertex, 5,4.1,46
+AddVertex, 0,4.1,46
+AddVertex, 0,4.1,-10
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 5,0.6,-10
+AddVertex, 5,0.6,46
+AddVertex, 0,0.6,46
+AddVertex, 0,0.6,-10
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 4.5,0,-10
+AddVertex, 4.5,0,46
+AddVertex, 0.5,0,46
+AddVertex, 0.5,0,-10
+AddFace2, 0,1,2,3
+SetColor, 180,180,180
+
+;;right;;
+CreateMeshBuilder,
+AddVertex, 5,4.1,46
+AddVertex, -17.4,4.1,70
+AddVertex, -22.55,4.1,70
+AddVertex, 0,4.1,46
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 5,0.6,46
+AddVertex, -17,0.6,70
+AddVertex, -22,0.6,70
+AddVertex, 0,0.6,46
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 4.5,0,46
+AddVertex, -17.5,0,70
+AddVertex, -22.5,0,70
+AddVertex, 0.5,0,46
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 4.5,0,46
+AddVertex, -17.5,0,70
+AddVertex, -17.5,0.6,70
+AddVertex, 4.5,0.6,46
+AddFace2, 0,1,2,3
+SetColor, 206,206,208
+
+CreateMeshBuilder,
+AddVertex, -22.5,0,70
+AddVertex, 0.5,0,46
+AddVertex, 0.5,0.6,46
+AddVertex, -22.5,0.6,70
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 9,-6.1,46
+AddVertex, -13.4,-6.1,70
+AddVertex, -26.55,-6.1,70
+AddVertex, -4,-6.1,46
+AddFace2, 0,1,2,3
+LoadTexture, ..\..\Road\shadow1.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 1
+SetTextureCoordinates, 3, 0, 1
+
+CreateMeshBuilder,
+AddVertex, -22.5,2.35,70, 0,1,0
+AddVertex, 0.01,2.35,46, 0,1,0
+AddVertex, 0.01,1.68,46, 0,1,0
+AddVertex, -22.5,1.68,70, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, -17.5,2.35,70, 0,1,0
+AddVertex, 5,2.35,46, 0,1,0
+AddVertex, 5,1.68,46, 0,1,0
+AddVertex, -17.5,1.68,70, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0.58, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.78
+SetTextureCoordinates, 3, 0.58, 0.78
+
+CreateMeshBuilder,
+AddVertex, 4.97,1.68,46, 0,1,0
+AddVertex, -17.5,1.68,70, 0,1,0
+AddVertex, -17.5,0.81,70, 0,1,0
+AddVertex, 4.97,0.81,46, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 9
+SetTextureCoordinates, 2, 0.23, 9
+SetTextureCoordinates, 3, 0.23, 0
+
+CreateMeshBuilder,
+AddVertex, 0,1.68,46, 0,1,0
+AddVertex, -22.5,1.68,70, 0,1,0
+AddVertex, -22.5,0.81,70, 0,1,0
+AddVertex, 0,0.81,46, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1a.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 9
+SetTextureCoordinates, 2, 0.23, 9
+SetTextureCoordinates, 3, 0.23, 0
+
+CreateMeshBuilder,
+AddVertex, 5,0.8,46, 0,1,0
+AddVertex, -17.5,0.8,70, 0,1,0
+AddVertex, -22.5,0.8,70, 0,1,0
+AddVertex, 0,0.8,46, 0,1,0
+AddFace2, 0,1,2,3
+LoadTexture, Bridge1b.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 0, 17
+SetTextureCoordinates, 2, 1, 17
+SetTextureCoordinates, 3, 1, 0
+SetDecalTransparentColor, 0,0,0
+
+;;
+
+CreateMeshBuilder,
+AddVertex, 6.5,-6.1,7.77
+AddVertex, 6.5,-6.55,15
+AddVertex, 1.5,-6.55,15
+AddVertex, 1.5,-6.1,7.77
+AddVertex, 6.5,-6.55,15
+AddVertex, 6.5,-6.55,22
+AddVertex, 1.5,-6.55,22
+AddVertex, 1.5,-6.55,15
+AddVertex, 7.5,-6.6,24.3
+AddVertex, 8.5,-6.6,40
+AddVertex, 1.5,-6.6,40
+AddVertex, 1.5,-6.6,24.3
+AddVertex, 8.5,-6.6,40
+AddVertex, 9.5,-6.6,48
+AddVertex, 1.5,-6.6,48
+AddVertex, 1.5,-6.6,40
+AddVertex, 6.5,-6.25,7
+AddVertex, 6.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,7
+AddFace2, 0,1,2,3
+AddFace2, 4,5,6,7
+AddFace2, 8,9,10,11
+AddFace2, 12,13,14,15
+AddFace2, 16,17,18,19
+LoadTexture, ..\..\Shared_Assets\gradient.png
+SetTextureCoordinates, 0, 0, 0
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 1, 0.5
+SetTextureCoordinates, 3, 0, 0.5
+SetTextureCoordinates, 4, 0, 0
+SetTextureCoordinates, 5, 1, 0
+SetTextureCoordinates, 6, 1, 0.5
+SetTextureCoordinates, 7, 0, 0.5
+SetTextureCoordinates, 8, 0, 0
+SetTextureCoordinates, 9, 1, 0
+SetTextureCoordinates, 10, 1, 0.5
+SetTextureCoordinates, 11, 0, 0.5
+SetTextureCoordinates, 12, 0, 0
+SetTextureCoordinates, 13, 1, 0
+SetTextureCoordinates, 14, 1, 0.5
+SetTextureCoordinates, 15, 0, 0.5
+SetTextureCoordinates, 16, 0, 0
+SetTextureCoordinates, 17, 1, 0
+SetTextureCoordinates, 18, 1, 0.5
+SetTextureCoordinates, 19, 0, 0.5
+SetDecalTransparentColor,255,255,255
+Translate,-2,0.2,0
+
+CreateMeshBuilder,
+AddVertex, 3.5,-6.1,7.77
+AddVertex, 3.5,-6.55,15
+AddVertex, 1.5,-6.55,15
+AddVertex, 1.5,-6.1,7.77
+AddVertex, 3.5,-6.55,15
+AddVertex, 3.5,-6.55,22
+AddVertex, 1.5,-6.55,22
+AddVertex, 1.5,-6.55,15
+AddVertex, 3.5,-6.6,24.3
+AddVertex, 3.5,-6.6,40
+AddVertex, 1.5,-6.6,40
+AddVertex, 1.5,-6.6,24.3
+AddVertex, 3.5,-6.6,40
+AddVertex, 3.5,-6.6,48
+AddVertex, 1.5,-6.6,48
+AddVertex, 1.5,-6.6,40
+AddVertex, 3.5,-6.25,7
+AddVertex, 3.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,7
+AddFace2, 0,1,2,3
+AddFace2, 4,5,6,7
+AddFace2, 8,9,10,11
+AddFace2, 12,13,14,15
+AddFace2, 16,17,18,19
+LoadTexture, ..\..\Shared_Assets\gradient.png
+SetTextureCoordinates, 0, 0, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0.5
+SetTextureCoordinates, 3, 0, 0.5
+SetTextureCoordinates, 4, 0, 0.5
+SetTextureCoordinates, 5, 1, 0.5
+SetTextureCoordinates, 6, 1, 0.5
+SetTextureCoordinates, 7, 0, 0.5
+SetTextureCoordinates, 8, 0, 0.5
+SetTextureCoordinates, 9, 1, 0.5
+SetTextureCoordinates, 10, 1, 0.5
+SetTextureCoordinates, 11, 0, 0.5
+SetTextureCoordinates, 12, 0, 0.5
+SetTextureCoordinates, 13, 1, 0.5
+SetTextureCoordinates, 14, 1, 0.5
+SetTextureCoordinates, 15, 0, 0.5
+SetTextureCoordinates, 16, 0, 0.5
+SetTextureCoordinates, 17, 1, 0.5
+SetTextureCoordinates, 18, 1, 0.5
+SetTextureCoordinates, 19, 0, 0.5
+SetDecalTransparentColor,255,255,255
+Translate,-4,0.2,0
+
+CreateMeshBuilder,
+AddVertex, 6.5,-6.1,7.77
+AddVertex, 6.5,-6.55,15
+AddVertex, 1.5,-6.55,15
+AddVertex, 1.5,-6.1,7.77
+AddVertex, 6.5,-6.55,15
+AddVertex, 6.5,-6.55,22
+AddVertex, 1.5,-6.55,22
+AddVertex, 1.5,-6.55,15
+AddVertex, 6.5,-6.6,24.3
+AddVertex, 6.5,-6.6,40
+AddVertex, 1.5,-6.6,40
+AddVertex, 1.5,-6.6,24.3
+AddVertex, 6.5,-6.6,40
+AddVertex, 6.5,-6.6,48
+AddVertex, 1.5,-6.6,48
+AddVertex, 1.5,-6.6,40
+AddVertex, 6.5,-6.25,7
+AddVertex, 6.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,-2.2
+AddVertex, 1.5,-6.25,7
+AddFace2, 0,1,2,3
+AddFace2, 4,5,6,7
+AddFace2, 8,9,10,11
+AddFace2, 12,13,14,15
+AddFace2, 16,17,18,19
+LoadTexture, ..\..\Shared_Assets\gradient.png
+SetTextureCoordinates, 0, 0, 0.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 0, 0
+SetTextureCoordinates, 4, 0, 0.5
+SetTextureCoordinates, 5, 1, 0.5
+SetTextureCoordinates, 6, 1, 0
+SetTextureCoordinates, 7, 0, 0
+SetTextureCoordinates, 8, 0, 0.5
+SetTextureCoordinates, 9, 1, 0.5
+SetTextureCoordinates, 10, 1, 0
+SetTextureCoordinates, 11, 0, 0
+SetTextureCoordinates, 12, 0, 0.5
+SetTextureCoordinates, 13, 1, 0.5
+SetTextureCoordinates, 14, 1, 0
+SetTextureCoordinates, 15, 0, 0
+SetTextureCoordinates, 16, 0, 0.5
+SetTextureCoordinates, 17, 1, 0.5
+SetTextureCoordinates, 18, 1, 0
+SetTextureCoordinates, 19, 0, 0
+SetDecalTransparentColor,255,255,255
+Translate,-9,0.2,0
+
+CreateMeshBuilder,
+AddVertex, 4.5,0,-10
+AddVertex, 4.5,0,46
+AddVertex, 4.5,0.6,46
+AddVertex, 4.5,0.6,-10
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, 0.5,0,46
+AddVertex, 0.5,0,-5
+AddVertex, 0.5,0.6,-5
+AddVertex, 0.5,0.6,46
+AddFace2, 0,1,2,3
+SetColor, 246,246,248
+
+CreateMeshBuilder,
+AddVertex, -1,4.5,46 
+AddVertex, -1,-6.5,46
+AddVertex, 6,-6.5,46
+AddVertex, 6,4.5,46
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.5, 0
+SetTextureCoordinates, 1, 0.5, 1
+SetTextureCoordinates, 2, 0.25, 1
+SetTextureCoordinates, 3, 0.25, 0
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex, 6,4.5,47
+AddVertex, 6,-6.5,47
+AddVertex, 6,-6.5,46
+AddVertex, 6,4.5,46
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.01, 0
+SetTextureCoordinates, 1, 0.01, 1
+SetTextureCoordinates, 2, 0, 1
+SetTextureCoordinates, 3, 0, 0
+
+CreateMeshBuilder,
+AddVertex, -1,4.5,47
+AddVertex, -1,-6.5,47
+AddVertex, -1,-6.5,46
+AddVertex, -1,4.5,46
+AddFace2, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 0.01, 0
+SetTextureCoordinates, 1, 0.01, 1
+SetTextureCoordinates, 2, 0, 1
+SetTextureCoordinates, 3, 0, 0
+
+CreateMeshBuilder,
+AddVertex, -1,0,47
+AddVertex, -1,-6.5,47
+AddVertex, -1,-6.5,53
+AddVertex, -1,0,53
+AddFace, 0,1,2,3
+LoadTexture, bridge_left2.png
+SetTextureCoordinates, 0, 1, 0
+SetTextureCoordinates, 1, 1, 0.45
+SetTextureCoordinates, 2, 0.75, 0.45
+SetTextureCoordinates, 3, 0.75, 0
+
+RotateAll, 0,1,0,90

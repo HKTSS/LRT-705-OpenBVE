@@ -1,0 +1,75 @@
+[Object]
+States = brand.csv
+Position = -32.76,0.3,93.3
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.77,0.3,93.305
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.78,0.3,93.310
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.79,0.3,93.315
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.80,0.3,93.320
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.81,0.3,93.325
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.82,0.3,93.330
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.83,0.3,93.335
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.84,0.3,93.340
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.85,0.3,93.345
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.86,0.3,93.350
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.87,0.3,93.355
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.88,0.3,93.360
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.89,0.3,93.365
+RotateYFunction = -0.60
+
+[Object]
+States = brand_shadow.csv
+Position = -32.90,0.3,93.370
+RotateYFunction = -0.60
+;;Kingswood Ginza end;;

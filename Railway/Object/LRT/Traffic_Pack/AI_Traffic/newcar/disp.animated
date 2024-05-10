@@ -1,0 +1,66 @@
+[Object]
+states = taxi\red.csv
+Position = 0,0,0
+[Object]
+states = taxi\green.csv
+Position = 4,0,0
+[Object]
+states = taxi\hybrid.csv
+Position = 8,0,0.3
+;;
+[Object]
+states = van\white.csv
+Position = 0,0,-6
+[Object]
+states = van\grey.csv
+Position = 4,0,-6
+[Object]
+states = van\blue.csv
+Position = 8,0,-6
+;;;
+[Object]
+states = minibus\red.csv
+Position = 0,0,-14
+[Object]
+states = minibus\red_n.csv
+Position = 4,0,-14
+[Object]
+states = minibus\school.csv
+Position = 8,0,-15
+;;;
+[Object]
+states = minibus\green.csv
+Position = 0,0,-24
+[Object]
+states = minibus\green_n.csv
+Position = 4,0,-24
+[Object]
+states = minibus\neats.csv
+Position = 8,0,-24
+
+;;;
+[Object]
+states = truck\rubbish.csv
+Position = 12,0,-3.5
+[Object]
+states = truck\hktv.csv
+Position = 16,0,-2.5
+[Object]
+states = truck\1.csv
+Position = 20,0,-3.5
+[Object]
+states = truck\2.csv
+Position = 24,0,-6
+;;;
+[Object]
+states = tourbus\sf.csv
+Position = 12,0,-20
+[Object]
+states = tourbus\js.csv
+Position = 16,0,-20
+[Object]
+states = tourbus\kc.csv
+Position = 20,0,-20
+[Object]
+states = tourbus\sun.csv
+Position = 24,0,-20

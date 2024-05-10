@@ -1,0 +1,83 @@
+ [MeshBuilder]
+Vertex 0,16,11,0,1,0
+Vertex 9,16,1, 0,1,0
+Vertex 9,0,1, 0,1,0
+Vertex 0,0,11,0,1,0
+Face2 0,1,2,3
+Load tree2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+ [MeshBuilder]
+Vertex 9.6,16,11,0,1,0
+Vertex 0.6,16,1, 0,1,0
+Vertex 0.6,0,1, 0,1,0
+Vertex 9.6,0,11,0,1,0
+Face2 0,1,2,3
+Load tree2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+
+
+ [MeshBuilder]
+Vertex 0,16,16,0,1,0
+Vertex 9,16,6, 0,1,0
+Vertex 9,0,6, 0,1,0
+Vertex 0,0,16,0,1,0
+Face2 0,1,2,3
+Load tree4.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+ [MeshBuilder]
+Vertex 9,16,16,0,1,0
+Vertex 0,16,6, 0,1,0
+Vertex 0,0,6, 0,1,0
+Vertex 9,0,16,0,1,0
+Face2 0,1,2,3
+Load tree4.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+
+
+ [MeshBuilder]
+Vertex 0,16,25,0,1,0
+Vertex 9,16,15, 0,1,0
+Vertex 9,0,15, 0,1,0
+Vertex 0,0,25,0,1,0
+Face2 0,1,2,3
+Load tree6.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+ [MeshBuilder]
+Vertex 9,16,25,0,1,0
+Vertex 0,16,15, 0,1,0
+Vertex 0,0,15, 0,1,0
+Vertex 9,0,25,0,1,0
+Face2 0,1,2,3
+Load tree6.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+Transparent 255,255,255
+
+Translate 0,0,15

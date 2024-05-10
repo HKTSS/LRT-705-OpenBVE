@@ -1,0 +1,12 @@
+CreateMeshBuilder,
+Cube, 0.2,0.65,0.2
+SetEmissiveColor,255,255,255
+LoadTexture,WhatIsThis_2.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0, 0,
+SetTextureCoordinates,4, 1, 0,
+SetTextureCoordinates,5, 1, 1,
+SetTextureCoordinates,6, 0, 1,
+SetTextureCoordinates,7, 0, 0,

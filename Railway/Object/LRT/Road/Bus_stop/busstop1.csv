@@ -1,0 +1,36 @@
+﻿CreateMeshBuilder,
+Cylinder, 5, 0.04, 0.04, 2.2
+Translate, -4, -6.35, 5
+SetColor, 145, 145, 145
+
+CreateMeshBuilder
+AddVertex, -3.75, -5.25, 5
+AddVertex, -3.75, -4.75, 5
+AddVertex, -4.25, -4.75, 5
+AddVertex, -4.25, -5.25, 5
+AddFace, 0, 1, 2, 3
+LoadTexture, busstop_tsw.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 0, 0
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 1, 1
+SetDecalTransparentColor, 230, 230, 230
+
+CreateMeshBuilder
+AddVertex, -3.75, -5.25, 5
+AddVertex, -3.75, -4.75, 5
+AddVertex, -4.25, -4.75, 5
+AddVertex, -4.25, -5.25, 5
+AddFace, 3, 2, 1, 0
+LoadTexture, busstop_tsw.png
+SetEmissiveColor,255,255,255
+SetTextureCoordinates, 0, 1, 1
+SetTextureCoordinates, 1, 1, 0
+SetTextureCoordinates, 2, 0, 0
+SetTextureCoordinates, 3, 0, 1
+SetDecalTransparentColor, 230, 230, 230
+
+translateall,-9,7.5,0
+
+ScaleAll, 1.1,1.1,1.1

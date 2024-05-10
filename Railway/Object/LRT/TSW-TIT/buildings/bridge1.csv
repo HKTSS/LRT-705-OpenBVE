@@ -1,0 +1,653 @@
+CreateMeshBuilder,
+AddVertex,-32.30, 1.6, 150,
+AddVertex,-32.30, 1.6, 140,
+AddVertex,-32.30, 0.0, 140,
+AddVertex,-32.30, 0.0, 150,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1a.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 2.7, 140,
+AddVertex,-32.30, 2.7, 128,
+AddVertex,-32.30, 0.0, 128,
+AddVertex,-32.30, 0.0, 140,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1b.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 8.5, 145,
+AddVertex,-32.30, 8.5, 110,
+AddVertex,-32.30, 0.0, 110,
+AddVertex,-32.30, 0.0, 145,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1c.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;exterior cover;;
+CreateMeshBuilder,
+AddVertex,-38.30, 3.25, 110,
+AddVertex,-32.30, 3.25, 110,
+AddVertex,-32.30, 0.0, 110,
+AddVertex,-38.30, 0.0, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1g.png,
+SetTextureCoordinates,0, -1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, -1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;exterior ceiling;;
+
+CreateMeshBuilder,
+AddVertex,-38.29, 6.5, 145,
+AddVertex,-38.29, 8.4, 116,
+AddVertex,-32.29, 8.4, 116,
+AddVertex,-32.29, 6.5, 145,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 8.4, 116,
+AddVertex,-38.29, 8.4, 110,
+AddVertex,-32.29, 8.4, 110,
+AddVertex,-32.29, 8.4, 116,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;other side;;
+;;inside;;
+CreateMeshBuilder,
+AddVertex,-38.29, 8.5, 145,
+AddVertex,-38.29, 8.5, 110,
+AddVertex,-38.29, 0.0, 110,
+AddVertex,-38.29, 0.0, 145,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_a.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.30, 8.5, 145,
+AddVertex,-38.30, 8.5, 110,
+AddVertex,-38.30, 0.0, 110,
+AddVertex,-38.30, 0.0, 145,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1c.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;inside floor;;
+CreateMeshBuilder,
+AddVertex,-38.29, 0.0, 150,
+AddVertex,-38.29, 3.7, 116,
+AddVertex,-32.29, 3.7, 116,
+AddVertex,-32.29, 0.0, 150,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 20, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 20, 2,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 3.7, 116,
+AddVertex,-38.29, 3.7, 110,
+AddVertex,-32.29, 3.7, 110,
+AddVertex,-32.29, 3.7, 116,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 5, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 5, 2,
+SetDecalTransparentColor,0,0,255
+
+;;inside ceiling;;
+CreateMeshBuilder,
+AddVertex,-38.29, 5.85, 145,
+AddVertex,-38.29, 7.85, 116,
+AddVertex,-32.29, 7.85, 116,
+AddVertex,-32.29, 5.85, 145,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 15, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 15, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 7.85, 116,
+AddVertex,-38.29, 7.85, 110,
+AddVertex,-32.29, 7.85, 110,
+AddVertex,-32.29, 7.85, 116,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 3, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 3, 1,
+SetDecalTransparentColor,0,0,255
+
+;;fence;;
+
+CreateMeshBuilder,
+AddVertex,-32.4, 2, 150,
+AddVertex,-32.4, 5.5, 117,
+AddVertex,-32.4, 3.5, 117,
+AddVertex,-32.4, 0, 150,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 10, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 10, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.4, 5.5, 117,
+AddVertex,-32.4, 5.5, 110,
+AddVertex,-32.4, 3.5, 110,
+AddVertex,-32.4, 3.5, 117,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 2, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 2, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.1, 2, 150,
+AddVertex,-38.1, 5.5, 117,
+AddVertex,-38.1, 3.5, 117,
+AddVertex,-38.1, 0, 150,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 10, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 10, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.1, 5.5, 117,
+AddVertex,-38.1, 5.5, 110,
+AddVertex,-38.1, 3.5, 110,
+AddVertex,-38.1, 3.5, 117,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 2, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 2, 1,
+SetDecalTransparentColor,0,0,255
+
+;;2nd part;;
+CreateMeshBuilder,
+AddVertex,-32.30, 11.3, 110,
+AddVertex,-32.30, 11.3, 75,
+AddVertex,-32.30, 0.4, 75,
+AddVertex,-32.30, 0.4, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1e.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.30, 11.3, 110,
+AddVertex,-38.30, 11.3, 75,
+AddVertex,-38.30, 0.4, 75,
+AddVertex,-38.30, 0.4, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_e.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;exterior ceiling;;
+CreateMeshBuilder,
+AddVertex,-38.29, 8.4, 110,
+AddVertex,-38.29, 11.35, 75,
+AddVertex,-32.29, 11.35, 75,
+AddVertex,-32.29, 8.4, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 3.7, 110,
+AddVertex,-38.29, 7.45, 75,
+AddVertex,-32.29, 7.45, 75,
+AddVertex,-32.29, 3.7, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 20, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 20, 2,
+SetDecalTransparentColor,0,0,255
+
+;;fence;;
+CreateMeshBuilder,
+AddVertex,-32.4, 3.9, 110,
+AddVertex,-32.4, 7.5, 75,
+AddVertex,-32.4, 9, 75,
+AddVertex,-32.4, 5.5, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 11, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 11, -1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.1, 3.9, 110,
+AddVertex,-38.1, 7.5, 75,
+AddVertex,-38.1, 9, 75,
+AddVertex,-38.1, 5.5, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 11, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 11, -1,
+SetDecalTransparentColor,0,0,255
+
+;;inside ceiling;;
+CreateMeshBuilder,
+AddVertex,-38.29, 7.85, 110,
+AddVertex,-38.29, 11, 75,
+AddVertex,-32.29, 11, 75,
+AddVertex,-32.29, 7.85, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 15, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 15, 1,
+SetDecalTransparentColor,0,0,255
+
+;;bottom;;
+CreateMeshBuilder,
+AddVertex,-38.29, 3.25, 110,
+AddVertex,-38.29, 7, 75,
+AddVertex,-32.29, 7, 75,
+AddVertex,-32.29, 3.25, 110,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1h.png,
+SetTextureCoordinates,0, 15, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 15, 1,
+SetDecalTransparentColor,0,0,255
+
+;;3rd part;;
+CreateMeshBuilder,
+AddVertex,-32.30, 13.3, 75,
+AddVertex,-32.30, 13.3, 40,
+AddVertex,-32.30, 4.2, 40,
+AddVertex,-32.30, 4.2, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1f.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.30, 13.3, 75,
+AddVertex,-38.30, 13.3, 40,
+AddVertex,-38.30, 4.2, 40,
+AddVertex,-38.30, 4.2, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_f.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 11.35, 75,
+AddVertex,-38.29, 11.3, 73.5,
+AddVertex,-32.29, 11.3, 73.5,
+AddVertex,-32.29, 11.35, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 11.3, 73.5,
+AddVertex,-38.29, 13.3, 40,
+AddVertex,-32.29, 13.3, 40,
+AddVertex,-32.29, 11.3, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+;;bottom;;
+CreateMeshBuilder,
+AddVertex,-38.29, 7, 75,
+AddVertex,-38.29, 7, 73.5,
+AddVertex,-32.29, 7, 73.5,
+AddVertex,-32.29, 7, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1h.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 7, 73.5,
+AddVertex,-38.29, 9.6, 40,
+AddVertex,-32.29, 9.6, 40,
+AddVertex,-32.29, 7, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1h.png,
+SetTextureCoordinates,0, 12, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 12, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 7.45, 75,
+AddVertex,-38.29, 7.45, 73.5,
+AddVertex,-32.29, 7.45, 73.5,
+AddVertex,-32.29, 7.45, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 2, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 2, 2,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 7.45, 73.5,
+AddVertex,-38.29, 9.95, 40,
+AddVertex,-32.29, 9.95, 40,
+AddVertex,-32.29, 7.45, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 20, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 20, 2,
+SetDecalTransparentColor,0,0,255
+
+;;inside ceiling;;
+CreateMeshBuilder,
+AddVertex,-38.29, 11, 75,
+AddVertex,-38.29, 11, 73.5,
+AddVertex,-32.29, 11, 73.5,
+AddVertex,-32.29, 11, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 1.5, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1.5, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.29, 11, 73.5,
+AddVertex,-38.29, 13.1, 40,
+AddVertex,-32.29, 13.1, 40,
+AddVertex,-32.29, 11, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 15, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 15, 2,
+SetDecalTransparentColor,0,0,255
+
+;;fence;;
+CreateMeshBuilder,
+AddVertex,-32.4, 7.5, 75,
+AddVertex,-32.4, 7.5, 73.5,
+AddVertex,-32.4, 9, 73.5,
+AddVertex,-32.4, 9, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 1, -1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.4, 7.5, 73.5,
+AddVertex,-32.4, 10, 40,
+AddVertex,-32.4, 11.5, 40,
+AddVertex,-32.4, 9, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 11, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 11, -1,
+SetDecalTransparentColor,0,0,255
+;;
+
+;;right fence;;
+CreateMeshBuilder,
+AddVertex,-38.1, 7.5, 75,
+AddVertex,-38.1, 7.5, 73.5,
+AddVertex,-38.1, 9, 73.5,
+AddVertex,-38.1, 9, 75,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 1, -1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.1, 7.5, 73.5,
+AddVertex,-38.1, 10, 40,
+AddVertex,-38.1, 11.5, 40,
+AddVertex,-38.1, 9, 73.5,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_c.png,
+SetTextureCoordinates,0, 11, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, -1,
+SetTextureCoordinates,3, 11, -1,
+SetDecalTransparentColor,0,0,255
+
+;;final turn;;
+CreateMeshBuilder,
+AddVertex,-32.30, 14.9, 40,
+AddVertex,-14.50, 14.9, 40,
+AddVertex,-14.50, 8.5, 40,
+AddVertex,-32.30, 8.5, 40,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1i.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 14.9, 36,
+AddVertex,-14.50, 14.9, 36,
+AddVertex,-14.50, 8.5, 36,
+AddVertex,-32.30, 8.5, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1j.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 13, 40,
+AddVertex,-14.50, 14.3, 40,
+AddVertex,-14.50, 14.3, 36,
+AddVertex,-32.30, 13, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_d.png,
+SetTextureCoordinates,0, 8, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 8, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 13.3, 40,
+AddVertex,-14.50, 14.59, 40,
+AddVertex,-14.50, 14.59, 36,
+AddVertex,-32.30, 13.3, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 2, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 2, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.30, 13.3, 40,
+AddVertex,-32.30, 13.3, 40,
+AddVertex,-32.30, 13.3, 36,
+AddVertex,-38.30, 13.3, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1d.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-38.30, 9.95, 40,
+AddVertex,-32.30, 9.95, 40,
+AddVertex,-32.30, 9.95, 36,
+AddVertex,-38.30, 9.95, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 4, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 4, 2,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-32.30, 9.95, 40,
+AddVertex,-14.50, 11.4, 40,
+AddVertex,-14.50, 11.4, 36,
+AddVertex,-32.30, 9.95, 36,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,bridge1_b.png,
+SetTextureCoordinates,0, 10, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 2,
+SetTextureCoordinates,3, 10, 2,
+SetDecalTransparentColor,0,0,255
+
+TranslateAll,0,0,-37
+;;

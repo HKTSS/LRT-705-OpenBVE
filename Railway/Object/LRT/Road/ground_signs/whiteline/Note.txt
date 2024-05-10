@@ -1,0 +1,6 @@
+The reason why it's named rotat_ed is because OpenBVE intercepts single-line csv file.
+"rotated" is an CSV command (It's the same thing as the rotate command), and therefore got intercepted by the object parser.
+This would cut the command text off, resulting in a white texture.
+This has been fixed in the latest OpenBVE version, but for backward compatibility reason is named "rotat_ed".
+
+https://github.com/leezer3/OpenBVE/issues/613

@@ -1,0 +1,11 @@
+[Object]
+states = sun.csv
+Position = 0,0,0
+[Object]
+states = kc.csv
+Position = 3,0,0
+[Object]
+states = sf.csv
+Position = 6,0,0
+
+

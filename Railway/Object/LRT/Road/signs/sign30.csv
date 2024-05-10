@@ -1,0 +1,30 @@
+CreateMeshBuilder,
+Cylinder,4.5,0.055,0.055,3.55
+SetColor,190,190,200
+Translate,0.3,-0.05,0.93
+
+CreateMeshBuilder,
+AddVertex,0.75, 0.87, 0.87, 0,1,0
+AddVertex,0.75, 1.65, 0.87, 0,1,0
+AddVertex,-0.15, 1.65, 0.87, 0,1,0
+AddVertex,-0.15, 0.87, 0.87, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,sign30.png,
+SetTextureCoordinates,0, 0.5, 1,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0, 0,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-0.15, 0.87, 0.9, 0,1,0
+AddVertex,-0.15, 1.65, 0.9, 0,1,0
+AddVertex,0.75, 1.65, 0.90, 0,1,0
+AddVertex,0.75, 0.87, 0.90, 0,1,0
+AddFace,3, 2, 1, 0,
+LoadTexture,sign30.png,
+SetTextureCoordinates,0, 1, 1,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 0.5, 0,
+SetTextureCoordinates,3, 0.5, 1,
+SetDecalTransparentColor,0,0,255

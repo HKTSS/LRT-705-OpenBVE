@@ -1,0 +1,99 @@
+[Object]
+States = P2_1.csv
+Position = 0, 0, 0
+
+[Object]
+States = P2_2.csv
+Position = 0, 0, 25
+
+[Object]
+States = ..\base\pole_short_flipped.csv
+Position = 6.2, -0.9, -7.4
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, -4.7
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 0.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 5.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 10.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 15.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 20.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 25.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 30.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 35.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 40.3
+
+[Object]
+States = ..\base\pole_flipped.csv
+Position = 6.2, 0, 45
+
+[Object]
+States = ..\base\pole_short_flipped.csv
+Position = 6.2, -0.61, 50
+
+[Object]
+States = ..\base\pole_short_flipped.csv
+Position = 6.2, -0.85, 54.8
+
+[Object]
+States = ..\base\pole_short_flipped.csv
+Position = 6.2, -1.13, 58.8
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = 10.1, 1.25, -19.45
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = 10.1, 1.25, -14.45
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = 10.1, 1.25, 10.65
+
+[Object]
+States = ..\advert\advert_board.csv
+Position = 10.1, 1.25, 15.65
+
+[Object]
+States = ..\advert\2.csv
+Position = 9.99, 1.25, -19.45
+
+[Object]
+States = ..\advert\1.csv
+Position = 9.99, 1.25, -14.45
+
+[Object]
+States = ..\advert\2.csv
+Position = 9.99, 1.25, 10.65
+
+[Object]
+States = ..\advert\1.csv
+Position = 9.99, 1.25, 15.65

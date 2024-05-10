@@ -1,0 +1,51 @@
+﻿;; Speed Limit/AI Support for HKTSS LRV ;;
+;; 140: Set Speed Limit, value is "<speed limit in km/h>" ;;
+;; 145: Set Indicator Left, value is "1: Lit, 0: Unlit" ;;
+;; 146: Set Indicator Right, value is "1: Lit, 0: Unlit" ;;
+
+;; Destination (For stop reporter) ;;
+;; Format: YXXX;;
+;; Y: Direction (2 for UP, 3 for DOWN);;
+;; X: LRT Station Code;;
+
+With Track,
+3150,
+.beacon 140;-1;0;15
+
+3275,
+.beacon 146;-1;0;1
+
+3400,
+.beacon 146;-1;0;0
+
+3425,
+.beacon 140;-1;0;20
+
+3600,
+.beacon 140;-1;0;40
+;; Tin Tsz Stop Reporter ;;
+.destination 0;-1;2435;-1
+
+3825,
+.beacon 140;-1;0;35
+
+3925,
+.beacon 140;-1;0;30
+
+;; Tin Wu Stop Reporter ;;
+3935,
+.destination 0;-1;2450;-1
+
+4000,
+.beacon 140;-1;0;35
+
+4100,
+.stop 0;10;5
+.beacon 140;-1;0;30
+
+;; Ginza Stop Reporter ;;
+4220,
+.destination 0;-1;2455;-1
+
+4475,
+.beacon 140;-1;0;45

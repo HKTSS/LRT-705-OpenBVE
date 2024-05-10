@@ -1,0 +1,21 @@
+CreateMeshBuilder,
+AddVertex,-25.5, 1.3, 0, 0,1,0
+AddVertex,-25.5, 1.3, 25, 0,1,0
+AddVertex,-25.5, 0.2, 25, 0,1,0
+AddVertex,-25.5, 0.2, 0, 0,1,0
+AddFace2,3, 2, 1, 0,
+LoadTexture,fence1.png,
+SetTextureCoordinates,0, 14, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 14, 1,
+SetDecalTransparentColor,0,0,255
+
+;;shadow;;
+CreateMeshBuilder,
+AddVertex,-25.54, 0.2, 0, 0,1,0
+AddVertex,-25.54, 0.2, 25, 0,1,0
+AddVertex,-25.48, 0.2, 25, 0,1,0
+AddVertex,-25.48, 0.2, 0, 0,1,0
+AddFace2,3, 2, 1, 0,
+SetColor,0,0,0,130

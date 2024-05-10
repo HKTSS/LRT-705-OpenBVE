@@ -1,0 +1,300 @@
+CreateMeshBuilder,
+AddVertex, -6.5, 2, 0
+AddVertex, -6.5, 3, 0
+AddVertex, -6.5, 3, 0.7
+AddVertex, -6.5, 2, 0.7
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1.png
+SetTextureCoordinates, 0, 0, -0.28
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0.28
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.498, 2.84, 0.01
+AddVertex, -6.498, 2.993, 0.01
+AddVertex, -6.498, 2.993, 0.69
+AddVertex, -6.498, 2.84, 0.69
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, refl_1.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+SetBlendMode, Additive
+
+CreateMeshBuilder,
+AddVertex, -6.45, 1.8, 0
+AddVertex, -6.5, 2, 0
+AddVertex, -6.5, 2, 0.7
+AddVertex, -6.45, 1.8, 0.7
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1.png
+SetTextureCoordinates, 0, 0, -0.1
+SetTextureCoordinates, 1, 0, -0.28
+SetTextureCoordinates, 2, 1, -0.28
+SetTextureCoordinates, 3, 1, -0.1
+SetDecalTransparentColor, 0, 0, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 1.65, 0
+AddVertex, -6.45, 1.8, 0
+AddVertex, -6.45, 1.8, 0.7
+AddVertex, -6.5, 1.65, 0.7
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -0.1
+SetTextureCoordinates, 2, 1, -0.1
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 0, 0, 255
+
+;;ticket 1a;;
+CreateMeshBuilder,
+AddVertex, -6.43, 2.06, 0.129
+AddVertex, -6.5, 2.315, 0.129
+AddVertex, -6.5, 2.315, 0.582
+AddVertex, -6.43, 2.06, 0.582
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1a.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 2.033, 0.129
+AddVertex, -6.43, 2.06, 0.129
+AddVertex, -6.43, 2.06, 0.582
+AddVertex, -6.5, 2.033, 0.582
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1a.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -0.001
+SetTextureCoordinates, 2, 1, -0.001
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 2.315, 0.129
+AddVertex, -6.5, 2.315, 0.129
+AddVertex, -6.43, 2.06, 0.129
+AddVertex, -6.5, 2.033, 0.129
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1a.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -0.001
+SetTextureCoordinates, 2, 1, -0.001
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 2.315, 0.582
+AddVertex, -6.5, 2.315, 0.582
+AddVertex, -6.43, 2.06, 0.582
+AddVertex, -6.5, 2.033, 0.582
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket1a.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -0.001
+SetTextureCoordinates, 2, 1, -0.001
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+
+;;ticket 2;;
+
+CreateMeshBuilder,
+AddVertex, -6.5, 2, 0.7
+AddVertex, -6.5, 2.55, 0.7
+AddVertex, -6.15, 2.55, 1.1
+AddVertex, -6.15, 2, 1.1
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket2.png
+SetTextureCoordinates, 0, 0, -0.56
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0.56
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.45, 1.8, 0.65
+AddVertex, -6.5, 2, 0.7
+AddVertex, -6.15, 2, 1.1
+AddVertex, -6.10, 1.8, 1.05
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket2.png
+SetTextureCoordinates, 0, 0, -0.4
+SetTextureCoordinates, 1, 0, -0.56
+SetTextureCoordinates, 2, 1, -0.56
+SetTextureCoordinates, 3, 1, -0.4
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 1.65, 0.7
+AddVertex, -6.45,  1.8, 0.65
+AddVertex, -6.10, 1.8, 1.05
+AddVertex, -6.15, 1.65, 1.1
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket2.png
+SetTextureCoordinates, 0, 0, -0.3
+SetTextureCoordinates, 1, 0, -0.4
+SetTextureCoordinates, 2, 1, -0.4
+SetTextureCoordinates, 3, 1, -0.3
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.5, 1.25, 0.7
+AddVertex, -6.5,  1.65, 0.7
+AddVertex, -6.15, 1.65, 1.1
+AddVertex, -6.15, 1.25, 1.1
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket2.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -0.3
+SetTextureCoordinates, 2, 1, -0.3
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+;;ticket side;;
+CreateMeshBuilder,
+AddVertex, -6.6, 2, 0
+AddVertex, -6.6, 3, 0
+AddVertex, -6.5, 3, 0
+AddVertex, -6.5, 2, 0
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.6, 2, 0.75
+AddVertex, -6.6, 3, 0.75
+AddVertex, -6.5, 3, 0.7
+AddVertex, -6.5, 2, 0.7
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0
+SetTextureCoordinates, 1, 0, -1
+SetTextureCoordinates, 2, 1, -1
+SetTextureCoordinates, 3, 1, -0
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.6, 1.8, 0
+AddVertex, -6.6, 2, 0
+AddVertex, -6.5, 2, 0
+AddVertex, -6.45, 1.8, 0
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.2
+SetTextureCoordinates, 1, 0, -0
+SetTextureCoordinates, 2, 1, -0
+SetTextureCoordinates, 3, 1, -0.2
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.6, 1.65, 0
+AddVertex, -6.6, 1.8, 0
+AddVertex, -6.45, 1.8, 0
+AddVertex, -6.5, 1.65, 0
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.4
+SetTextureCoordinates, 1, 0, -0.2
+SetTextureCoordinates, 2, 1, -0.2
+SetTextureCoordinates, 3, 1, -0.4
+SetDecalTransparentColor, 255, 255, 255
+
+;;rotated side;;
+CreateMeshBuilder,
+AddVertex, -6.25, 1.25, 1.15
+AddVertex, -6.25, 2.55, 1.15
+AddVertex, -6.15, 2.55, 1.1
+AddVertex, -6.15, 1.25, 1.1
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.3 
+SetTextureCoordinates, 1, 1, -0.3
+SetTextureCoordinates, 2, 1, -0.35
+SetTextureCoordinates, 3, 0, -0.35
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.15, 1.8, 1.10
+AddVertex, -6.15, 2, 1.10
+AddVertex, -6.1, 1.8, 1.05
+AddVertex, -6.1, 1.8, 1.05
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0.8, -0.20
+SetTextureCoordinates, 1, 1, -0.20
+SetTextureCoordinates, 2, 1, -0.25
+SetTextureCoordinates, 3, 0.8, -0.25
+
+CreateMeshBuilder,
+AddVertex, -6.15, 1.6, 1.10
+AddVertex, -6.15, 1.8, 1.10
+AddVertex, -6.1, 1.8, 1.05
+AddVertex, -6.1, 1.8, 1.05
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.25
+SetTextureCoordinates, 1, 1, -0.25
+SetTextureCoordinates, 2, 1, -0.2
+SetTextureCoordinates, 3, 0, -0.2
+
+
+;;bottom;;
+CreateMeshBuilder,
+AddVertex, -6.6, 1, 0
+AddVertex, -6.6, 3, 0
+AddVertex, -6.6, 3, 0.75
+AddVertex, -6.6, 1, 0.75
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.3 
+SetTextureCoordinates, 1, 1, -0.3
+SetTextureCoordinates, 2, 1, -0.35
+SetTextureCoordinates, 3, 0, -0.35
+SetDecalTransparentColor, 255, 255, 255
+
+CreateMeshBuilder,
+AddVertex, -6.6, 1, 0.75
+AddVertex, -6.6, 2.55, 0.75
+AddVertex, -6.25, 2.55, 1.15
+AddVertex, -6.25, 1, 1.15
+AddFace2, 3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture, ticket_side.png
+SetTextureCoordinates, 0, 0, -0.3 
+SetTextureCoordinates, 1, 1, -0.3
+SetTextureCoordinates, 2, 1, -0.35
+SetTextureCoordinates, 3, 0, -0.35
+SetDecalTransparentColor, 255, 255, 255

@@ -1,0 +1,81 @@
+CreateMeshBuilder,
+AddVertex,100, 13, -30,
+AddVertex,75, 13, -30,
+AddVertex,75, -0.4, -30,
+AddVertex,100, -0.4, -30,
+AddFace,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building4b.png,
+SetTextureCoordinates,0, 0.5, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 1,
+SetTextureCoordinates,3, 0.5, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,125, 13, -30,
+AddVertex,100, 13, -30,
+AddVertex,100, -0.4, -30,
+AddVertex,125, -0.4, -30,
+AddFace,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building4b.png,
+SetTextureCoordinates,0, 0.26, 0,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0.5, 1,
+SetTextureCoordinates,3, 0.26, 1,
+
+CreateMeshBuilder,
+AddVertex,125, 13, -30,
+AddVertex,125, 13, -45,
+AddVertex,125, -0.4, -45,
+AddVertex,125, -0.4, -30,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building4b.png,
+SetTextureCoordinates,0, 0.28, 0,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0.5, 1,
+SetTextureCoordinates,3, 0.28, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,60, 13, -20,
+AddVertex,75, 13, -30,
+AddVertex,75, -0.4, -30,
+AddVertex,60, -0.4, -20,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,building4a.png,
+SetTextureCoordinates,0, 0.5, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 1,
+SetTextureCoordinates,3, 0.5, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,60, 13, 22,
+AddVertex,60, 13, -20,
+AddVertex,60, -0.4, -20,
+AddVertex,60, -0.4, 22,
+AddFace,0, 1, 2, 3,
+SetEmissiveColor,255,255,255
+LoadTexture,building4a.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0.5, 1,
+SetTextureCoordinates,3, 0, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,60, 13, 22,
+AddVertex,100, 13, 22,
+AddVertex,100, -0.4, 22,
+AddVertex,60, -0.4, 22,
+AddFace,3, 2, 1, 0
+SetEmissiveColor,255,255,255
+LoadTexture,building4b.png,
+SetTextureCoordinates,0, 1, 0,
+SetTextureCoordinates,1, 0.5, 0,
+SetTextureCoordinates,2, 0.5, 1,
+SetTextureCoordinates,3, 1, 1,

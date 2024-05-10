@@ -1,0 +1,31 @@
+
+[MeshBuilder]
+cube 0.1,0.9,0.06
+color 90,90,90
+translate 0,0.9,0
+
+[MeshBuilder]
+Vertex 2.3,1.10,0.05
+Vertex 2.3,1.80,0.05
+Vertex 0.1,1.80,0.05
+Vertex 0.1,1.10,0.05
+Face2 0,1,2,3
+Load Fares.png
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0
+Coordinates 2, 1, 0
+Coordinates 3, 1, 1
+
+[MeshBuilder]
+Vertex 2.3,1.10,-0.05
+Vertex 2.3,1.80,-0.05
+Vertex 0.1,1.80,-0.05
+Vertex 0.1,1.10,-0.05
+Face2 0,1,2,3
+color 90,90,90
+
+
+[MeshBuilder]
+cube 0.1,0.9,0.06
+color 90,90,90
+translate 2.4,0.9,0

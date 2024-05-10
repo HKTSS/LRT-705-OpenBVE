@@ -1,0 +1,220 @@
+﻿CreateMeshBuilder,
+AddVertex, -6.65, 2.50, -0.6,
+AddVertex, -6.65, 2.50, +7,
+AddVertex, -6.65, 2.75, +7,
+AddVertex, -6.65, 2.75, -0.6,
+AddVertex, -5.05, 2.75, -0.6,
+AddVertex, -5.05, 2.75, +7,
+AddVertex, -5.05, 2.50, +7,
+AddVertex, -5.05, 2.50, -0.6,
+AddFace, 0, 1, 2, 3
+AddFace, 5, 4, 3, 2
+AddFace, 4, 5, 6, 7
+AddFace, 1, 0, 7, 6
+AddFace, 0, 3, 4, 7
+AddFace, 6, 5, 2, 1
+LoadTexture, busstop_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 6.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 0, 0.5
+SetTextureCoordinates, 3, 0, 6.5
+SetTextureCoordinates, 4, 1, 6.5
+SetTextureCoordinates, 5, 1, 0.5
+SetTextureCoordinates, 6, 0, 0.5
+SetTextureCoordinates, 7, 0, 6.5
+
+CreateMeshBuilder,
+AddVertex, -6.85, 0.00, -1.0,
+AddVertex, -6.85, 0.00, -0.3,
+AddVertex, -6.85, 2.20, -0.3,
+AddVertex, -6.85, 2.20, -1.0,
+AddVertex, -6.25, 2.20, -1.0,
+AddVertex, -6.25, 2.20, -0.3,
+AddVertex, -6.25, 0.00, -0.3,
+AddVertex, -6.25, 0.00, -1.0,
+AddFace, 0, 1, 2, 3
+AddFace, 5, 4, 3, 2
+AddFace, 4, 5, 6, 7
+AddFace, 1, 0, 7, 6
+AddFace, 0, 3, 4, 7
+AddFace, 6, 5, 2, 1
+LoadTexture, busstop_2.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 0, 1
+SetTextureCoordinates, 1, 1, 1
+SetTextureCoordinates, 2, 1, 0
+SetTextureCoordinates, 3, 0, 0
+SetTextureCoordinates, 4, 1, 0
+SetTextureCoordinates, 5, 0, 0
+SetTextureCoordinates, 6, 0, 1
+SetTextureCoordinates, 7, 1, 1
+
+CreateMeshBuilder,
+AddVertex, -6.6, 2.50, 0,
+AddVertex, -6.6, 2.50, 7,
+AddVertex, -6.6, 2.70, 7,
+AddVertex, -6.6, 2.70, 0,
+AddVertex, -6.5, 2.70, 0,
+AddVertex, -6.5, 2.70, 7,
+AddVertex, -6.5, 2.50, 7,
+AddVertex, -6.5, 2.50, 0,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 7.5
+SetTextureCoordinates, 1, 1, 0.5
+SetTextureCoordinates, 2, 0, 0.5
+SetTextureCoordinates, 3, 0, 7.5
+SetTextureCoordinates, 4, 1, 7.5
+SetTextureCoordinates, 5, 1, 0.5
+SetTextureCoordinates, 6, 0, 0.5
+SetTextureCoordinates, 7, 0, 7.5
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, +0.1,
+AddVertex, -6.6, 2.75, +0.1,
+AddVertex, -6.6, 2.75, -0.1,
+AddVertex, -6.6, 0.00, -0.1,
+AddVertex, -6.5, 0.00, +0.1,
+AddVertex, -6.5, 2.75, +0.1,
+AddVertex, -6.5, 2.75, -0.1,
+AddVertex, -6.5, 0.00, -0.1,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, 1.4,
+AddVertex, -6.6, 2.75, 1.4,
+AddVertex, -6.6, 2.75, 1.2,
+AddVertex, -6.6, 0.00, 1.2,
+AddVertex, -6.5, 0.00, 1.4,
+AddVertex, -6.5, 2.75, 1.4,
+AddVertex, -6.5, 2.75, 1.2,
+AddVertex, -6.5, 0.00, 1.2,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, 2.7,
+AddVertex, -6.6, 2.75, 2.7,
+AddVertex, -6.6, 2.75, 2.5,
+AddVertex, -6.6, 0.00, 2.5,
+AddVertex, -6.5, 0.00, 2.7,
+AddVertex, -6.5, 2.75, 2.7,
+AddVertex, -6.5, 2.75, 2.5,
+AddVertex, -6.5, 0.00, 2.5,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, 4.0,
+AddVertex, -6.6, 2.75, 4.0,
+AddVertex, -6.6, 2.75, 3.8,
+AddVertex, -6.6, 0.00, 3.8,
+AddVertex, -6.5, 0.00, 4.0,
+AddVertex, -6.5, 2.75, 4.0,
+AddVertex, -6.5, 2.75, 3.8,
+AddVertex, -6.5, 0.00, 3.8,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, 5.3,
+AddVertex, -6.6, 2.75, 5.3,
+AddVertex, -6.6, 2.75, 5.1,
+AddVertex, -6.6, 0.00, 5.1,
+AddVertex, -6.5, 0.00, 5.3,
+AddVertex, -6.5, 2.75, 5.3,
+AddVertex, -6.5, 2.75, 5.1,
+AddVertex, -6.5, 0.00, 5.1,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+
+CreateMeshBuilder,
+AddVertex, -6.6, 0.00, 6.6,
+AddVertex, -6.6, 2.75, 6.6,
+AddVertex, -6.6, 2.75, 6.4,
+AddVertex, -6.6, 0.00, 6.4,
+AddVertex, -6.5, 0.00, 6.6,
+AddVertex, -6.5, 2.75, 6.6,
+AddVertex, -6.5, 2.75, 6.4,
+AddVertex, -6.5, 0.00, 6.4,
+AddFace2, 0, 1, 2, 3
+AddFace2, 2, 3, 4, 5
+AddFace2, 4, 5, 6, 7
+AddFace2, 6, 7, 0, 1
+LoadTexture, window_1.png
+SetEmissiveColor, 255, 255, 255
+SetTextureCoordinates, 0, 1, 2.4
+SetTextureCoordinates, 1, 1, 0.9
+SetTextureCoordinates, 2, 0, 0.9
+SetTextureCoordinates, 3, 0, 2.4
+SetTextureCoordinates, 4, 1, 2.4
+SetTextureCoordinates, 5, 1, 0.9
+SetTextureCoordinates, 6, 0, 0.9
+SetTextureCoordinates, 7, 0, 2.4
+TranslateAll,-30.5,0,50

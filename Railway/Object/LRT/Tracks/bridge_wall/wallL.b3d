@@ -1,0 +1,106 @@
+[Meshbuilder]
+Vertex -2.6, 1.9, -0.3
+Vertex -2.6, 2.2, -0.3
+Vertex -3.1, 2.2, -0.3
+Vertex -3.1, 1.9, -0.3
+Vertex -2.6, 1.9, 25.3
+Vertex -2.6, 2.2, 25.3
+Vertex -3.1, 2.2, 25.3
+Vertex -3.1, 1.9, 25.3
+Face2 0, 1, 2, 3
+Face2 0, 1, 5, 4
+Face2 1, 2, 6, 5
+Face2 2, 3, 7, 6
+[Texture]
+Load concrete_0005.bmp
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0.6
+Coordinates 2, 0, 0.4
+Coordinates 3, 0, 0
+Coordinates 4, 9, 1
+Coordinates 5, 9, 0.6
+Coordinates 6, 9, 0.4
+Coordinates 7, 9, 0
+
+[Meshbuilder]
+Vertex -2.7, -0.5, 25.3
+Vertex -2.7, 1.9, 25.3
+Vertex -2.7, 1.9, -0.3
+Vertex -2.7, -0.5, -0.3
+Face2 0, 1, 2, 3
+[Texture]
+Load concrete_0004.bmp
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0.2
+Coordinates 2, 5, 0.2
+Coordinates 3, 5, 1
+
+[Meshbuilder]
+Vertex -3.0, -0.5, 25.3
+Vertex -3.0, 1.9, 25.3
+Vertex -3.0, 1.9, -0.3
+Vertex -3.0, -0.5, -0.3
+Vertex -2.7, -0.5, -0.3
+Vertex -2.7, 1.9, -0.3
+Face2 0, 1, 2, 3
+Face2 2, 3, 4, 5
+[Texture]
+Load concrete_007.bmp
+Coordinates 0, 0.9, 0
+Coordinates 1, 0, 0
+Coordinates 2, 0, 10
+Coordinates 3, 0.9, 10
+Coordinates 4, 0, 10
+Coordinates 5, 0.9, 10
+
+
+[Meshbuilder]
+Vertex -1.9, 0.85, -0.5
+Vertex -1.9, 1, -0.5
+Vertex -2.7., 1, -0.5
+Vertex -1.9, 0.85, 25.5
+Vertex -1.9, 1, 25.5
+Vertex -2.7, 1, 25.5
+Vertex -2.7, 0.85, -0.5
+Face2 0, 1, 2, 6
+Face2 0, 1, 4, 3
+Face2 1, 2, 5, 4
+[Texture]
+Load concrete_0031.bmp
+Coordinates 0, 0, 1
+Coordinates 1, 0, 0.9
+Coordinates 2, 0, 0.5
+Coordinates 3, 7, 1
+Coordinates 4, 7, 0.9
+Coordinates 5, 7, 0.5
+
+[Meshbuilder]
+Vertex -2.3, -0.5, -0.5
+Vertex -2.3, 0.99, -0.5
+Vertex -2.5, 0.99, -0.5
+Vertex -2.3, -0.5, 25.5
+Vertex -2.3, 0.99, 25.5
+Vertex -2.5, 0.99, 25.5
+Face2 0, 1, 4, 3
+Face2 1, 2, 5, 4
+[Texture]
+Load concrete_006.bmp
+Coordinates 0, 0, 0
+Coordinates 1, 0, 1
+Coordinates 2, 0, 1
+Coordinates 3, 25, 0
+Coordinates 4, 25, 1
+Coordinates 5, 25, 1
+
+[Meshbuilder]
+Vertex 2.5, -0.402, -0.3
+Vertex 2.5, -0.402, 25.3
+Vertex -3, -0.402, 25.3
+Vertex -3, -0.402, -0.3
+Face 3, 2, 1, 0
+[Texture]
+Load concrete_007.bmp
+Coordinates 0, 0, 0
+Coordinates 1, 1, 0
+Coordinates 2, 1, 1
+Coordinates 3, 0, 1

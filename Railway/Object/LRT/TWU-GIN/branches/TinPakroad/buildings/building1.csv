@@ -1,0 +1,128 @@
+CreateMeshBuilder,
+AddVertex,185, 21, 14,
+AddVertex,165, 21, 23,
+AddVertex,165, -0.4, 23,
+AddVertex,185, -0.4, 14,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0, 0,
+SetTextureCoordinates,1, 0.27, 0,
+SetTextureCoordinates,2, 0.27, 0.50,
+SetTextureCoordinates,3, 0, 0.50,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,165, 21, 23,
+AddVertex,140, 21, 18,
+AddVertex,140, -0.4, 18,
+AddVertex,165, -0.4, 23,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.3, 0,
+SetTextureCoordinates,1, 0.513, 0,
+SetTextureCoordinates,2, 0.513, 0.50,
+SetTextureCoordinates,3, 0.3, 0.50,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,140, 21, 18,
+AddVertex,138, 21, 15,
+AddVertex,138, -0.4, 15,
+AddVertex,140, -0.4, 18,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.515, 0,
+SetTextureCoordinates,1, 0.575, 0,
+SetTextureCoordinates,2, 0.575, 0.5,
+SetTextureCoordinates,3, 0.515, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,138, 21, 15,
+AddVertex,138, 21, 0,
+AddVertex,138, -0.4, 0,
+AddVertex,138, -0.4, 15,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.575, 0,
+SetTextureCoordinates,1, 0.72, 0,
+SetTextureCoordinates,2, 0.72, 0.5,
+SetTextureCoordinates,3, 0.575, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,134, 4, 15,
+AddVertex,134, 4, 0,
+AddVertex,134, -0.4, 0,
+AddVertex,134, -0.4, 15,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.43, 0.37,
+SetTextureCoordinates,1, 0.513, 0.37,
+SetTextureCoordinates,2, 0.513, 0.5,
+SetTextureCoordinates,3, 0.43, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,142, 4, 25,
+AddVertex,134, 4, 15,
+AddVertex,134, -0.4, 15,
+AddVertex,142, -0.4, 25,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.3, 0.37,
+SetTextureCoordinates,1, 0.43, 0.37,
+SetTextureCoordinates,2, 0.43, 0.5,
+SetTextureCoordinates,3, 0.3, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,160, 4, 33,
+AddVertex,142, 4, 25,
+AddVertex,142, -0.4, 25,
+AddVertex,160, -0.4, 33,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.27, 0.37,
+SetTextureCoordinates,1, 0.43, 0.37,
+SetTextureCoordinates,2, 0.43, 0.5,
+SetTextureCoordinates,3, 0.27, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,187, 4, 45,
+AddVertex,160, 4, 33,
+AddVertex,160, -0.4, 33,
+AddVertex,187, -0.4, 45,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0, 0.37,
+SetTextureCoordinates,1, 0.27, 0.37,
+SetTextureCoordinates,2, 0.27, 0.5,
+SetTextureCoordinates,3, 0, 0.5,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,138, 21, 0,
+AddVertex,138, 21, -30,
+AddVertex,138, -0.4, -30,
+AddVertex,138, -0.4, 0,
+AddFace2,3, 2, 1, 0,
+SetEmissiveColor,255,255,255
+LoadTexture,atlas1.png,
+SetTextureCoordinates,0, 0.72, 0,
+SetTextureCoordinates,1, 1, 0,
+SetTextureCoordinates,2, 1, 0.5,
+SetTextureCoordinates,3, 0.72, 0.5,
+SetDecalTransparentColor,0,0,255
+
+RotateAll,0,1,0,-35
+TranslateAll,-1,-1.5,-38

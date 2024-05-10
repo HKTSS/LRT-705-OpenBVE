@@ -1,0 +1,73 @@
+CreateMeshBuilder,
+AddVertex,-0, -0.01, 1, 0,1,0
+AddVertex,-0, -0.01, 0, 0,1,0
+AddVertex,-0, 0.07, 0, 0,1,0
+AddVertex,-0, 0.07, 1, 0,1,0
+
+AddVertex,-0, 0.07, 1, 0,1,0
+AddVertex,-0, 0.07, 0, 0,1,0
+AddVertex,-0.08, 0.2, 0, 0,1,0
+AddVertex,-0.08, 0.2, 1, 0,1,0
+
+AddVertex,-0.08, 0.2, 1, 0,1,0
+AddVertex,-0.08, 0.2, 0, 0,1,0
+AddVertex,-0.14, 0.2, 0, 0,1,0
+AddVertex,-0.14, 0.2, 1, 0,1,0
+
+AddVertex,-0.14, 0.2, 1, 0,1,0
+AddVertex,-0.14, 0.2, 0, 0,1,0
+AddVertex,-0.22, 0.07, 0, 0,1,0
+AddVertex,-0.22, 0.07, 1, 0,1,0
+
+AddVertex,-0.22, 0.07, 1, 0,1,0
+AddVertex,-0.22, 0.07, 0, 0,1,0
+AddVertex,-0.22, -0.01, 0, 0,1,0
+AddVertex,-0.22, -0.01, 1, 0,1,0
+AddFace,0, 1, 2, 3
+AddFace,4, 5, 6, 7
+AddFace,8, 9, 10, 11
+AddFace,12, 13, 14, 15
+AddFace,16, 17, 18, 19
+LoadTexture,roadside19.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0.85,
+SetTextureCoordinates,3, 0, 0.85,
+SetTextureCoordinates,4, 0, 0.85,
+SetTextureCoordinates,5, 1, 0.85,
+SetTextureCoordinates,6, 1, 0.25,
+SetTextureCoordinates,7, 0, 0.25,
+SetTextureCoordinates,8, 0, 0.25,
+SetTextureCoordinates,9, 1, 0.25,
+SetTextureCoordinates,10, 1, 0,
+SetTextureCoordinates,11, 0, 0,
+SetTextureCoordinates,12, 0, 0.25,
+SetTextureCoordinates,13, 1, 0.25,
+SetTextureCoordinates,14, 1, 0.85,
+SetTextureCoordinates,15, 0, 0.85,
+SetTextureCoordinates,16, 0, 0.85,
+SetTextureCoordinates,17, 1, 0.85,
+SetTextureCoordinates,18, 1, 1,
+SetTextureCoordinates,19, 0, 1,
+
+CreateMeshBuilder,
+AddVertex,-0, 0.07, 0, 0,1,0
+AddVertex,-0.22, 0.07, 0, 0,1,0
+AddVertex,-0.22, -0.01, 0, 0,1,0
+AddVertex,-0, -0.01, 0, 0,1,0
+
+AddVertex,-0.08, 0.2, 0, 0,1,0
+AddVertex,-0.14, 0.2, 0, 0,1,0
+
+AddVertex,-0.00, 0.07, 1, 0,1,0
+AddVertex,-0.22, 0.07, 1, 0,1,0
+AddVertex,-0.22, -0.01, 1, 0,1,0
+AddVertex,-0.00, -0.01, 1, 0,1,0
+
+AddVertex,-0.08, 0.20, 1, 0,1,0
+AddVertex,-0.14, 0.20, 1, 0,1,0
+AddFace,3, 2, 1, 0
+AddFace,0, 1, 5, 4
+AddFace,6, 7, 8, 9
+AddFace,10, 11, 7, 6
+SetColor,25,25,25

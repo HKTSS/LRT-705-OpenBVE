@@ -1,0 +1,375 @@
+
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 0,6,0
+StateFunction = if[mod[time,40]/0.8<1,0,1]
+TranslateXFunction = 3.4*mod[time,40]/0.8
+TranslateYFunction = 0.4*mod[time,40]/0.8
+TranslateZFunction = 9.8*mod[time,40]/0.8
+RotateXFunction = -0.04
+RotateYFunction = 0.33-0.01*mod[time,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 3.4,6.4,9.8
+StateFunction = if[mod[time-0.8,40]/0.8<1,0,1]
+TranslateXFunction = 3.3*mod[time-0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-0.8,40]/0.8
+TranslateZFunction = 10*mod[time-0.8,40]/0.8
+RotateXFunction = -0.04
+RotateYFunction = 0.32-0.02*mod[time-0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 6.7,6.8,19.8
+StateFunction = if[mod[time-2*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 3.1*mod[time-2*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-2*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-2*0.8,40]/0.8
+RotateXFunction = -0.04+0.003*mod[time-2*0.8,40]/0.8
+RotateYFunction = 0.3-0.01*mod[time-2*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 9.8,7.2,29.8
+StateFunction = if[mod[time-3*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 3*mod[time-3*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-3*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-3*0.8,40]/0.8
+RotateXFunction = -0.037
+RotateYFunction = 0.29-0.02*mod[time-3*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 12.8,7.6,39.8
+StateFunction = if[mod[time-4*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 2.8*mod[time-4*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-4*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-4*0.8,40]/0.8
+RotateXFunction = -0.037
+RotateYFunction = 0.27-0.02*mod[time-4*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 15.6,8,49.8
+StateFunction = if[mod[time-5*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 2.6*mod[time-5*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-5*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-5*0.8,40]/0.8
+RotateXFunction = -0.037-0.001*mod[time-5*0.8,40]/0.8
+RotateYFunction = 0.25-0.02*mod[time-5*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 18.2,8.4,59.8
+StateFunction = if[mod[time-6*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 2.3*mod[time-6*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-6*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-6*0.8,40]/0.8
+RotateXFunction = -0.038
+RotateYFunction = 0.23-0.04*mod[time-6*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 20.5,8.8,69.8
+StateFunction = if[mod[time-7*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 1.9*mod[time-7*0.8,40]/0.8
+TranslateYFunction = 0.4*mod[time-7*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-7*0.8,40]/0.8
+RotateXFunction = -0.038+0.008*mod[time-7*0.8,40]/0.8
+RotateYFunction = 0.19-0.04*mod[time-7*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 22.4,9.2,79.8
+StateFunction = if[mod[time-8*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 1.5*mod[time-8*0.8,40]/0.8
+TranslateYFunction = 0.3*mod[time-8*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-8*0.8,40]/0.8
+RotateXFunction = -0.03+0.015*mod[time-8*0.8,40]/0.8
+RotateYFunction = 0.15-0.07*mod[time-8*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 23.9,9.5,89.8
+StateFunction = if[mod[time-9*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 0.8*mod[time-9*0.8,40]/0.8
+TranslateYFunction = 0.15*mod[time-9*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-9*0.8,40]/0.8
+RotateXFunction = -0.015
+RotateYFunction = 0.08-0.04*mod[time-9*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 24.7,9.65,99.8
+StateFunction = if[mod[time-10*0.8,40]/0.8<1,0,1]
+TranslateXFunction = 0.4*mod[time-10*0.8,40]/0.8
+TranslateYFunction = 0.15*mod[time-10*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-10*0.8,40]/0.8
+RotateXFunction = -0.015+0.005*mod[time-10*0.8,40]/0.8
+RotateYFunction = 0.04-0.06*mod[time-10*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 25.1,9.8,109.8
+StateFunction = if[mod[time-11*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -0.2*mod[time-11*0.8,40]/0.8
+TranslateYFunction = 0.1*mod[time-11*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-11*0.8,40]/0.8
+RotateXFunction = -0.01
+RotateYFunction = -0.02-0.03*mod[time-11*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 24.9,9.9,119.8
+StateFunction = if[mod[time-12*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -0.5*mod[time-12*0.8,40]/0.8
+TranslateYFunction = 0.1*mod[time-12*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-12*0.8,40]/0.8
+RotateXFunction = -0.01+0.01*mod[time-12*0.8,40]/0.8
+RotateYFunction = -0.05-0.05*mod[time-12*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 24.4,10,129.8
+StateFunction = if[mod[time-13*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -1*mod[time-13*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-13*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.1-0.07*mod[time-13*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 23.4,10,139.8
+StateFunction = if[mod[time-14*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -1.7*mod[time-14*0.8,40]/0.8
+TranslateZFunction = 10*mod[time-14*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.17-0.07*mod[time-14*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 21.7,10,149.8
+StateFunction = if[mod[time-15*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -2.4*mod[time-15*0.8,40]/0.8
+TranslateZFunction = 9.7*mod[time-15*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.24-0.07*mod[time-15*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 19.3,10,159.5
+StateFunction = if[mod[time-16*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -3.1*mod[time-16*0.8,40]/0.8
+TranslateZFunction = 9.6*mod[time-16*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.31-0.05*mod[time-16*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 16.2,10,169.1
+StateFunction = if[mod[time-17*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -3.6*mod[time-17*0.8,40]/0.8
+TranslateZFunction = 9.4*mod[time-17*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.36-0.06*mod[time-17*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 12.6,10,178.5
+StateFunction = if[mod[time-18*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -4.1*mod[time-18*0.8,40]/0.8
+TranslateZFunction = 9.2*mod[time-18*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.42-0.04*mod[time-18*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 8.5,10,187.7
+StateFunction = if[mod[time-19*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -4.3*mod[time-19*0.8,40]/0.8
+TranslateZFunction = 8.6*mod[time-19*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.46-0.08*mod[time-19*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = 4.2,10,196.3
+StateFunction = if[mod[time-20*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -4.9*mod[time-20*0.8,40]/0.8
+TranslateZFunction = 8.2*mod[time-20*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.54-0.04*mod[time-20*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -0.7,10,204.5
+StateFunction = if[mod[time-21*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -5.2*mod[time-21*0.8,40]/0.8
+TranslateZFunction = 7.9*mod[time-21*0.8,40]/0.8
+RotateXFunction = -0.0
+RotateYFunction = -0.58-0.04*mod[time-21*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -5.9,10,212.4
+StateFunction = if[mod[time-22*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -5.3*mod[time-22*0.8,40]/0.8
+TranslateZFunction = 7.3*mod[time-22*0.8,40]/0.8
+RotateXFunction = -0.0-0.02*mod[time-22*0.8,40]/0.8
+RotateYFunction = -0.62-0.06*mod[time-22*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -11.2,10,219.7
+StateFunction = if[mod[time-23*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -5.7*mod[time-23*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-23*0.8,40]/0.8
+TranslateZFunction = 7*mod[time-23*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.68-0.06*mod[time-23*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -16.9,10.2,226.7
+StateFunction = if[mod[time-24*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -6.1*mod[time-24*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-24*0.8,40]/0.8
+TranslateZFunction = 6.7*mod[time-24*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.74-0.06*mod[time-24*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -23,10.4,233.4
+StateFunction = if[mod[time-25*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -7.5*mod[time-25*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-25*0.8,40]/0.8
+TranslateZFunction = 7.3*mod[time-25*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.8-0.04*mod[time-25*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -30.5,10.6,240.7
+StateFunction = if[mod[time-26*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -7.3*mod[time-26*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-26*0.8,40]/0.8
+TranslateZFunction = 6.6*mod[time-26*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.84-0.04*mod[time-26*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -37.8,10.8,247.3
+StateFunction = if[mod[time-27*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -8*mod[time-27*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-27*0.8,40]/0.8
+TranslateZFunction = 6.6*mod[time-27*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.88-0.04*mod[time-27*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -45.8,11,253.9
+StateFunction = if[mod[time-28*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -8.2*mod[time-28*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-28*0.8,40]/0.8
+TranslateZFunction = 6.2*mod[time-28*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.92-0.04*mod[time-28*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -54,11.2,260.1
+StateFunction = if[mod[time-29*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -7.7*mod[time-29*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-29*0.8,40]/0.8
+TranslateZFunction = 5.4*mod[time-29*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -0.96-0.08*mod[time-29*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -61.7,11.4,265.5
+StateFunction = if[mod[time-30*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -8.3*mod[time-30*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-30*0.8,40]/0.8
+TranslateZFunction = 4.9*mod[time-30*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -1.04-0.08*mod[time-30*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -70,11.6,270.4
+StateFunction = if[mod[time-31*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -9*mod[time-31*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-31*0.8,40]/0.8
+TranslateZFunction = 4.4*mod[time-31*0.8,40]/0.8
+RotateXFunction = -0.02
+RotateYFunction = -1.12-0.08*mod[time-31*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -79,11.8,274.8
+StateFunction = if[mod[time-32*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -9.7*mod[time-32*0.8,40]/0.8
+TranslateYFunction = 0.2*mod[time-32*0.8,40]/0.8
+TranslateZFunction = 3.8*mod[time-32*0.8,40]/0.8
+RotateXFunction = -0.02+0.02*mod[time-32*0.8,40]/0.8
+RotateYFunction = -1.2-0.06*mod[time-32*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -88.7,12,278.6
+StateFunction = if[mod[time-33*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -9.8*mod[time-33*0.8,40]/0.8
+TranslateZFunction = 3.1*mod[time-33*0.8,40]/0.8
+RotateYFunction = -1.26-0.04*mod[time-33*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -98.5,12,281.7
+StateFunction = if[mod[time-34*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -9.8*mod[time-34*0.8,40]/0.8
+TranslateZFunction = 2.7*mod[time-34*0.8,40]/0.8
+RotateYFunction = -1.3-0.04*mod[time-34*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -108.3,12,284.4
+StateFunction = if[mod[time-35*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -9.7*mod[time-35*0.8,40]/0.8
+TranslateZFunction = 2.3*mod[time-35*0.8,40]/0.8
+RotateYFunction = -1.34-0.04*mod[time-35*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -118,12,286.7
+StateFunction = if[mod[time-36*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-36*0.8,40]/0.8
+TranslateZFunction = 1.9*mod[time-36*0.8,40]/0.8
+RotateYFunction = -1.38-0.04*mod[time-36*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -128,12,288.6
+StateFunction = if[mod[time-37*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-37*0.8,40]/0.8
+TranslateZFunction = 1.5*mod[time-37*0.8,40]/0.8
+RotateYFunction = -1.42-0.04*mod[time-37*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -138,12,290.1
+StateFunction = if[mod[time-38*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-38*0.8,40]/0.8
+TranslateZFunction = 1.1*mod[time-38*0.8,40]/0.8
+RotateYFunction = -1.46-0.04*mod[time-38*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -148,12,291.2
+StateFunction = if[mod[time-39*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-39*0.8,40]/0.8
+TranslateZFunction = 0.7*mod[time-39*0.8,40]/0.8
+RotateYFunction = -1.50-0.04*mod[time-39*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -158,12,291.9
+StateFunction = if[mod[time-40*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-40*0.8,40]/0.8
+TranslateZFunction = 0.3*mod[time-40*0.8,40]/0.8
+RotateYFunction = -1.54-0.03*mod[time-40*0.8,40]/0.8
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -168,12,292.2
+StateFunction = if[mod[time-41*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-41*0.8,40]/0.8
+RotateYFunction = -1.57
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -178,12,292.2
+StateFunction = if[mod[time-42*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-42*0.8,40]/0.8
+RotateYFunction = -1.57
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -188,12,292.2
+StateFunction = if[mod[time-43*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-43*0.8,40]/0.8
+RotateYFunction = -1.57
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -198,12,292.2
+StateFunction = if[mod[time-44*0.8,40]/0.8<1,0,1]
+TranslateXFunction = -10*mod[time-44*0.8,40]/0.8
+RotateYFunction = -1.57
+[Object]
+states = CTB9149_CTB_tshi2.b3d
+Position = -208,12,292.2
+StateFunction = if[mod[time-45*0.8,40]/0.8<10,0,1]
+TranslateXFunction = -10.5*mod[time-45*0.8,40]/0.8
+RotateYFunction = -1.57
+

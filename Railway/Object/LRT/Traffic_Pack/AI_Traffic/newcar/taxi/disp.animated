@@ -1,0 +1,10 @@
+[Object]
+states = red.csv
+Position = 0,0,0
+[Object]
+states = green.csv
+Position = 2.5,0,0
+[Object]
+states = hybrid.csv
+Position = 5,0,0.3
+

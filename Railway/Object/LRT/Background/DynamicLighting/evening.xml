@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openBVE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Brightness>
+        <Time>00.00</Time>
+        <AmbientLight>70,70,70</AmbientLight>
+        <DirectionalLight>70,70,70</DirectionalLight>
+        <LightDirection>0.223606797749979, 0.86602540378444, -0.447213595499958</LightDirection>
+        <CabLighting>10</CabLighting>
+  </Brightness>
+  <Brightness>
+        <Time>09.00</Time>
+        <AmbientLight>255,255,255</AmbientLight>
+        <DirectionalLight>255,255,255</DirectionalLight>
+        <LightDirection>0.223606797749979, 0.86602540378444, -0.447213595499958</LightDirection>
+        <CabLighting>255</CabLighting>
+  </Brightness>
+  <Brightness>
+        <Time>17.35</Time>
+        <AmbientLight>255,255,255</AmbientLight>
+        <DirectionalLight>255,255,255</DirectionalLight>
+        <LightDirection>0.223606797749979, 0.86602540378444, -0.447213595499958</LightDirection>
+        <CabLighting>255</CabLighting>
+  </Brightness>
+  <Brightness>
+        <Time>20.00</Time>
+        <AmbientLight>70,70,70</AmbientLight>
+        <DirectionalLight>70,70,70</DirectionalLight>
+        <LightDirection>0.223606797749979, 0.86602540378444, -0.447213595499958</LightDirection>
+        <CabLighting>10</CabLighting>
+  </Brightness>
+</openBVE>

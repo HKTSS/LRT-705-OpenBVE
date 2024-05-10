@@ -1,0 +1,64 @@
+﻿CreateMeshBuilder,
+AddVertex,0, 0.00, 4, 0,1,0
+AddVertex,0, 0.00, 0, 0,1,0
+AddVertex,0, 1.65, 0, 0,1,0
+AddVertex,0, 1.65, 4, 0,1,0
+AddVertex,-0.1, 0.00, 0, 0,1,0
+AddVertex,-0.1, 0.00, 4, 0,1,0
+AddVertex,-0.1, 1.65, 4, 0,1,0
+AddVertex,-0.1, 1.65, 0, 0,1,0
+AddFace, 0, 1, 2, 3
+AddFace, 4, 5, 6, 7
+LoadTexture,adboard.png,
+SetTextureCoordinates,0, 0, 1,
+SetTextureCoordinates,1, 1, 1,
+SetTextureCoordinates,2, 1, 0,
+SetTextureCoordinates,3, 0, 0,
+SetTextureCoordinates,4, 0, 1,
+SetTextureCoordinates,5, 1, 1,
+SetTextureCoordinates,6, 1, 0,
+SetTextureCoordinates,7, 0, 0,
+
+CreateMeshBuilder,
+AddVertex,-0.0, 0.00, 0, 0,1,0
+AddVertex,-0.1, 0.00, 0, 0,1,0
+AddVertex,-0.1, 1.65, 0, 0,1,0
+AddVertex,-0.0, 1.65, 0, 0,1,0
+AddVertex,-0.1, 0.00, 4, 0,1,0
+AddVertex,-0.0, 0.00, 4, 0,1,0
+AddVertex,-0.0, 1.65, 4, 0,1,0
+AddVertex,-0.1, 1.65, 4, 0,1,0
+AddFace,0, 1, 2, 3
+AddFace,4, 5, 6, 7
+LoadTexture,adboard.png,
+SetTextureCoordinates,0, 0.2, 1,
+SetTextureCoordinates,1, 0.25, 1,
+SetTextureCoordinates,2, 0.25, 0,
+SetTextureCoordinates,3, 0.2, 0,
+SetTextureCoordinates,4, 0.2, 1,
+SetTextureCoordinates,5, 0.25, 1,
+SetTextureCoordinates,6, 0.25, 0,
+SetTextureCoordinates,7, 0.2, 0,
+
+CreateMeshBuilder,
+AddVertex,-0.1, 0, 0, 0,1,0
+AddVertex,-0.0, 0, 0, 0,1,0
+AddVertex,-0.0, 0, 4, 0,1,0
+AddVertex,-0.1, 0, 4, 0,1,0
+
+AddVertex,-0.1, 1.65, 4, 0,1,0
+AddVertex,-0.0, 1.65, 4, 0,1,0
+AddVertex,-0.0, 1.65, 0, 0,1,0
+AddVertex,-0.1, 1.65, 0, 0,1,0
+AddFace,0, 1, 2, 3
+AddFace,4, 5, 6, 7
+SetColor,150,150,150
+LoadTexture,adboard.png,
+SetTextureCoordinates,0, 0.2, 1,
+SetTextureCoordinates,1, 0.25, 1,
+SetTextureCoordinates,2, 0.25, 0,
+SetTextureCoordinates,3, 0.2, 0,
+SetTextureCoordinates,4, 0.2, 1,
+SetTextureCoordinates,5, 0.25, 1,
+SetTextureCoordinates,6, 0.25, 0,
+SetTextureCoordinates,7, 0.2, 0,

@@ -1,0 +1,469 @@
+With Options,
+.ObjectVisibility 1
+.EnableBveTsHacks 1
+
+With Route
+.Timetable Hong Kong Light Rail 705
+.Change -1
+.Temperature 25
+.LoadingScreen ..\Object\bg.png
+.Comment 香港輕鐵705循環線$Chr(10)--------------------------------$Chr(10)路線資訊 : $Chr(10)總長: 5.9 公里$Chr(10)行車時間: 約 25 分鐘$Chr(10)路線編碼: Big5$Chr(10)用車: 輕鐵第三期列車 / $Chr(10)輕鐵第四期列車$Chr(10)$Chr(10)OpenBVE版本:$Chr(10)v1.7.2.4或以上$Chr(10)$Chr(10)2022-2030 香港交通模擬工作室$Chr(10)版權所有，侵權必究。$Chr(10)$Chr(10)2025-2035 Hong Kong Transport Simulation Studio$Chr(10)All right reserved.
+.RunInterval 60
+;.DynamicLight ..\Object\LRT\Background\sky.xml
+
+With Train
+.Folder LRV
+
+With Structure,
+.Rail(0) LRT\rail\curve_0_dark.csv
+.Rail(1) LRT\rail\curve_0.csv
+.Rail(2) LRT\rail\curve_-45.csv
+.Rail(3) LRT\rail\curve_60.csv
+.Rail(4) LRT\rail\curve_-60.csv
+.Rail(5) LRT\rail\null.csv
+.Rail(6) LRT\rail\curve_-70.csv
+.Rail(8) LRT\rail\curve_70.csv
+.Rail(9) LRT\rail\curve_-140.csv
+.Rail(10) LRT\rail\curve_-300.csv
+.Rail(11) LRT\rail\curve_200.csv
+.Rail(12) LRT\rail\curve_125.csv
+.Rail(13) LRT\rail\crossing_125.csv
+.Rail(14) LRT\rail\curve_-175.csv
+.Rail(15) LRT\rail\curve_-175r.csv
+
+;;Object;;
+.Freeobj(1) LRT\Station\TSW\TSW1.csv
+.Freeobj(2) LRT\Station\TSW\bp.csv
+.Freeobj(3) LRT\Station\TSW\P2.csv
+.Freeobj(4) LRT\Station\TSW\plat_3.csv
+.freeobj(7) LRT\station\TSW\tsw_ext_1.csv
+.freeobj(8) LRT\Road\busstop1.csv
+.freeobj(9) LRT\Road\fence1.csv
+.freeobj(10) LRT\Road\fence2.csv
+.freeobj(11) LRT\tree\tree_tsw_1.b3d
+.freeobj(14) LRT\Road\fence3.csv
+.freeobj(15) LRT\tree\tree7.b3d
+.freeobj(16) LRT\building\TinFukRoad\building2.csv
+.freeobj(17) LRT\tree\tree8.b3d
+.freeobj(18) LRT\building\TinFukRoad\building3.csv
+.freeobj(20) LRT\Road\pole2.csv
+.freeobj(21) LRT\Road\sports1.csv
+
+;;tree;;
+.freeobj(102) LRT\tree\tree_so.b3d
+.freeobj(103) LRT\tree\tree7.b3d
+.freeobj(104) LRT\tree\tree8.b3d
+.freeobj(105) LRT\tree\tree9.b3d
+
+;;Traffic Light;;
+.freeobj(500) LRT\traffic_pack\01.csv
+.freeobj(501) LRT\traffic_pack\01a.csv
+.freeobj(502) LRT\traffic_pack\01b.csv
+.freeobj(503) LRT\traffic_pack\01F.animated
+.freeobj(504) LRT\traffic_pack\01d.csv
+
+;;Platform;;
+.freeobj(600) LRT\Station\Platform_1\Platform1.csv
+.freeobj(610) LRT\Station\Platform\TIT\P1_1.b3d
+.freeobj(611) LRT\Station\Platform\TIT\P1_2.b3d
+.freeobj(612) LRT\Station\Platform\TIT\P2_1.csv
+.freeobj(613) LRT\Station\Platform\TIT\P2_2.csv
+.freeobj(614) LRT\Station\Platform\TWU\P1_1.csv
+.freeobj(615) LRT\Station\Platform\TWU\P1_2.csv
+.freeobj(616) LRT\Station\Platform\TWU\P2_1.csv
+.freeobj(617) LRT\Station\Platform\TWU\P2_2.csv
+
+;;Road;;
+.freeobj(3000) LRT\road\1.csv
+.freeobj(3001) LRT\road\2.csv
+.freeobj(3002) LRT\road\busstop_c1.csv
+.freeobj(3003) LRT\TIT-TWU_1.animated
+.freeobj(3004) LRT\Road\busstop_c2.csv
+.freeobj(3005) LRT\TWU-GIN_1.animated
+
+;;Wall;;
+.WallL(15) LRT\Bridge\wallL.b3d
+.WallR(15) LRT\Bridge\wallR.b3d
+
+.Ground(1) LRT\ground\gray.csv
+
+With Texture
+.Background(1) LRT\Background\day.png
+;.Background(1).Load LRT\background\back.xml
+
+With Track
+3150,
+.Sta Tin Shui Wai Terminus; 17.3100; 17.3200; 0; -1; 0; 0;;;75; 705.wav; 0
+.freeobj 0;2
+.brightness 100
+.railtype 0;0
+.Rail 1;18
+.Rail 2;23
+.ground 1
+.back 1
+.freeobj 0;8
+.freeobj 0;9
+.freeobj 0;15;-50
+.beacon 12;-1;0;20
+
+3175,
+.freeobj 0;2
+.freeobj 2;3
+.freeobj 0;4
+.freeobj 0;9
+.freeobj 0;15;-50
+
+3200,
+.freeobj 0;2
+.freeobj 2;3
+.freeobj 0;9
+.freeobj 0;15;-50
+
+3220,
+.freeobj 0;2
+.freeobj 2;3
+.freeobj 0;9
+.freeobj 0;15;-50
+.freeobj 0;16
+
+3225,
+.freeobj 0;2
+.freeobj 2;3
+.freeobj 0;9
+
+3250,
+.brightness 255
+.freeobj 0;1
+.freeobj 2;3
+.freeobj 0;7
+.freeobj 0;9
+.freeobj 0;10
+.freeobj 0;11;-21
+.freeobj 0;17;-45
+.freeobj 0;18;-10
+.freeobj 0;3001
+.freeobj 0;3002
+.freeobj 0;3004
+.railtype 0;1
+.railtype 1;1
+.railtype 2;1
+.rail 5;0;;5
+.beacon 12;-1;0;15
+.limit 15
+.stop 0
+
+3275,
+.beacon 106;-1
+.curve 70
+.railtype 0;8
+.rail 1;18.3
+.rail 2;23.3
+
+3300,
+.curve -70
+.railtype 0;6
+.rail 1;4.5
+.rail 2;9.5
+3325,
+.curve 0
+.railend 1;0
+.rail 2;5
+.railtype 0;1
+
+3350,
+.wall 0;-1;15
+.wall 2;1;15
+
+3375,
+.beacon 106;-1
+.pitch 10
+.curve -140
+.railtype 0;9
+.railtype 2;9
+.height 1
+
+3400,
+.beacon 12;-1;0;20
+.limit 20
+.pitch 25
+.height 2
+
+3425,
+.pitch 50
+.height 4
+
+3475,
+.pitch 50
+.height 6
+
+3500,
+.pitch 25
+
+3525,
+.pitch 0
+.height 8
+
+3550,
+.curve 0
+.railtype 0;1
+.railtype 2;1
+.freeobj 0;3003;;-1.65
+.freeobj 0;20;19;-5
+
+3575,
+.beacon 12;-1;0;40
+.limit 40
+.pitch -30
+.height 7
+.announce TIT.wav
+
+3600,
+.pitch -50
+.height 4.5
+.freeobj 0;20;23
+
+3650,
+.wallend 0
+.wallend 2
+
+3675,
+.height 1
+.pitch -25
+
+3695,
+.freeobj 0;503;9;-0.5
+
+3700,
+.pitch 0
+
+3728,
+.freeobj 0;503;10.5;-0.5
+.freeobj 0;503;22.5;-0.5
+
+3750,
+.Sta Tin Tsz; 17.3420; 17.3435; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.freeobj 0;611
+.freeobj 0;612
+.beacon 13;-1;0;1
+.height 2
+
+
+3775,
+.freeobj 0;610
+.freeobj 0;613
+
+3800,
+.stop 0;10;10
+.beacon 12;-1;0;35
+.limit 35
+
+3900,
+.beacon 12;-1;0;30
+.limit 30
+.curve 125;25
+.railtype 0;12
+.railtype 2;13
+
+3910,
+.announce TWU.wav
+
+3975,
+.beacon 12;-1;0;35
+.limit 35
+.curve 0
+.railtype 0;1
+.railtype 2;1
+.freeobj 0;21
+.freeobj 0;3005
+
+4025,
+.Sta Tin Wu; 17.3526; 17.3541; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0
+.freeobj 0;614
+
+4050,
+.freeobj 0;615
+.freeobj 0;616
+
+4075,
+.freeobj 0;617
+.stop 0;10;10
+.beacon 12;-1;0;30
+.limit 30
+
+4115,
+.brightness 255
+
+4123,
+.brightness 40
+
+4130,
+.brightness 255
+
+4150,
+.curve -165
+.railtype 0;14
+.railtype 2;15
+
+4350,
+.curve 0
+.railtype 0;1
+.railtype 2;1
+
+4400,
+.Sta Ginza; 17.3625; 17.3640; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+4425,
+.freeobj 0;1
+
+4450,
+.stop 0;10;10
+
+4700,
+.curve 150
+
+4750,
+.curve 0
+.Sta Tin Wing; 17.3700; 17.3720; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+
+4775,
+.freeobj 0;1
+
+4800,
+.freeobj 0;1
+
+4825,
+.stop 0;10;10
+
+5025,
+.curve 100
+
+5075,
+.curve 0
+
+5150,
+.Sta Tin Yuet; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+5175,
+.freeobj 0;1
+
+5200,
+.stop 0;10;10
+.curve 275
+
+5375,
+.curve 0
+
+5425,
+.curve -425
+
+5500,
+.curve 0
+
+5525,
+.Sta Tin Sau; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+5550,
+.freeobj 0;1
+
+5575,
+.stop 0;10;10
+
+5700,
+.curve -100
+
+5800,
+.curve 1000
+
+5975,
+.curve 0
+
+6050,
+.sta Wetland Park; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+6075,
+.freeobj 0;1
+.stop 0;10;10
+
+6125,
+.curve -65
+.railtype 0;6
+.railtype 2;6
+
+6250,
+.curve -800
+.railtype 0;1
+.railtype 2;1
+
+6300,
+.sta Tin Heng; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+6325,
+.freeobj 0;1
+
+6350,
+.stop 0;10;10
+
+6475,
+.curve 0
+
+6650,
+.sta Tin Yat; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+6675,
+.freeobj 0;1
+.curve -825
+
+6700,
+.stop 0;10;10
+
+6750,
+.curve 0
+
+6775,
+.curve -1500
+
+6925,
+.sta Tin Fu; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; 705.wav; 0
+.beacon 13;-1;0;1
+.freeobj 0;1
+
+6950,
+.freeobj 0;1
+
+6975,
+.stop 0;10;10
+
+7025,
+.pitch 10
+
+7050,
+.pitch 25
+.height 3
+
+7075,
+.pitch 40
+.height 4
+
+7100,
+.height 7
+
+7125,
+.height 10
+
+7150,
+.height 14
+.curve 0

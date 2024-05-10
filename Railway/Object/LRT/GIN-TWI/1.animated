@@ -1,0 +1,477 @@
+[Object]
+States = 1.csv
+Position = 0,0,0
+
+[Object]
+States = buildings\kingswood_ginza\mall_entrance.csv, ..\null.csv
+;;LOD Function, doesn't work on 1.8.1.0's RouteViewer so disabled.
+;;StateFunction = if[cameraDistance > 20, 1, 0]
+Position = -10.2,0.4,-51
+
+[Object]
+States = buildings\GinzaSquare\GinzaSquare.csv
+Position = -52,0,105
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -52,0,105
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -68,0,105
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -60,0,110
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -52,0,115
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -68,0,115
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -60,0,120
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -52,0,125
+
+[Object]
+States = buildings\GinzaSquare\circle.csv
+Position = -68,0,125
+
+[Object]
+States = ..\Road\foliage\tree\tree11.b3d
+Position = -52.5,0,122
+
+[Object]
+States = ..\Road\foliage\tree\tree2.b3d
+Position = 36.5,0,55
+
+[Object]
+States = ..\Road\foliage\tree\tree7.b3d
+Position = 34.5,0,26
+RotateYFunction = 0.08
+
+[Object]
+States = ..\Road\foliage\tree\tree11.b3d
+Position = 34.5,0,15
+
+[Object]
+States = ..\Road\signs\sign31.csv
+Position = -50.5,2.8,113
+
+[Object]
+States = ..\Road\signs\sign2.csv
+Position = 7.4,3.5,69.8
+RotateYFunction = 3.1415
+[Object]
+States = ..\Road\signs\sign2.csv
+Position = -2.535,3.5,75.4
+
+[Object]
+States = buildings\subway1.csv
+Position = 0,0,105
+
+[Object]
+States = buildings\subway2L.csv
+Position = 0.8,0,124
+
+[Object]
+States = buildings\subway2R.csv
+Position = 14,0,124
+
+[Object]
+States = branches\TinLungRd.csv
+Position = 0,0,0
+
+[Object]
+States = ..\Road\signs\sign15.csv
+Position = 35.5,2.8,50
+
+[Object]
+States = ..\Road\signs\sign33.csv
+Position = 37.0,2.8,66
+
+[Object]
+States = ..\Road\signs\sign20b.csv
+Position = 10.5,3.8,-1
+
+[Object]
+States = ..\Road\signs\sign29.csv
+Position = -19.2,4.0,70.3
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Road\signs\sign20c.csv
+Position = -21.1,3.7,73.4
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Traffic_Pack\safe_island\flecta2.csv
+Position = -16.6,0.1,91
+
+[Object]
+States = ..\Road\signs\sign20d.csv
+Position = -18.5,3.9,91
+RotateYFunction = -0.6
+
+[Object]
+States = ..\Road\signs\sign29.csv
+Position = -18.0,4.1,95
+RotateYFunction = -0.6
+
+[Object]
+States = ..\Road\signs\sign30.csv
+Position = -18.8,1.5,99
+
+[Object]
+States = ..\Road\signs\sign30.csv
+Position = -16.5,1.5,119.3
+
+[Object]
+States = ..\Road\signs\sign20d.csv
+Position = -14.5,3.6,118.5
+
+[Object]
+States = ..\Traffic_Pack\safe_island\flecta2.csv
+Position = -12.4,0.1,118
+
+[Object]
+States = ..\Traffic_Pack\safe_island\flecta2.csv
+Position = -24.8,0.1,135.7
+
+[Object]
+States = ..\Traffic_Pack\safe_island\normal.b3d
+Position = 20.6,0.2,98
+
+[Object]
+States = ..\Road\shared_structure\whatisthis_9.csv
+Position = -18,0.2,59.7
+
+[Object]
+States = buildings\kingswood_ginza\building2.csv
+Position = 7.6,0,30.38
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,-9.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,-14.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,45.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,50.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,55.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -17.4,0,60.0
+
+[Object]
+States = ..\Road\fence8.csv
+Position = -19.2,0,72.0
+RotateYFunction = -0.7
+
+[Object]
+States = ..\Road\cylinder8.csv
+Position = 7.8,0.50,71.7
+
+[Object]
+States = ..\Road\cylinder8.csv
+Position = 7.8,0.50,73.6
+
+[Object]
+States = ..\Road\cylinder8.csv
+Position = -2.80,0.50,71.7
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = 9,2.9,81.75
+RotateYFunction = -1.56
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = 9,2.9,75.3
+RotateYFunction = -1.56
+
+[Object]
+States = ..\Road\Pole\pole4.csv
+Position = -2,2.9,75.7
+RotateYFunction = -1.56
+
+[Object]
+States = ..\Road\cylinder8.csv
+Position = -2.80,0.50,73.6
+
+[Object]
+States = ..\Road\signs\sign8b.csv
+Position = 87,4,81
+RotateYFunction = -1.55
+
+[Object]
+States = ..\Road\signs\sign32.csv
+Position = -35,2,88
+RotateYFunction = -1.55
+
+[Object]
+States = ..\Road\signs\roadsigns\TinShingRd.csv
+Position = 9,1,137
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 11.81,0,1
+RotateYFunction = 0.05
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 11.87,0,2.4
+RotateYFunction = 0.05
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 11.92,0,3.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 11.98,0,5.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.045,0,6.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.08,0,8.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.13,0,9.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.18,0,10.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.23,0,12.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.28,0,13.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.32,0,15.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.35,0,16.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.39,0,17.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.43,0,19.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.47,0,20.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.51,0,22.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.55,0,23.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.59,0,24.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.63,0,26.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.67,0,27.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.71,0,29.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.75,0,30.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.79,0,31.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.83,0,33.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.87,0,34.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.91,0,36.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.95,0,37.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 12.99,0,38.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.03,0,40.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.07,0,41.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.11,0,43.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.15,0,44.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.19,0,45.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.23,0,47.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.27,0,48.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.31,0,50.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.35,0,51.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.39,0,52.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.43,0,54.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.47,0,55.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.51,0,57.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.55,0,58.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.59,0,59.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.63,0,61.2
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.67,0,62.6
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.71,0,64.0
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.75,0,65.4
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.79,0,66.8
+RotateYFunction = 0.04
+
+[Object]
+States = ..\Road\roadside19.csv
+Position = 13.83,0,68.2
+RotateYFunction = 0.04

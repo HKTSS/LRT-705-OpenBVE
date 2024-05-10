@@ -1,0 +1,7 @@
+With Route
+.image wrongfolder.png
+.Comment 若要遊玩輕鐵705$Chr(10)，請按$Chr(10)Wrong Folder.csv$Chr(10)上的 ..$Chr(10)然後再選擇路線。$Chr(10)$Chr(10)$Chr(10)For players: $Chr(10)Please press the ..$Chr(10)Then select the$Chr(10)route again.
+
+Structure.Freeobj(0) LRT\Station\TSW\TSW1.csv
+
+0, Track.Sta Wrong Folder

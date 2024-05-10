@@ -1,0 +1,179 @@
+CreateMeshBuilder,
+AddVertex,-5.9, 1.5, 0.3, 0,1,0
+AddVertex,-5.9, 2.0, 0.3, 0,1,0
+AddVertex,-3.8, 2.0, 0.3, 0,1,0
+AddVertex,-3.8, 1.5, 0.3, 0,1,0
+
+AddVertex,-5.9, 1.5, 10.7, 0,1,0
+AddVertex,-5.9, 2.0, 10.7, 0,1,0
+AddVertex,-3.8, 2.0, 10.7, 0,1,0
+AddVertex,-3.8, 1.5, 10.7, 0,1,0
+AddFace,0, 1, 2, 3
+AddFace,7, 6, 5, 4
+LoadTexture, subway2.png
+SetTextureCoordinates,0, 0.716, 1,
+SetTextureCoordinates,1, 0.716, 0.45,
+SetTextureCoordinates,2, 1, 0.45,
+SetTextureCoordinates,3, 1, 1,
+SetTextureCoordinates,4, 0.716, 1,
+SetTextureCoordinates,5, 0.716, 0.45,
+SetTextureCoordinates,6, 1, 0.45,
+SetTextureCoordinates,7, 1, 1,
+SetDecalTransparentColor,0,0,255
+
+CreateMeshBuilder,
+AddVertex,-5.6, 1.74, 0.3, 0,1,0
+AddVertex,-5.6, 1.74, 10.7, 0,1,0
+AddVertex,-5.85, 1.55, 10.7, 0,1,0
+AddVertex,-5.85, 1.55, 0.3, 0,1,0
+
+AddVertex,-5.4, 1.85, 0.3, 0,1,0
+AddVertex,-5.4, 1.85, 10.7, 0,1,0
+AddVertex,-5.6, 1.74, 10.7, 0,1,0
+AddVertex,-5.6, 1.74, 0.3, 0,1,0
+
+AddVertex,-5.14, 1.95, 0.3, 0,1,0
+AddVertex,-5.14, 1.95, 10.7, 0,1,0
+AddVertex,-5.4, 1.85, 10.7, 0,1,0
+AddVertex,-5.4, 1.85, 0.3, 0,1,0
+
+AddVertex,-4.8, 2.00, 0.3, 0,1,0
+AddVertex,-4.8, 2.00, 10.7, 0,1,0
+AddVertex,-5.14, 1.95, 10.7, 0,1,0
+AddVertex,-5.14, 1.95, 0.3, 0,1,0
+
+AddVertex,-4.49, 1.95, 0.3, 0,1,0
+AddVertex,-4.49, 1.95, 10.7, 0,1,0
+AddVertex,-4.8, 2.00, 10.7, 0,1,0
+AddVertex,-4.8, 2.00, 0.3, 0,1,0
+
+AddVertex,-4.2, 1.82, 0.3, 0,1,0
+AddVertex,-4.2, 1.82, 10.7, 0,1,0
+AddVertex,-4.49, 1.95, 10.7, 0,1,0
+AddVertex,-4.49, 1.95, 0.3, 0,1,0
+
+AddVertex,-4.0, 1.70, 0.3, 0,1,0
+AddVertex,-4.0, 1.70, 10.7, 0,1,0
+AddVertex,-4.2, 1.82, 10.7, 0,1,0
+AddVertex,-4.2, 1.82, 0.3, 0,1,0
+
+AddVertex,-3.85, 1.55, 0.3, 0,1,0
+AddVertex,-3.85, 1.55, 10.7, 0,1,0
+AddVertex,-4.0, 1.70, 10.7, 0,1,0
+AddVertex,-4.0, 1.70, 0.3, 0,1,0
+AddFace,3, 2, 1, 0
+AddFace,7, 6, 5, 4
+AddFace,11, 10, 9, 8
+AddFace,15, 14, 13, 12
+AddFace,19, 18, 17, 16
+AddFace,23, 22, 21, 20
+AddFace,27, 26, 25, 24
+AddFace,31, 30, 29, 28
+LoadTexture, subway1.png
+SetTextureCoordinates,0, 0, 0.66,
+SetTextureCoordinates,1, 10, 0.66,
+SetTextureCoordinates,2, 10, 0.8,
+SetTextureCoordinates,3, 0, 0.8,
+SetTextureCoordinates,4, 0, 0.8,
+SetTextureCoordinates,5, 10, 0.8,
+SetTextureCoordinates,6, 10, 0.99,
+SetTextureCoordinates,7, 0, 0.99,
+SetTextureCoordinates,8, 0, 0.99,
+SetTextureCoordinates,9, 10, 0.99,
+SetTextureCoordinates,10, 10, 0.8,
+SetTextureCoordinates,11, 0, 0.8,
+SetTextureCoordinates,12, 0, 0.8,
+SetTextureCoordinates,13, 10, 0.8,
+SetTextureCoordinates,14, 10, 0.66,
+SetTextureCoordinates,15, 0, 0.66,
+SetTextureCoordinates,16, 0, 0.66,
+SetTextureCoordinates,17, 10, 0.66,
+SetTextureCoordinates,18, 10, 0.8,
+SetTextureCoordinates,19, 0, 0.8,
+SetTextureCoordinates,20, 0, 0.8,
+SetTextureCoordinates,21, 10, 0.8,
+SetTextureCoordinates,22, 10, 0.99,
+SetTextureCoordinates,23, 0, 0.99,
+SetTextureCoordinates,24, 0, 0.99,
+SetTextureCoordinates,25, 10, 0.99,
+SetTextureCoordinates,26, 10, 0.8,
+SetTextureCoordinates,27, 0, 0.8,
+SetTextureCoordinates,28, 0, 0.8,
+SetTextureCoordinates,29, 10, 0.8,
+SetTextureCoordinates,30, 10, 0.66,
+SetTextureCoordinates,31, 0, 0.66,
+
+CreateMeshBuilder,
+AddVertex,-5.85, 1.55, 0.3, 0,1,0
+AddVertex,-5.85, 1.55, 11, 0,1,0
+AddVertex,-5.9, 1.5, 11, 0,1,0
+AddVertex,-5.9, 1.5, 0.3, 0,1,0
+AddVertex,-3.85, 1.55, 0.3, 0,1,0
+AddVertex,-3.85, 1.55, 11, 0,1,0
+AddVertex,-3.8, 1.5, 11, 0,1,0
+AddVertex,-3.8, 1.5, 0.3, 0,1,0
+AddFace,3, 2, 1, 0
+AddFace,4, 5, 6, 7
+LoadTexture, subway1.png
+SetTextureCoordinates,0, 0, 0.63,
+SetTextureCoordinates,1, 1, 0.63,
+SetTextureCoordinates,2, 1, 0.6,
+SetTextureCoordinates,3, 0, 0.6,
+SetTextureCoordinates,4, 0, 0.63,
+SetTextureCoordinates,5, 1, 0.63,
+SetTextureCoordinates,6, 1, 0.6,
+SetTextureCoordinates,7, 0, 0.6,
+
+CreateMeshBuilder,
+AddVertex,-6.2, 1.5, 0, 0,1,0
+AddVertex,-6.2, 1.5, 11, 0,1,0
+AddVertex,-6.2, 0.6, 11, 0,1,0
+AddVertex,-6.2, 0.6, 0, 0,1,0
+
+AddVertex,-3.55, 1.5, 0, 0,1,0
+AddVertex,-3.55, 1.5, 11, 0,1,0
+AddVertex,-3.55, 0.6, 11, 0,1,0
+AddVertex,-3.55, 0.6, 0, 0,1,0
+
+AddVertex,-3.55, 1.5, 0, 0,1,0
+AddVertex,-6.2, 1.5, 0, 0,1,0
+AddVertex,-6.2, 0.6, 0, 0,1,0
+AddVertex,-3.55, 0.6, 0, 0,1,0
+
+AddVertex,-3.55, 1.5, 11, 0,1,0
+AddVertex,-6.2, 1.5, 11, 0,1,0
+AddVertex,-6.2, 0.6, 11, 0,1,0
+AddVertex,-3.55, 0.6, 11, 0,1,0
+AddFace,3, 2, 1, 0
+AddFace,4, 5, 6, 7
+AddFace,11, 10, 9, 8
+AddFace,12, 13, 14, 15
+LoadTexture, subway2.png
+SetTextureCoordinates,0, 0.71, 0,
+SetTextureCoordinates,1, 0, 0,
+SetTextureCoordinates,2, 0, 0.27
+SetTextureCoordinates,3, 0.71, 0.27
+SetTextureCoordinates,4, 0.71, 0,
+SetTextureCoordinates,5, 0, 0,
+SetTextureCoordinates,6, 0, 0.27
+SetTextureCoordinates,7, 0.71, 0.27
+SetTextureCoordinates,8, 0.4, 0,
+SetTextureCoordinates,9, 0.6, 0,
+SetTextureCoordinates,10, 0.6, 0.27
+SetTextureCoordinates,11, 0.4, 0.27
+SetTextureCoordinates,12, 0.4, 0,
+SetTextureCoordinates,13, 0.6, 0,
+SetTextureCoordinates,14, 0.6, 0.27
+SetTextureCoordinates,15, 0.4, 0.27
+
+CreateMeshBuilder,
+AddVertex,-6.2, 1.5, 0, 0,1,0
+AddVertex,-6.2, 1.5, 11, 0,1,0
+AddVertex,-3.55, 1.5, 11, 0,1,0
+AddVertex,-3.55, 1.5, 0, 0,1,0
+AddFace,0, 1, 2, 3
+LoadTexture, subway1.png
+SetTextureCoordinates,0, 1, 0.58,
+SetTextureCoordinates,1, 0, 0.58,
+SetTextureCoordinates,2, 0, 0.65,
+SetTextureCoordinates,3, 1, 0.65,

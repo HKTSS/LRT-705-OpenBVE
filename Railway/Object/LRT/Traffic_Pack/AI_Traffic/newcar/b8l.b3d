@@ -1,0 +1,182 @@
+
+[MeshBuilder]
+Vertex -2.35,4.2,12, 0,1,0
+Vertex -2.35,4.2,0.27, 0,1,0
+Vertex -2.45,3.95,0.24, 0,1,0
+Vertex -2.45,3.95,12, 0,1,0
+Face 0,1,2,3
+Load b8l_l2.png
+Coordinates 0,0,0
+Coordinates 1,-1,0
+Coordinates 2,-1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -2.35,4.2,0.27, 0,1,0
+Vertex -2.35,4.2,12, 0,1,0
+Vertex -2,4.31,12, 0,1,0
+Vertex -2,4.31,0.27, 0,1,0
+Vertex -1.5,4.39,0.27, 0,1,0
+Vertex -1.5,4.39,12, 0,1,0
+Vertex -1,4.39,12, 0,1,0
+Vertex -1,4.39,0.27, 0,1,0
+Vertex -0.5,4.3,0.27, 0,1,0
+Vertex -0.5,4.3,12, 0,1,0
+Vertex -0.19,4.2,12, 0,1,0
+Vertex -0.19,4.2,0.27, 0,1,0
+Face 0,1,2,3
+Face 3,2,5,4
+Face 4,5,6,7
+Face 7,6,9,8
+Face 8,9,10,11
+Load b8l_t.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,0.2
+Coordinates 3,0,0.2
+Coordinates 4,0,0.4
+Coordinates 5,1,0.4
+Coordinates 6,1,0.6
+Coordinates 7,0,0.6
+Coordinates 8,0,0.85
+Coordinates 9,1,0.85
+Coordinates 10,1,1
+Coordinates 11,0,1
+
+
+
+[MeshBuilder]
+Vertex -0.19,4.2,0.27, 0,1,0
+Vertex -0.19,4.2,12, 0,1,0
+Vertex -0.06,3.95,12, 0,1,0
+Vertex -0.06,3.95,0.24, 0,1,0
+Face 0,1,2,3
+Load b8l_l2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -0.07,4.25,0, 0,1,0
+Vertex -0.07,4.25,12, 0,1,0
+Vertex 0,2.5,12, 0,1,0
+Vertex 0,2.5,0, 0,1,0
+Vertex 0,0,0, 0,1,0
+Vertex 0,0,12, 0,1,0
+Face2 0,1,2,3
+Face2 3,2,5,4
+Load b8l_l.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,0.4
+Coordinates 3,0,0.4
+Coordinates 4,0,1
+Coordinates 5,1,1
+
+[MeshBuilder]
+Vertex -2.44,4.25,12, 0,1,0
+Vertex -2.44,4.25,0, 0,1,0
+Vertex -2.55,2.5,0, 0,1,0
+Vertex -2.55,2.5,12, 0,1,0
+Vertex -2.55,0,12, 0,1,0
+Vertex -2.55,0,0, 0,1,0
+Face 0,1,2,3
+Face 3,2,5,4
+Load b8l_r.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,0.4
+Coordinates 3,0,0.4
+Coordinates 4,0,1
+Coordinates 5,1,1
+
+
+[MeshBuilder]
+Vertex -2.5,4.4,0.3, 0,1,0
+Vertex 0.05,4.4,0.3, 0,1,0
+Vertex -0,2.35,0, 0,1,0
+Vertex -2.55,2.35,0, 0,1,0
+Face 0,1,2,3
+Load b8l_f1.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -2.55,2.38,0.005, 0,1,0
+Vertex -2.28,2.42,0.01, 0,1,0
+Vertex -2.28,2.33,0.15, 0,1,0
+Vertex -2.55,2.33,0.15, 0,1,0
+Face 0,1,2,3
+Load b8l_f3.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -2.28,2.42,0.01, 0,1,0
+Vertex -0.3,2.42,0.01, 0,1,0
+Vertex -0.3,2.33,0.15, 0,1,0
+Vertex -2.28,2.33,0.15, 0,1,0
+Face 0,1,2,3
+Load b8l_f3.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -0.3,2.42,0.01, 0,1,0
+Vertex -0,2.38,0.005, 0,1,0
+Vertex -0,2.33,0.15, 0,1,0
+Vertex -0.3,2.33,0.15, 0,1,0
+Face 0,1,2,3
+Load b8l_f3.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -2.55,2.33,0.15, 0,1,0
+Vertex -0,2.33,0.15, 0,1,0
+Vertex -0,1.1,0.025, 0,1,0
+Vertex -2.55,1.1,0.025, 0,1,0
+Vertex -2.55,0.3,0, 0,1,0
+Vertex -0,0.3,0, 0,1,0
+Face 0,1,2,3
+Face 3,2,5,4
+Load b8l_f2.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,0.6
+Coordinates 3,0,0.6
+Coordinates 4,0,1
+Coordinates 5,1,1
+
+[MeshBuilder]
+Vertex -0,4.4,12, 0,1,0
+Vertex -2.55,4.4,12, 0,1,0
+Vertex -2.55,0.3,12, 0,1,0
+Vertex -0,0.3,12, 0,1,0
+Face 0,1,2,3
+Load b8l_b.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1
+
+[MeshBuilder]
+Vertex -2.75,0.08,0, 0,1,0
+Vertex -2.75,0.08,12, 0,1,0
+Vertex 0.2,0.08,12, 0,1,0
+Vertex 0.2,0.08,0, 0,1,0
+Face 0,1,2,3
+Load b8l_s.png
+Coordinates 0,0,0
+Coordinates 1,1,0
+Coordinates 2,1,1
+Coordinates 3,0,1

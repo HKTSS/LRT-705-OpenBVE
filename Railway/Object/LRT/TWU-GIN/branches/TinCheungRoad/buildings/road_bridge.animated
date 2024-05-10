@@ -1,0 +1,249 @@
+;;1;;
+
+[Object]
+States = bridge1.csv
+Position = 0,0.01,-9
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 0,0.01,-3.5
+RotateYFunction = 0.04
+
+;;2;;
+
+[Object]
+States = bridge1.csv
+Position = 9.9,0.0,-9.4
+RotateZFunction = 0.02
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 9.9,0.0,-3.9
+RotateZFunction = 0.02
+RotateYFunction = 0.04
+
+;;3;;
+
+[Object]
+States = bridge1.csv
+Position = 19.88,0.193,-9.8
+RotateZFunction = 0.06
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 19.88,0.193,-4.3
+RotateZFunction = 0.06
+RotateYFunction = 0.04
+
+;;4;;
+
+[Object]
+States = bridge1.csv
+Position = 29.83,0.789,-10.2
+RotateZFunction = 0.08
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 29.83,0.79,-4.7
+RotateZFunction = 0.08
+RotateYFunction = 0.04
+
+;;5;;
+
+[Object]
+States = bridge1.csv
+Position = 39.75,1.58,-10.6
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 39.75,1.58,-5.1
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+;;6;;
+
+[Object]
+States = bridge1.csv
+Position = 49.678,2.575,-11
+RotateZFunction = 0.12
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 49.678,2.573,-5.5
+RotateZFunction = 0.12
+RotateYFunction = 0.04
+
+;;7;;
+
+[Object]
+States = bridge1.csv
+Position = 59.578,3.77,-11.4
+RotateZFunction = 0.12
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 59.578,3.768,-5.9
+RotateZFunction = 0.12
+RotateYFunction = 0.04
+
+;;8;;
+
+[Object]
+States = bridge1.csv
+Position = 69.378,4.945,-11.8
+RotateZFunction = 0.15
+RotateYFunction = 0.04
+
+[Object]
+States = bridge2.csv
+Position = 69.378,4.945,-6.3
+RotateZFunction = 0.15
+RotateYFunction = 0.04
+
+;;9;;
+
+[Object]
+States = bridge1.csv
+Position = 78.89,6.40,-12.17
+RotateZFunction = 0.12
+RotateYFunction = 0.10
+
+[Object]
+States = bridge2.csv
+Position = 79.178,6.44,-6.7
+RotateZFunction = 0.12
+RotateYFunction = 0.04
+
+;;10;;
+
+[Object]
+States = bridge1.csv
+Position = 88.55,7.57,-13.15
+RotateZFunction = 0.10
+RotateYFunction = 0.14
+
+[Object]
+States = bridge2.csv
+Position = 89,7.63,-7.1
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+;;11;;
+
+[Object]
+States = bridge1.csv
+Position = 98.05,8.525,-14.48
+RotateZFunction = 0.10
+RotateYFunction = 0.20
+
+[Object]
+States = bridge2.csv
+Position = 98.9,8.625,-7.50
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+;;12;;
+
+[Object]
+States = bridge1.csv
+Position = 107.0,9.43,-16.27
+RotateZFunction = 0.10
+RotateYFunction = 0.30
+
+[Object]
+States = bridge2.csv
+Position = 107.9,9.53,-7.86
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+;;13;;
+
+[Object]
+States = bridge1.csv
+Position = 116.13,10.35,-19.08
+RotateZFunction = 0.08
+RotateYFunction = 0.37
+
+[Object]
+States = bridge2.csv
+Position = 116.9,10.43,-8.225
+RotateZFunction = 0.10
+RotateYFunction = 0.04
+
+;;14;;
+
+[Object]
+States = bridge1.csv
+Position = 124.9,11.06,-22.48
+RotateZFunction = 0.08
+RotateYFunction = 0.46
+
+[Object]
+States = bridge2.csv
+Position = 126.6,11.41,-8.60
+RotateZFunction = 0.08
+RotateYFunction = 0.08
+
+;;15;;
+
+[Object]
+States = bridge1.csv
+Position = 133.25,11.71,-26.57
+RotateZFunction = 0.08
+RotateYFunction = 0.58
+
+[Object]
+States = bridge2.csv
+Position = 136.2,12.18,-9.35
+RotateZFunction = 0.08
+RotateYFunction = 0.14
+
+;;16;;
+
+[Object]
+States = bridge1.csv
+Position = 141.06,12.33,-31.60
+RotateZFunction = 0.07
+RotateYFunction = 0.70
+
+[Object]
+States = bridge2.csv
+Position = 145.27,12.89,-10.55
+RotateZFunction = 0.07
+RotateYFunction = 0.24
+
+;;17;;
+
+[Object]
+States = bridge1.csv
+Position = 148.2,12.84,-37.59
+RotateZFunction = 0.07
+RotateYFunction = 0.80
+
+[Object]
+States = bridge2.csv
+Position = 154.27,13.52,-12.70
+RotateZFunction = 0.07
+RotateYFunction = 0.37
+
+;;18;;
+
+[Object]
+States = bridge1.csv
+Position = 154.76,13.28,-44.26
+RotateZFunction = 0.07
+RotateYFunction = 0.92
+
+[Object]
+States = bridge2.csv
+Position = 162.85,14.11,-15.94
+RotateZFunction = 0.07
+RotateYFunction = 0.52
