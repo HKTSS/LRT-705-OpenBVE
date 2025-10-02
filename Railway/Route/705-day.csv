@@ -25,6 +25,133 @@ With Structure,
 .Rail(1) LRT\Tracks\straight.csv
 .Rail(2) LRT\Old_rail\curve_0_dark.csv
 
+;========== Curved Main Tracks (Rail 100 - 199) ==========;
+.Rail(100) LRT\Tracks\curve_94.csv
+.Rail(101) LRT\Tracks\curve_-102.csv
+.Rail(102) LRT\Tracks\curve_-170.csv
+.Rail(103) LRT\Tracks\curve_-40.csv
+.Rail(104) LRT\Tracks\curve_-54.csv
+.Rail(105) LRT\Tracks\curve_600.csv
+.Rail(106) LRT\Tracks\curve_95.csv
+.Rail(107) LRT\Tracks\curve_80.csv
+.Rail(108) LRT\Tracks\curve_142.csv
+.Rail(109) LRT\Tracks\curve_-650.csv
+.Rail(110) LRT\Tracks\curve_-290.csv
+.Rail(111) LRT\Tracks\curve_-140.csv
+.Rail(112) LRT\Tracks\curve_-146.csv
+.Rail(113) LRT\Tracks\curve_136.csv
+.Rail(114) LRT\Tracks\curve_120.csv
+.Rail(115) LRT\Tracks\curve_1000.csv
+.Rail(116) LRT\Tracks\curve_-1000.csv
+.Rail(117) LRT\Tracks\curve_520.csv
+.Rail(118) LRT\Tracks\curve_155.csv
+.Rail(119) LRT\Tracks\curve_240.csv
+.Rail(120) LRT\Tracks\curve_350.csv
+.Rail(121) LRT\Tracks\curve_-1500.csv
+.Rail(122) LRT\Tracks\curve_-332.csv
+.Rail(123) LRT\Tracks\curve_-130.csv
+.Rail(124) LRT\Tracks\curve_-115.csv
+.Rail(125) LRT\Tracks\curve_-45.csv
+.Rail(126) LRT\Tracks\curve_-72.csv
+.Rail(127) LRT\Tracks\curve_370.csv
+.Rail(128) LRT\Tracks\curve_430.csv
+.Rail(130) LRT\Tracks\curve_-54.csv
+.Rail(131) LRT\Tracks\curve_-158.csv
+.Rail(132) LRT\Tracks\curve_-850.csv
+.Rail(133) LRT\Tracks\curve_-686.csv
+.Rail(134) LRT\Tracks\curve_-800.csv
+.Rail(135) LRT\Tracks\curve_-535.csv
+.Rail(136) LRT\Tracks\curve_-2000.csv
+.Rail(137) LRT\Tracks\curve_-900.csv
+.Rail(138) LRT\Tracks\curve_-600.csv
+.Rail(139) LRT\Tracks\curve_-1150.csv
+.Rail(140) LRT\Tracks\curve_-1200.csv
+.Rail(141) LRT\Tracks\curve_275.csv
+.Rail(142) LRT\Tracks\curve_-135.csv
+.Rail(143) LRT\Tracks\curve_-84.csv
+.Rail(144) LRT\Tracks\curve_-300.csv
+.Rail(145) LRT\Tracks\curve_-250.csv
+.Rail(146) LRT\Tracks\curve_-188.csv
+.Rail(147) LRT\Tracks\curve_900.csv
+.Rail(148) LRT\Tracks\curve_4000.csv
+.Rail(149) LRT\Tracks\curve_-4000.csv
+.Rail(150) LRT\Tracks\curve_-355.csv
+.Rail(151) LRT\Tracks\curve_300.csv
+.Rail(152) LRT\Tracks\curve_260.csv
+.Rail(153) LRT\Tracks\curve_2000.csv
+.Rail(154) LRT\Tracks\curve_1150.csv
+.Rail(155) LRT\Tracks\curve_-58.csv
+.Rail(156) LRT\Tracks\curve_-24.csv
+.Rail(157) LRT\Tracks\curve_-47.csv
+.Rail(158) LRT\Tracks\curve_-200.csv
+.Rail(159) LRT\Tracks\curve_34.csv
+.Rail(160) LRT\Tracks\curve_-41.csv
+.Rail(161) LRT\Tracks\curve_700.csv
+
+;========== Curved Opposite Tracks (Rail 200 - 299) ==========;
+; TODO: Actually replace these object with tracks for different block length;
+.Rail(200) LRT\Tracks\curve_94.csv
+.Rail(201) LRT\Tracks\curve_-102.csv
+.Rail(202) LRT\Tracks\curve_-170.csv
+.Rail(203) LRT\Tracks\curve_-40.csv
+.Rail(204) LRT\Tracks\curve_-54.csv
+.Rail(205) LRT\Tracks\curve_600.csv
+.Rail(206) LRT\Tracks\curve_95.csv
+.Rail(207) LRT\Tracks\curve_80.csv
+.Rail(208) LRT\Tracks\curve_142.csv
+.Rail(209) LRT\Tracks\curve_-650.csv
+.Rail(210) LRT\Tracks\curve_-290.csv
+.Rail(211) LRT\Tracks\curve_-140.csv
+.Rail(212) LRT\Tracks\curve_-146.csv
+.Rail(213) LRT\Tracks\curve_136.csv
+.Rail(214) LRT\Tracks\curve_120.csv
+.Rail(215) LRT\Tracks\curve_1000.csv
+.Rail(216) LRT\Tracks\curve_-1000.csv
+.Rail(217) LRT\Tracks\curve_520.csv
+.Rail(218) LRT\Tracks\curve_155.csv
+.Rail(219) LRT\Tracks\curve_240.csv
+.Rail(220) LRT\Tracks\curve_350.csv
+.Rail(221) LRT\Tracks\curve_-1500.csv
+.Rail(222) LRT\Tracks\curve_-332.csv
+.Rail(223) LRT\Tracks\curve_-130.csv
+.Rail(224) LRT\Tracks\curve_-115.csv
+.Rail(225) LRT\Tracks\curve_-45.csv
+.Rail(226) LRT\Tracks\curve_-72.csv
+.Rail(227) LRT\Tracks\curve_370.csv
+.Rail(228) LRT\Tracks\curve_430.csv
+.Rail(230) LRT\Tracks\curve_-54.csv
+.Rail(231) LRT\Tracks\curve_-158.csv
+.Rail(232) LRT\Tracks\curve_-850.csv
+.Rail(233) LRT\Tracks\curve_-686.csv
+.Rail(234) LRT\Tracks\curve_-800.csv
+.Rail(235) LRT\Tracks\curve_-535.csv
+.Rail(236) LRT\Tracks\curve_-2000.csv
+.Rail(237) LRT\Tracks\curve_-900.csv
+.Rail(238) LRT\Tracks\curve_-600.csv
+.Rail(239) LRT\Tracks\curve_-1150.csv
+.Rail(240) LRT\Tracks\curve_-1200.csv
+.Rail(241) LRT\Tracks\curve_275.csv
+.Rail(242) LRT\Tracks\curve_-135.csv
+.Rail(243) LRT\Tracks\curve_-84.csv
+.Rail(244) LRT\Tracks\curve_-300.csv
+.Rail(245) LRT\Tracks\curve_-250.csv
+.Rail(246) LRT\Tracks\curve_-188.csv
+.Rail(247) LRT\Tracks\curve_900.csv
+.Rail(248) LRT\Tracks\curve_4000.csv
+.Rail(249) LRT\Tracks\curve_-4000.csv
+.Rail(250) LRT\Tracks\curve_-355.csv
+.Rail(251) LRT\Tracks\curve_300.csv
+.Rail(252) LRT\Tracks\curve_260.csv
+.Rail(253) LRT\Tracks\curve_2000.csv
+.Rail(254) LRT\Tracks\curve_1150.csv
+.Rail(255) LRT\Tracks\curve_-58.csv
+.Rail(256) LRT\Tracks\curve_-24.csv
+.Rail(257) LRT\Tracks\curve_-47.csv
+.Rail(258) LRT\Tracks\curve_-200.csv
+.Rail(259) LRT\Tracks\curve_34.csv
+.Rail(260) LRT\Tracks\curve_-41.csv
+.Rail(261) LRT\Tracks\curve_700.csv
+
 ;=============== Bridge concrete ===============
 ;;Wall;;
 .WallL(15) LRT\Tracks\bridge_wall\wallL.b3d
@@ -155,32 +282,40 @@ With Track
 .stop 0
 
 3275,
+.railtype 0;100
 .curve 94
 .rail 1;17.35
 .rail 2;23.3
 
 3300,
+.railtype 0;1
 .curve 0
 .pitch 15
 .rail 1;13.5
 .rail 2;19.5
 
 3325,
+.railtype 0;101
 .curve -102
 .railend 1;4
 .rail 2;9.5
 
 3350,
+.railtype 0;1
 .curve 0
 .rail 2;5
 
 3375,
 .wall 0;-1;15
 .wall 2;1;15
+.railtype 0;102
+.railtype 2;202
 .curve -170
 .pitch 50
 
 3400,
+.railtype 0;103
+.railtype 2;203
 .curve -40
 .height 1
 .pitch 50
@@ -188,10 +323,14 @@ With Track
 3425,
 .pitch 60
 .height 2
+.railtype 0;104
+.railtype 2;204
 .curve -54
 
 3450,
 .height 4
+.railtype 0;1
+.railtype 2;1
 .curve 0
 .pitch 0
 .height 6
@@ -239,21 +378,31 @@ With Track
 .Section 2;2
 
 3775,
+.railtype 0;105
+.railtype 2;205
 .curve 600
 
 3800,
+.railtype 0;106
+.railtype 2;206
 .curve 95
 
 3825,
+.railtype 0;107
+.railtype 2;207
 .curve 80;30
 
 3835,
 .announce LR705\TWU.wav
 
 3850,
+.railtype 0;108
+.railtype 2;208
 .curve 142;30
 
 3875,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 .rail 2;4
 .freeobj 0;21
@@ -274,13 +423,19 @@ With Track
 
 4000,
 .brightness 40
+.railtype 0;109
+.railtype 2;209
 .curve -650;10
 
 4025,
+.railtype 0;110
+.railtype 2;210
 .curve -290;20
 .brightness 255
 
 4050,
+.railtype 0;111
+.railtype 2;211
 .curve -140;20
 
 4120,
@@ -290,9 +445,13 @@ With Track
 .freeobj 0;1006
 
 4175,
+.railtype 0;112
+.railtype 2;212
 .curve -146;15
 
 4200,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 4253,
@@ -312,12 +471,18 @@ With Track
 .announce LR705\TWI.wav
 
 4500,
+.railtype 0;113
+.railtype 2;213
 .curve 136;10
 
 4525,
+.railtype 0;114
+.railtype 2;214
 .curve 120;12
 
 4550,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 .rail 2;5
 
@@ -336,24 +501,38 @@ With Track
 .Section 2;2
 
 4725,
+.railtype 0;115
+.railtype 2;215
 .curve 1000
 
 4750,
+.railtype 0;116
+.railtype 2;216
 .curve -1000
 
 4775,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 4800,
+.railtype 0;117
+.railtype 2;217
 .curve 520
 
-4825
+4825,
+.railtype 0;118
+.railtype 2;218
 .curve 155
 
 4875,
+.railtype 0;119
+.railtype 2;219
 .curve 240
 
 4900,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 4960,
@@ -366,25 +545,39 @@ With Track
 
 5000,
 .stop 0;10;5
+.railtype 0;105
+.railtype 2;205
 .curve 600
 .Section 2;2
 
 5025,
+.railtype 0;119
+.railtype 2;219
 .curve 240
 
 5175,
+.railtype 0;120
+.railtype 2;220
 .curve 350
 
 5200,
+.railtype 0;121
+.railtype 2;221
 .curve -1500
 
 5225,
+.railtype 0;122
+.railtype 2;222
 .curve -332
 
 5250,
+.railtype 0;123
+.railtype 2;223
 .curve -130
 
 5275,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 5300,
@@ -400,18 +593,28 @@ With Track
 .Section 2;2
 
 5475,
+.railtype 0;124
+.railtype 2;224
 .curve -115
 
 5500,
+.railtype 0;125
+.railtype 2;225
 .curve -45
 
 5525,
+.railtype 0;126
+.railtype 2;226
 .curve -72
 
 5550,
+.railtype 0;127
+.railtype 2;227
 .curve 370
 
 5650,
+.railtype 0;128
+.railtype 2;228
 .curve 430
 
 5675,
@@ -419,6 +622,8 @@ With Track
 
 5700,
 .rail 2;4.5
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 5725,
@@ -437,18 +642,28 @@ With Track
 .Section 2;2
 
 5850,
+.railtype 0;116
+.railtype 2;216
 .curve -1000
 
 5875,
+.railtype 0;130
+.railtype 2;230
 .curve -54
 
 5975,
+.railtype 0;131
+.railtype 2;231
 .curve -158
 
 6000,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 6025,
+.railtype 0;132
+.railtype 2;232
 .curve -850
 
 6060,
@@ -464,22 +679,34 @@ With Track
 .Section 2;2
 
 6100,
+.railtype 0;133
+.railtype 2;233
 .curve -686
 
 6150,
+.railtype 0;134
+.railtype 2;234
 .curve -800
 
 6200,
+.railtype 0;135
+.railtype 2;235
 .curve -535
 
 6225,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 6400,
+.railtype 0;136
+.railtype 2;236
 .curve -2000
 
 6450,
 .rail 2;4.5
+.railtype 0;137
+.railtype 2;237
 .curve -900
 
 6420,
@@ -495,12 +722,18 @@ With Track
 .Section 2;2
 
 6500,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 6550,
+.railtype 0;138
+.railtype 2;238
 .curve -600
 
 6575,
+.railtype 0;139
+.railtype 2;239
 .curve -1150
 
 6718,
@@ -516,24 +749,38 @@ With Track
 .Section 2;2
 
 6800,
+.railtype 0;121
+.railtype 2;221
 .curve -1500
 
 6825,
+.railtype 0;140
+.railtype 2;240
 .curve -1200
 
 6850,
+.railtype 0;116
+.railtype 2;216
 .curve -1000
 
 6925,
+.railtype 0;161
+.railtype 2;261
 .curve 700
 
 6950,
+.railtype 0;141
+.railtype 2;241
 .curve 275
 
 6975,
+.railtype 0;114
+.railtype 2;214
 .curve 120
 
 7000,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 7013,
@@ -545,6 +792,8 @@ With Track
 .freeobj 0;1
 
 7050,
+.railtype 0;142
+.railtype 2;242
 .curve -135
 
 7053,
@@ -552,40 +801,64 @@ With Track
 .Section 2;2
 
 7075,
+.railtype 0;143
+.railtype 2;243
 .curve -84
 
 7100,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 .freeobj 0;90001
 
 7150,
+.railtype 0;144
+.railtype 2;244
 .curve -300
 
 7175,
+.railtype 0;145
+.railtype 2;245
 .curve -250
 
 7200,
+.railtype 0;146
+.railtype 2;246
 .curve -188
 
 7250,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 7350,
+.railtype 0;134
+.railtype 2;234
 .curve -800
 
 7375,
+.railtype 0;147
+.railtype 2;247
 .curve 900
 
 7400,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 7650,
+.railtype 0;148
+.railtype 2;248
 .curve 4000
 
 7700,
+.railtype 0;149
+.railtype 2;249
 .curve -4000
 
 7750,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 .sta 天瑞 Tin Shui; 17.3400; 17.3420; 0; -1; 0; 0; ; ; 75; LR705\705.wav; 0
 .Section 0;2
@@ -599,21 +872,33 @@ With Track
 .Section 2;2
 
 8025,
+.railtype 0;109
+.railtype 2;209
 .curve -650
 
 8050,
+.railtype 0;150
+.railtype 2;250
 .curve -355
 
 8100,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 8175,
+.railtype 0;151
+.railtype 2;251
 .curve 300
 
 8200,
+.railtype 0;152
+.railtype 2;252
 .curve 260
 
 8225,
+.railtype 0;1
+.railtype 2;1
 .curve 0
 
 8113
@@ -641,35 +926,48 @@ With Track
 .Section 2;2
 
 8650,
+.railtype 0;153
+.railtype 2;253
 .curve 2000
 
 8675,
+.railtype 0;154
+.railtype 2;254
 .curve 1150
 
 8750,
+.railtype 0;155
+.railtype 2;1
 .curve -58
 
 8775,
+.railtype 0;156
 .curve -24
 .rail 2;9
 
 8800,
+.railtype 0;157
 .curve -47
 .rail 2;13
 
 8825,
+.railtype 0;158
 .curve -200
 
 8850,
+.railtype 0;1
 .curve 0
 
 8925,
+.railtype 0;159
 .curve 34
 
 8950,
+.railtype 0;160
 .curve -41
 
 8975,
+.railtype 0;1
 .curve 0
 
 8950,

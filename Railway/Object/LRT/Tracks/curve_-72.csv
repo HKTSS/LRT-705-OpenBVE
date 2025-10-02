@@ -1,0 +1,1774 @@
+﻿; --- segment 0 ---
+
+CreateMeshBuilder
+AddVertex,-0.544940680950454 , 0 , 1.1006469642877
+AddVertex,-0.60417697097115 , 0 , 1.11018960252792
+AddVertex,-0.768274576610024 , 0 , 0.134737429598055
+AddVertex,-0.709176532255404 , 0 , 0.124373011936666
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.876730279546317 , 0 , 0.87162364652247
+AddVertex,0.935966569567013 , 0 , 0.862081008282252
+AddVertex,0.768274576610024 , 0 , -0.134737429598055
+AddVertex,0.709176532255404 , 0 , -0.124373011936666
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.728875880373606 , 0 , 0.127827817823795
+AddVertex,-0.564686110957353 , 0 , 1.10382784370111
+AddVertex,-0.564686110957353 , -0.15 , 1.10382784370111
+AddVertex,-0.728875880373606 , -0.15 , 0.127827817823795
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,0.728875880373606 , 0 , -0.127827817823795
+AddVertex,0.896475709553202 , 0 , 0.868442767109067
+AddVertex,0.896475709553202 , -0.15 , 0.868442767109067
+AddVertex,0.728875880373606 , -0.15 , -0.127827817823795
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-1.11755815115054 , -0.15 , 1.19289246727647
+AddVertex,1.44934774974639 , -0.15 , 0.779378143533699
+AddVertex,1.28045762768337 , -0.15 , -0.224562382663425
+AddVertex,-1.28045762768337 , -0.15 , 0.224562382663425
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.59846540166801 , -0.4 , 1.43145842328192
+AddVertex,-1.11755815115054 , -0.15 , 1.19289246727647
+AddVertex,-1.28045762768337 , -0.15 , 0.224562382663425
+AddVertex,-2.7579087365488 , -0.4 , 0.483672824198146
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,2.93025500026386 , -0.4 , 0.54081218752825
+AddVertex,1.44934774974639 , -0.15 , 0.779378143533699
+AddVertex,1.28045762768337 , -0.15 , -0.224562382663425
+AddVertex,2.7579087365488 , -0.4 , -0.483672824198146
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 1 ---
+
+CreateMeshBuilder
+AddVertex,-0.394279594557401 , 0 , 2.07910773608177
+AddVertex,-0.453642703674387 , 0 , 2.08782675414371
+AddVertex,-0.60417697097115 , 0 , 1.11018960252792
+AddVertex,-0.544940680950454 , 0 , 1.1006469642877
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.03043502425034 , 0 , 1.8698513025952
+AddVertex,1.08979813336732 , 0 , 1.86113228453326
+AddVertex,0.935966569567013 , 0 , 0.862081008282252
+AddVertex,0.876730279546317 , 0 , 0.87162364652247
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.564686110957353 , 0 , 1.10382784370111
+AddVertex,-0.414067297596392 , 0 , 2.08201407543575
+AddVertex,-0.414067297596392 , -0.15 , 2.08201407543575
+AddVertex,-0.564686110957353 , -0.15 , 1.10382784370111
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,0.896475709553202 , 0 , 0.868442767109067
+AddVertex,1.05022272728933 , 0 , 1.86694496324123
+AddVertex,1.05022272728933 , -0.15 , 1.86694496324123
+AddVertex,0.896475709553202 , -0.15 , 0.868442767109067
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.968122982688295 , -0.15 , 2.16339157734719
+AddVertex,1.60427841238123 , -0.15 , 1.78556746132978
+AddVertex,1.44934774974639 , -0.15 , 0.779378143533699
+AddVertex,-1.11755815115054 , -0.15 , 1.19289246727647
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.45220071061302 , -0.4 , 2.38136702889569
+AddVertex,-0.968122982688295 , -0.15 , 2.16339157734719
+AddVertex,-1.11755815115054 , -0.15 , 1.19289246727647
+AddVertex,-2.59846540166801 , -0.4 , 1.43145842328192
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.08835614030595 , -0.4 , 1.56759200978128
+AddVertex,1.60427841238123 , -0.15 , 1.78556746132978
+AddVertex,1.44934774974639 , -0.15 , 0.779378143533699
+AddVertex,2.93025500026386 , -0.4 , 0.54081218752825
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 2 ---
+
+CreateMeshBuilder
+AddVertex,-0.257222335318634 , 0 , 3.0595665840621
+AddVertex,-0.316700812498945 , 0 , 3.06746030006345
+AddVertex,-0.453642703674387 , 0 , 2.08782675414371
+AddVertex,-0.394279594557401 , 0 , 2.07910773608177
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.17026111700909 , 0 , 2.87011740002969
+AddVertex,1.22973959418941 , 0 , 2.86222368402834
+AddVertex,1.08979813336732 , 0 , 1.86113228453326
+AddVertex,1.03043502425034 , 0 , 1.8698513025952
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.414067297596392 , 0 , 2.08201407543575
+AddVertex,-0.277048494378724 , 0 , 3.06219782272922
+AddVertex,-0.277048494378724 , -0.15 , 3.06219782272922
+AddVertex,-0.414067297596392 , -0.15 , 2.08201407543575
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.05022272728933 , 0 , 1.86694496324123
+AddVertex,1.19008727606919 , 0 , 2.86748616136257
+AddVertex,1.19008727606919 , -0.15 , 2.86748616136257
+AddVertex,1.05022272728933 , -0.15 , 1.86694496324123
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.832180948061735 , -0.15 , 3.13587250540849
+AddVertex,1.74521972975219 , -0.15 , 2.7938114786833
+AddVertex,1.60427841238123 , -0.15 , 1.78556746132978
+AddVertex,-0.968122982688295 , -0.15 , 2.16339157734719
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.31914287756976 , -0.4 , 3.33321540544226
+AddVertex,-0.832180948061735 , -0.15 , 3.13587250540849
+AddVertex,-0.968122982688295 , -0.15 , 2.16339157734719
+AddVertex,-2.45220071061302 , -0.4 , 2.38136702889569
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.23218165926023 , -0.4 , 2.59646857864953
+AddVertex,1.74521972975219 , -0.15 , 2.7938114786833
+AddVertex,1.60427841238123 , -0.15 , 1.78556746132978
+AddVertex,3.08835614030595 , -0.4 , 1.56759200978128
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 3 ---
+
+CreateMeshBuilder
+AddVertex,-0.133795341323652 , 0 , 4.04183437954678
+AddVertex,-0.193377713280066 , 0 , 4.04890127080446
+AddVertex,-0.316700812498945 , 0 , 3.06746030006345
+AddVertex,-0.257222335318634 , 0 , 3.0595665840621
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.29618158563022 , 0 , 3.87222898936255
+AddVertex,1.35576395758664 , 0 , 3.86516209810487
+AddVertex,1.22973959418941 , 0 , 2.86222368402834
+AddVertex,1.17026111700909 , 0 , 2.87011740002969
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.277048494378724 , 0 , 3.06219782272922
+AddVertex,-0.153656131975785 , 0 , 4.04419000996601
+AddVertex,-0.153656131975785 , -0.15 , 4.04419000996601
+AddVertex,-0.277048494378724 , -0.15 , 3.06219782272922
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.19008727606919 , 0 , 2.86748616136257
+AddVertex,1.31604237628235 , 0 , 3.86987335894332
+AddVertex,1.31604237628235 , -0.15 , 3.86987335894332
+AddVertex,1.19008727606919 , -0.15 , 2.86748616136257
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.709758270235623 , -0.15 , 4.11014766170432
+AddVertex,1.87214451454221 , -0.15 , 3.803915707205
+AddVertex,1.74521972975219 , -0.15 , 2.7938114786833
+AddVertex,-0.832180948061735 , -0.15 , 3.13587250540849
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.19931756914591 , -0.4 , 4.28681994314624
+AddVertex,-0.709758270235623 , -0.15 , 4.11014766170432
+AddVertex,-0.832180948061735 , -0.15 , 3.13587250540849
+AddVertex,-2.31914287756976 , -0.4 , 3.33321540544226
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.36170381345249 , -0.4 , 3.62724342576309
+AddVertex,1.87214451454221 , -0.15 , 3.803915707205
+AddVertex,1.74521972975219 , -0.15 , 2.7938114786833
+AddVertex,3.23218165926023 , -0.4 , 2.59646857864953
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 4 ---
+
+CreateMeshBuilder
+AddVertex,-0.024022421409237 , 0 , 5.02572164491129
+AddVertex,-0.0836971948133982 , 0 , 5.03196034823516
+AddVertex,-0.193377713280066 , 0 , 4.04890127080446
+AddVertex,-0.133795341323652 , 0 , 4.04183437954678
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.40817214029038 , 0 , 4.87599276513845
+AddVertex,1.46784691369452 , 0 , 4.86975406181458
+AddVertex,1.35576395758664 , 0 , 3.86516209810487
+AddVertex,1.29618158563022 , 0 , 3.87222898936255
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.153656131975785 , 0 , 4.04419000996601
+AddVertex,-0.0439140125439574 , 0 , 5.02780121268591
+AddVertex,-0.0439140125439574 , -0.15 , 5.02780121268591
+AddVertex,-0.153656131975785 , -0.15 , 4.04419000996601
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.31604237628235 , 0 , 3.86987335894332
+AddVertex,1.4280637314251 , 0 , 4.87391319736383
+AddVertex,1.4280637314251 , -0.15 , 4.87391319736383
+AddVertex,1.31604237628235 , -0.15 , 3.86987335894332
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.60087856431603 , -0.15 , 5.08602911037535
+AddVertex,1.98502828319717 , -0.15 , 4.81568529967439
+AddVertex,1.87214451454221 , -0.15 , 3.803915707205
+AddVertex,-0.709758270235623 , -0.15 , 4.11014766170432
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.09274789941981 , -0.4 , 5.24199669347205
+AddVertex,-0.60087856431603 , -0.15 , 5.08602911037535
+AddVertex,-0.709758270235623 , -0.15 , 4.11014766170432
+AddVertex,-2.19931756914591 , -0.4 , 4.28681994314624
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.47689761830095 , -0.4 , 4.65971771657769
+AddVertex,1.98502828319717 , -0.15 , 4.81568529967439
+AddVertex,1.87214451454221 , -0.15 , 3.803915707205
+AddVertex,3.36170381345249 , -0.4 , 3.62724342576309
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 5 ---
+
+CreateMeshBuilder
+AddVertex,0.0720752494331951 , 0 , 6.01103859013837
+AddVertex,0.0123195857337115 , 0 , 6.0164479020942
+AddVertex,-0.0836971948133982 , 0 , 5.03196034823516
+AddVertex,-0.024022421409237 , 0 , 5.02572164491129
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.50621117822054 , 0 , 5.88121510319841
+AddVertex,1.56596684192001 , 0 , 5.87580579124257
+AddVertex,1.46784691369452 , 0 , 4.86975406181458
+AddVertex,1.40817214029038 , 0 , 4.87599276513845
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.0439140125439574 , 0 , 5.02780121268591
+AddVertex,0.0521566948667055 , 0 , 6.01284169412365
+AddVertex,0.0521566948667055 , -0.15 , 6.01284169412365
+AddVertex,-0.0439140125439574 , -0.15 , 5.02780121268591
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.4280637314251 , 0 , 4.87391319736383
+AddVertex,1.52612973278703 , 0 , 5.87941199921313
+AddVertex,1.52612973278703 , -0.15 , 5.87941199921313
+AddVertex,1.4280637314251 , -0.15 , 4.87391319736383
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.505562832995039 , -0.15 , 6.06332860571141
+AddVertex,2.08384926064877 , -0.15 , 5.82892508762536
+AddVertex,1.98502828319717 , -0.15 , 4.81568529967439
+AddVertex,-0.60087856431603 , -0.15 , 5.08602911037535
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.99945442548187 , -0.4 , 6.19856140460721
+AddVertex,-0.505562832995039 , -0.15 , 6.06332860571141
+AddVertex,-0.60087856431603 , -0.15 , 5.08602911037535
+AddVertex,-2.09274789941981 , -0.4 , 5.24199669347205
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.5777408531356 , -0.4 , 5.69369228872957
+AddVertex,2.08384926064877 , -0.15 , 5.82892508762536
+AddVertex,1.98502828319717 , -0.15 , 4.81568529967439
+AddVertex,3.47689761830095 , -0.4 , 4.65971771657769
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 6 ---
+
+CreateMeshBuilder
+AddVertex,0.15447913414232 , 0 , 6.99759514942822
+AddVertex,0.0946541069035194 , 0 , 7.00217402656983
+AddVertex,0.0123195857337115 , 0 , 6.0164479020942
+AddVertex,0.0720752494331951 , 0 , 6.01103859013837
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.59027978787327 , 0 , 6.88770209802946
+AddVertex,1.65010481511207 , 0 , 6.88312322088785
+AddVertex,1.56596684192001 , 0 , 5.87580579124257
+AddVertex,1.50621117822054 , 0 , 5.88121510319841
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.0521566948667055 , 0 , 6.01284169412365
+AddVertex,0.134537458396048 , 0 , 6.99912144180876
+AddVertex,0.134537458396048 , -0.15 , 6.99912144180876
+AddVertex,0.0521566948667055 , -0.15 , 6.01284169412365
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.52612973278703 , 0 , 5.87941199921313
+AddVertex,1.61022146361954 , 0 , 6.88617580564892
+AddVertex,1.61022146361954 , -0.15 , 6.88617580564892
+AddVertex,1.52612973278703 , -0.15 , 5.87941199921313
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.423829462499326 , -0.15 , 7.04185762846383
+AddVertex,2.16858838451492 , -0.15 , 6.84343961899385
+AddVertex,2.08384926064877 , -0.15 , 5.82892508762536
+AddVertex,-0.505562832995039 , -0.15 , 6.06332860571141
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.91945514346908 , -0.4 , 7.1563295570042
+AddVertex,-0.423829462499326 , -0.15 , 7.04185762846383
+AddVertex,-0.505562832995039 , -0.15 , 6.06332860571141
+AddVertex,-1.99945442548187 , -0.4 , 6.19856140460721
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.66421406548467 , -0.4 , 6.72896769045348
+AddVertex,2.16858838451492 , -0.15 , 6.84343961899385
+AddVertex,2.08384926064877 , -0.15 , 5.82892508762536
+AddVertex,3.5777408531356 , -0.4 , 5.69369228872957
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 7 ---
+
+CreateMeshBuilder
+AddVertex,0.223173337162543 , 0 , 7.98520101786177
+AddVertex,0.163290486520534 , 0 , 7.98894857693231
+AddVertex,0.0946541069035194 , 0 , 7.00217402656983
+AddVertex,0.15447913414232 , 0 , 6.99759514942822
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.66036175257068 , 0 , 7.89525960016874
+AddVertex,1.72024460321269 , 0 , 7.8915120410982
+AddVertex,1.65010481511207 , 0 , 6.88312322088785
+AddVertex,1.59027978787327 , 0 , 6.88770209802946
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.134537458396048 , 0 , 6.99912144180876
+AddVertex,0.203212386948545 , 0 , 7.98645020421861
+AddVertex,0.203212386948545 , -0.15 , 7.98645020421861
+AddVertex,0.134537458396048 , -0.15 , 6.99912144180876
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.61022146361954 , 0 , 6.88617580564892
+AddVertex,1.68032270278468 , 0 , 7.89401041381189
+AddVertex,1.68032270278468 , -0.15 , 7.89401041381189
+AddVertex,1.61022146361954 , -0.15 , 6.88617580564892
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.355694219043517 , -0.15 , 8.02142742221035
+AddVertex,2.23922930877674 , -0.15 , 7.85903319582016
+AddVertex,2.16858838451492 , -0.15 , 6.84343961899385
+AddVertex,-0.423829462499326 , -0.15 , 7.04185762846383
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.85276548509366 , -0.4 , 8.11511639897392
+AddVertex,-0.355694219043517 , -0.15 , 8.02142742221035
+AddVertex,-0.423829462499326 , -0.15 , 7.04185762846383
+AddVertex,-1.91945514346908 , -0.4 , 7.1563295570042
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.7363005748269 , -0.4 , 7.76534421905659
+AddVertex,2.23922930877674 , -0.15 , 7.85903319582016
+AddVertex,2.16858838451492 , -0.15 , 6.84343961899385
+AddVertex,3.66421406548467 , -0.4 , 6.72896769045348
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 8 ---
+
+CreateMeshBuilder
+AddVertex,0.278144607510325 , 0 , 8.97366568811019
+AddVertex,0.218215484755233 , 0 , 8.97658120621251
+AddVertex,0.163290486520534 , 0 , 7.98894857693231
+AddVertex,0.223173337162543 , 0 , 7.98520101786177
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.71644355363256 , 0 , 8.90369325365451
+AddVertex,1.77637267638766 , 0 , 8.90077773555218
+AddVertex,1.72024460321269 , 0 , 7.8915120410982
+AddVertex,1.66036175257068 , 0 , 7.89525960016874
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.203212386948545 , 0 , 7.98645020421861
+AddVertex,0.258168233258637 , 0 , 8.97463752747763
+AddVertex,0.258168233258637 , -0.15 , 8.97463752747763
+AddVertex,0.203212386948545 , -0.15 , 7.98645020421861
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.68032270278468 , 0 , 7.89401041381189
+AddVertex,1.73641992788426 , 0 , 8.90272141428706
+AddVertex,1.73641992788426 , -0.15 , 8.90272141428706
+AddVertex,1.68032270278468 , -0.15 , 7.89401041381189
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.301170245788901 , -0.15 , 9.00184902976595
+AddVertex,2.2957584069318 , -0.15 , 8.87550991199874
+AddVertex,2.23922930877674 , -0.15 , 7.85903319582016
+AddVertex,-0.355694219043517 , -0.15 , 8.02142742221035
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.79939831466624 , -0.4 , 9.07473698232396
+AddVertex,-0.301170245788901 , -0.15 , 9.00184902976595
+AddVertex,-0.355694219043517 , -0.15 , 8.02142742221035
+AddVertex,-1.85276548509366 , -0.4 , 8.11511639897392
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.79398647580912 , -0.4 , 8.80262195944074
+AddVertex,2.2957584069318 , -0.15 , 8.87550991199874
+AddVertex,2.23922930877674 , -0.15 , 7.85903319582016
+AddVertex,3.7363005748269 , -0.4 , 7.76534421905659
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 9 ---
+
+CreateMeshBuilder
+AddVertex,0.319382341330212 , 0 , 9.96279848718339
+AddVertex,0.259418506677962 , 0 , 9.96488140191948
+AddVertex,0.218215484755233 , 0 , 8.97658120621251
+AddVertex,0.278144607510325 , 0 , 8.97366568811019
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.75851437298417 , 0 , 9.91280853351706
+AddVertex,1.81847820763642 , 0 , 9.91072561878096
+AddVertex,1.77637267638766 , 0 , 8.90077773555218
+AddVertex,1.71644355363256 , 0 , 8.90369325365451
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.258168233258637 , 0 , 8.97463752747763
+AddVertex,0.299394396446143 , 0 , 9.96349279209542
+AddVertex,0.299394396446143 , -0.15 , 9.96349279209542
+AddVertex,0.258168233258637 , -0.15 , 8.97463752747763
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.73641992788426 , 0 , 8.90272141428706
+AddVertex,1.77850231786826 , 0 , 9.91211422860502
+AddVertex,1.77850231786826 , -0.15 , 9.91211422860502
+AddVertex,1.73641992788426 , -0.15 , 8.90272141428706
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.260268060308183 , -0.15 , 9.98293332963233
+AddVertex,2.33816477462257 , -0.15 , 9.89267369106812
+AddVertex,2.2957584069318 , -0.15 , 8.87550991199874
+AddVertex,-0.301170245788901 , -0.15 , 9.00184902976595
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.75936392661438 , -0.4 , 10.0350061980347
+AddVertex,-0.260268060308183 , -0.15 , 9.98293332963233
+AddVertex,-0.301170245788901 , -0.15 , 9.00184902976595
+AddVertex,-1.79939831466624 , -0.4 , 9.07473698232396
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.83726064092876 , -0.4 , 9.8406008226657
+AddVertex,2.33816477462257 , -0.15 , 9.89267369106812
+AddVertex,2.2957584069318 , -0.15 , 8.87550991199874
+AddVertex,3.79398647580912 , -0.4 , 8.80262195944074
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 10 ---
+
+CreateMeshBuilder
+AddVertex,0.346878583940312 , 0 , 10.9524086132104
+AddVertex,0.28689160430271 , 0 , 10.95365852279
+AddVertex,0.259418506677962 , 0 , 9.96488140191948
+AddVertex,0.319382341330212 , 0 , 9.96279848718339
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.78656609524296 , 0 , 10.9224107833022
+AddVertex,1.84655307488057 , 0 , 10.9211608737227
+AddVertex,1.81847820763642 , 0 , 9.91072561878096
+AddVertex,1.75851437298417 , 0 , 9.91280853351706
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.299394396446143 , 0 , 9.96349279209542
+AddVertex,0.326882924061117 , 0 , 10.952825249737
+AddVertex,0.326882924061117 , -0.15 , 10.952825249737
+AddVertex,0.299394396446143 , -0.15 , 9.96349279209542
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.77850231786826 , 0 , 9.91211422860502
+AddVertex,1.80656175512216 , 0 , 10.9219941467757
+AddVertex,1.80656175512216 , -0.15 , 10.9219941467757
+AddVertex,1.77850231786826 , -0.15 , 9.91211422860502
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.232995552556584 , -0.15 , 10.964491072479
+AddVertex,2.36644023173985 , -0.15 , 10.9103283240337
+AddVertex,2.33816477462257 , -0.15 , 9.89267369106812
+AddVertex,-0.260268060308183 , -0.15 , 9.98293332963233
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.73267004349684 , -0.4 , 10.9957388119667
+AddVertex,-0.232995552556584 , -0.15 , 10.964491072479
+AddVertex,-0.260268060308183 , -0.15 , 9.98293332963233
+AddVertex,-1.75936392661438 , -0.4 , 10.0350061980347
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.8661147226801 , -0.4 , 10.8790805845459
+AddVertex,2.36644023173985 , -0.15 , 10.9103283240337
+AddVertex,2.33816477462257 , -0.15 , 9.89267369106812
+AddVertex,3.83726064092876 , -0.4 , 9.8406008226657
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 11 ---
+
+CreateMeshBuilder
+AddVertex,0.360628031366738 , 0 , 11.942305172245
+AddVertex,0.300629478120172 , 0 , 11.9427218355627
+AddVertex,0.28689160430271 , 0 , 10.95365852279
+AddVertex,0.346878583940312 , 0 , 10.9524086132104
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.80059330928405 , 0 , 11.9323052526203
+AddVertex,1.8605918625306 , 0 , 11.9318885893026
+AddVertex,1.84655307488057 , 0 , 10.9211608737227
+AddVertex,1.78656609524296 , 0 , 10.9224107833022
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.326882924061117 , 0 , 10.952825249737
+AddVertex,0.340628513617883 , 0 , 11.9424440600176
+AddVertex,0.340628513617883 , -0.15 , 11.9424440600176
+AddVertex,0.326882924061117 , -0.15 , 10.952825249737
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.80656175512216 , 0 , 10.9219941467757
+AddVertex,1.82059282703289 , 0 , 11.9321663648478
+AddVertex,1.82059282703289 , -0.15 , 11.9321663648478
+AddVertex,1.80656175512216 , -0.15 , 10.9219941467757
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.219357983349958 , -0.15 , 11.9463329176494
+AddVertex,2.38057932400075 , -0.15 , 11.9282775072159
+AddVertex,2.36644023173985 , -0.15 , 10.9103283240337
+AddVertex,-0.232995552556584 , -0.15 , 10.964491072479
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.71932181451384 , -0.4 , 11.9567495005918
+AddVertex,-0.219357983349958 , -0.15 , 11.9463329176494
+AddVertex,-0.232995552556584 , -0.15 , 10.964491072479
+AddVertex,-1.73267004349684 , -0.4 , 10.9957388119667
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.88054315516461 , -0.4 , 11.9178609242736
+AddVertex,2.38057932400075 , -0.15 , 11.9282775072159
+AddVertex,2.36644023173985 , -0.15 , 10.9103283240337
+AddVertex,3.8661147226801 , -0.4 , 10.8790805845459
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 12 ---
+
+CreateMeshBuilder
+AddVertex,0.360628031366731 , 0 , 12.9322972150883
+AddVertex,0.300629478120183 , 0 , 12.9318805517706
+AddVertex,0.300629478120172 , 0 , 11.9427218355627
+AddVertex,0.360628031366738 , 0 , 11.942305172245
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.80059330928405 , 0 , 12.9422971347129
+AddVertex,1.86059186253062 , 0 , 12.9427137980306
+AddVertex,1.8605918625306 , 0 , 11.9318885893026
+AddVertex,1.80059330928405 , 0 , 11.9323052526203
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.340628513617883 , 0 , 11.9424440600176
+AddVertex,0.340628513617891 , 0 , 12.9321583273157
+AddVertex,0.340628513617891 , -0.15 , 12.9321583273157
+AddVertex,0.340628513617883 , -0.15 , 11.9424440600176
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.82059282703289 , 0 , 11.9321663648478
+AddVertex,1.82059282703289 , 0 , 12.9424360224855
+AddVertex,1.82059282703289 , -0.15 , 12.9424360224855
+AddVertex,1.82059282703289 , -0.15 , 11.9321663648478
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.219357983349961 , -0.15 , 12.9282694696839
+AddVertex,2.38057932400075 , -0.15 , 12.9463248801173
+AddVertex,2.38057932400075 , -0.15 , 11.9282775072159
+AddVertex,-0.219357983349958 , -0.15 , 11.9463329176494
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.71932181451383 , -0.4 , 12.9178528867415
+AddVertex,-0.219357983349961 , -0.15 , 12.9282694696839
+AddVertex,-0.219357983349958 , -0.15 , 11.9463329176494
+AddVertex,-1.71932181451384 , -0.4 , 11.9567495005918
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.88054315516462 , -0.4 , 12.9567414630597
+AddVertex,2.38057932400075 , -0.15 , 12.9463248801173
+AddVertex,2.38057932400075 , -0.15 , 11.9282775072159
+AddVertex,3.88054315516461 , -0.4 , 11.9178609242736
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 13 ---
+
+CreateMeshBuilder
+AddVertex,0.346878583940314 , 0 , 13.9221937741228
+AddVertex,0.286891604302696 , 0 , 13.9209438645433
+AddVertex,0.300629478120183 , 0 , 12.9318805517706
+AddVertex,0.360628031366731 , 0 , 12.9322972150883
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.78656609524295 , 0 , 13.952191604031
+AddVertex,1.84655307488057 , 0 , 13.9534415136105
+AddVertex,1.86059186253062 , 0 , 12.9427137980306
+AddVertex,1.80059330928405 , 0 , 12.9422971347129
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.340628513617891 , 0 , 12.9321583273157
+AddVertex,0.326882924061117 , 0 , 13.9217771375963
+AddVertex,0.326882924061117 , -0.15 , 13.9217771375963
+AddVertex,0.340628513617891 , -0.15 , 12.9321583273157
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.82059282703289 , 0 , 12.9424360224855
+AddVertex,1.80656175512216 , 0 , 13.9526082405575
+AddVertex,1.80656175512216 , -0.15 , 13.9526082405575
+AddVertex,1.82059282703289 , -0.15 , 12.9424360224855
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.232995552556585 , -0.15 , 13.9101113148542
+AddVertex,2.36644023173985 , -0.15 , 13.9642740632996
+AddVertex,2.38057932400075 , -0.15 , 12.9463248801173
+AddVertex,-0.219357983349961 , -0.15 , 12.9282694696839
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.73267004349684 , -0.4 , 13.8788635753665
+AddVertex,-0.232995552556585 , -0.15 , 13.9101113148542
+AddVertex,-0.219357983349961 , -0.15 , 12.9282694696839
+AddVertex,-1.71932181451383 , -0.4 , 12.9178528867415
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.8661147226801 , -0.4 , 13.9955218027873
+AddVertex,2.36644023173985 , -0.15 , 13.9642740632996
+AddVertex,2.38057932400075 , -0.15 , 12.9463248801173
+AddVertex,3.88054315516462 , -0.4 , 12.9567414630597
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 14 ---
+
+CreateMeshBuilder
+AddVertex,0.319382341330215 , 0 , 14.9118039001499
+AddVertex,0.259418506677964 , 0 , 14.9097209854138
+AddVertex,0.286891604302696 , 0 , 13.9209438645433
+AddVertex,0.346878583940314 , 0 , 13.9221937741228
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.75851437298417 , 0 , 14.9617938538162
+AddVertex,1.81847820763642 , 0 , 14.9638767685523
+AddVertex,1.84655307488057 , 0 , 13.9534415136105
+AddVertex,1.78656609524295 , 0 , 13.952191604031
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.326882924061117 , 0 , 13.9217771375963
+AddVertex,0.299394396446131 , 0 , 14.9111095952378
+AddVertex,0.299394396446131 , -0.15 , 14.9111095952378
+AddVertex,0.326882924061117 , -0.15 , 13.9217771375963
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.80656175512216 , 0 , 13.9526082405575
+AddVertex,1.77850231786825 , 0 , 14.9624881587282
+AddVertex,1.77850231786825 , -0.15 , 14.9624881587282
+AddVertex,1.80656175512216 , -0.15 , 13.9526082405575
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.260268060308177 , -0.15 , 14.8916690577009
+AddVertex,2.33816477462257 , -0.15 , 14.9819286962651
+AddVertex,2.36644023173985 , -0.15 , 13.9642740632996
+AddVertex,-0.232995552556585 , -0.15 , 13.9101113148542
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.75936392661438 , -0.4 , 14.8395961892985
+AddVertex,-0.260268060308177 , -0.15 , 14.8916690577009
+AddVertex,-0.232995552556585 , -0.15 , 13.9101113148542
+AddVertex,-1.73267004349684 , -0.4 , 13.8788635753665
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.83726064092877 , -0.4 , 15.0340015646676
+AddVertex,2.33816477462257 , -0.15 , 14.9819286962651
+AddVertex,2.36644023173985 , -0.15 , 13.9642740632996
+AddVertex,3.8661147226801 , -0.4 , 13.9955218027873
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 15 ---
+
+CreateMeshBuilder
+AddVertex,0.278144607510329 , 0 , 15.9009366992231
+AddVertex,0.218215484755235 , 0 , 15.8980211811207
+AddVertex,0.259418506677964 , 0 , 14.9097209854138
+AddVertex,0.319382341330215 , 0 , 14.9118039001499
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.71644355363257 , 0 , 15.9709091336788
+AddVertex,1.77637267638766 , 0 , 15.9738246517811
+AddVertex,1.81847820763642 , 0 , 14.9638767685523
+AddVertex,1.75851437298417 , 0 , 14.9617938538162
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.299394396446131 , 0 , 14.9111095952378
+AddVertex,0.258168233258641 , 0 , 15.8999648598556
+AddVertex,0.258168233258641 , -0.15 , 15.8999648598556
+AddVertex,0.299394396446131 , -0.15 , 14.9111095952378
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.77850231786825 , 0 , 14.9624881587282
+AddVertex,1.73641992788425 , 0 , 15.9718809730462
+AddVertex,1.73641992788425 , -0.15 , 15.9718809730462
+AddVertex,1.77850231786825 , -0.15 , 14.9624881587282
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.301170245788901 , -0.15 , 15.8727533575673
+AddVertex,2.2957584069318 , -0.15 , 15.9990924753345
+AddVertex,2.33816477462257 , -0.15 , 14.9819286962651
+AddVertex,-0.260268060308177 , -0.15 , 14.8916690577009
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.79939831466623 , -0.4 , 15.7998654050093
+AddVertex,-0.301170245788901 , -0.15 , 15.8727533575673
+AddVertex,-0.260268060308177 , -0.15 , 14.8916690577009
+AddVertex,-1.75936392661438 , -0.4 , 14.8395961892985
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.79398647580913 , -0.4 , 16.0719804278925
+AddVertex,2.2957584069318 , -0.15 , 15.9990924753345
+AddVertex,2.33816477462257 , -0.15 , 14.9819286962651
+AddVertex,3.83726064092877 , -0.4 , 15.0340015646676
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 16 ---
+
+CreateMeshBuilder
+AddVertex,0.223173337162548 , 0 , 16.8894013694715
+AddVertex,0.163290486520529 , 0 , 16.8856538104009
+AddVertex,0.218215484755235 , 0 , 15.8980211811207
+AddVertex,0.278144607510329 , 0 , 15.9009366992231
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.66036175257069 , 0 , 16.9793427871645
+AddVertex,1.72024460321269 , 0 , 16.9830903462351
+AddVertex,1.77637267638766 , 0 , 15.9738246517811
+AddVertex,1.71644355363257 , 0 , 15.9709091336788
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.258168233258641 , 0 , 15.8999648598556
+AddVertex,0.203212386948542 , 0 , 16.8881521831146
+AddVertex,0.203212386948542 , -0.15 , 16.8881521831146
+AddVertex,0.258168233258641 , -0.15 , 15.8999648598556
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.73641992788425 , 0 , 15.9718809730462
+AddVertex,1.68032270278468 , 0 , 16.9805919735214
+AddVertex,1.68032270278468 , -0.15 , 16.9805919735214
+AddVertex,1.73641992788425 , -0.15 , 15.9718809730462
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.355694219043507 , -0.15 , 16.8531749651229
+AddVertex,2.23922930877674 , -0.15 , 17.0155691915131
+AddVertex,2.2957584069318 , -0.15 , 15.9990924753345
+AddVertex,-0.301170245788901 , -0.15 , 15.8727533575673
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.85276548509367 , -0.4 , 16.7594859883593
+AddVertex,-0.355694219043507 , -0.15 , 16.8531749651229
+AddVertex,-0.301170245788901 , -0.15 , 15.8727533575673
+AddVertex,-1.79939831466623 , -0.4 , 15.7998654050093
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.73630057482689 , -0.4 , 17.1092581682767
+AddVertex,2.23922930877674 , -0.15 , 17.0155691915131
+AddVertex,2.2957584069318 , -0.15 , 15.9990924753345
+AddVertex,3.79398647580913 , -0.4 , 16.0719804278925
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 17 ---
+
+CreateMeshBuilder
+AddVertex,0.154479134142304 , 0 , 17.877007237905
+AddVertex,0.0946541069035143 , 0 , 17.8724283607634
+AddVertex,0.163290486520529 , 0 , 16.8856538104009
+AddVertex,0.223173337162548 , 0 , 16.8894013694715
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.59027978787327 , 0 , 17.9869002893038
+AddVertex,1.65010481511206 , 0 , 17.9914791664454
+AddVertex,1.72024460321269 , 0 , 16.9830903462351
+AddVertex,1.66036175257069 , 0 , 16.9793427871645
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.203212386948542 , 0 , 16.8881521831146
+AddVertex,0.134537458396045 , 0 , 17.8754809455245
+AddVertex,0.134537458396045 , -0.15 , 17.8754809455245
+AddVertex,0.203212386948542 , -0.15 , 16.8881521831146
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.68032270278468 , 0 , 16.9805919735214
+AddVertex,1.61022146361953 , 0 , 17.9884265816843
+AddVertex,1.61022146361953 , -0.15 , 17.9884265816843
+AddVertex,1.68032270278468 , -0.15 , 16.9805919735214
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.423829462499335 , -0.15 , 17.8327447588694
+AddVertex,2.16858838451491 , -0.15 , 18.0311627683394
+AddVertex,2.23922930877674 , -0.15 , 17.0155691915131
+AddVertex,-0.355694219043507 , -0.15 , 16.8531749651229
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.91945514346909 , -0.4 , 17.7182728303291
+AddVertex,-0.423829462499335 , -0.15 , 17.8327447588694
+AddVertex,-0.355694219043507 , -0.15 , 16.8531749651229
+AddVertex,-1.85276548509367 , -0.4 , 16.7594859883593
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.66421406548467 , -0.4 , 18.1456346968798
+AddVertex,2.16858838451491 , -0.15 , 18.0311627683394
+AddVertex,2.23922930877674 , -0.15 , 17.0155691915131
+AddVertex,3.73630057482689 , -0.4 , 17.1092581682767
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 18 ---
+
+CreateMeshBuilder
+AddVertex,0.0720752494331998 , 0 , 18.8635637971949
+AddVertex,0.0123195857337111 , 0 , 18.8581544852391
+AddVertex,0.0946541069035143 , 0 , 17.8724283607634
+AddVertex,0.154479134142304 , 0 , 17.877007237905
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.50621117822054 , 0 , 18.9933872841348
+AddVertex,1.56596684192002 , 0 , 18.9987965960907
+AddVertex,1.65010481511206 , 0 , 17.9914791664454
+AddVertex,1.59027978787327 , 0 , 17.9869002893038
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.134537458396045 , 0 , 17.8754809455245
+AddVertex,0.0521566948667078 , 0 , 18.8617606932096
+AddVertex,0.0521566948667078 , -0.15 , 18.8617606932096
+AddVertex,0.134537458396045 , -0.15 , 17.8754809455245
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.61022146361953 , 0 , 17.9884265816843
+AddVertex,1.52612973278702 , 0 , 18.9951903881201
+AddVertex,1.52612973278702 , -0.15 , 18.9951903881201
+AddVertex,1.61022146361953 , -0.15 , 17.9884265816843
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.505562832995039 , -0.15 , 18.8112737816218
+AddVertex,2.08384926064877 , -0.15 , 19.0456772997079
+AddVertex,2.16858838451491 , -0.15 , 18.0311627683394
+AddVertex,-0.423829462499335 , -0.15 , 17.8327447588694
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-1.99945442548186 , -0.4 , 18.676040982726
+AddVertex,-0.505562832995039 , -0.15 , 18.8112737816218
+AddVertex,-0.423829462499335 , -0.15 , 17.8327447588694
+AddVertex,-1.91945514346909 , -0.4 , 17.7182728303291
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.57774085313559 , -0.4 , 19.1809100986037
+AddVertex,2.08384926064877 , -0.15 , 19.0456772997079
+AddVertex,2.16858838451491 , -0.15 , 18.0311627683394
+AddVertex,3.66421406548467 , -0.4 , 18.1456346968798
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 19 ---
+
+CreateMeshBuilder
+AddVertex,-0.0240224214092475 , 0 , 19.848880742422
+AddVertex,-0.0836971948134027 , 0 , 19.8426420390981
+AddVertex,0.0123195857337111 , 0 , 18.8581544852391
+AddVertex,0.0720752494331998 , 0 , 18.8635637971949
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.40817214029038 , 0 , 19.9986096221948
+AddVertex,1.46784691369452 , 0 , 20.0048483255187
+AddVertex,1.56596684192002 , 0 , 18.9987965960907
+AddVertex,1.50621117822054 , 0 , 18.9933872841348
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.0521566948667078 , 0 , 18.8617606932096
+AddVertex,-0.0439140125439517 , 0 , 19.8468011746473
+AddVertex,-0.0439140125439517 , -0.15 , 19.8468011746473
+AddVertex,0.0521566948667078 , -0.15 , 18.8617606932096
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.52612973278702 , 0 , 18.9951903881201
+AddVertex,1.42806373142509 , 0 , 20.0006891899694
+AddVertex,1.42806373142509 , -0.15 , 20.0006891899694
+AddVertex,1.52612973278702 , -0.15 , 18.9951903881201
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.600878564316031 , -0.15 , 19.7885732769579
+AddVertex,1.98502828319717 , -0.15 , 20.0589170876589
+AddVertex,2.08384926064877 , -0.15 , 19.0456772997079
+AddVertex,-0.505562832995039 , -0.15 , 18.8112737816218
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.0927478994198 , -0.4 , 19.6326056938612
+AddVertex,-0.600878564316031 , -0.15 , 19.7885732769579
+AddVertex,-0.505562832995039 , -0.15 , 18.8112737816218
+AddVertex,-1.99945442548186 , -0.4 , 18.676040982726
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.47689761830094 , -0.4 , 20.2148846707556
+AddVertex,1.98502828319717 , -0.15 , 20.0589170876589
+AddVertex,2.08384926064877 , -0.15 , 19.0456772997079
+AddVertex,3.57774085313559 , -0.4 , 19.1809100986037
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 20 ---
+
+CreateMeshBuilder
+AddVertex,-0.133795341323643 , 0 , 20.8327680077865
+AddVertex,-0.193377713280058 , 0 , 20.8257011165288
+AddVertex,-0.0836971948134027 , 0 , 19.8426420390981
+AddVertex,-0.0240224214092475 , 0 , 19.848880742422
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.29618158563023 , 0 , 21.0023733979707
+AddVertex,1.35576395758664 , 0 , 21.0094402892284
+AddVertex,1.46784691369452 , 0 , 20.0048483255187
+AddVertex,1.40817214029038 , 0 , 19.9986096221948
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.0439140125439517 , 0 , 19.8468011746473
+AddVertex,-0.153656131975786 , 0 , 20.8304123773672
+AddVertex,-0.153656131975786 , -0.15 , 20.8304123773672
+AddVertex,-0.0439140125439517 , -0.15 , 19.8468011746473
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.42806373142509 , 0 , 20.0006891899694
+AddVertex,1.31604237628236 , 0 , 21.0047290283899
+AddVertex,1.31604237628236 , -0.15 , 21.0047290283899
+AddVertex,1.42806373142509 , -0.15 , 20.0006891899694
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.709758270235629 , -0.15 , 20.7644547256289
+AddVertex,1.8721445145422 , -0.15 , 21.0706866801283
+AddVertex,1.98502828319717 , -0.15 , 20.0589170876589
+AddVertex,-0.600878564316031 , -0.15 , 19.7885732769579
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.19931756914592 , -0.4 , 20.587782444187
+AddVertex,-0.709758270235629 , -0.15 , 20.7644547256289
+AddVertex,-0.600878564316031 , -0.15 , 19.7885732769579
+AddVertex,-2.0927478994198 , -0.4 , 19.6326056938612
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.36170381345249 , -0.4 , 21.2473589615702
+AddVertex,1.8721445145422 , -0.15 , 21.0706866801283
+AddVertex,1.98502828319717 , -0.15 , 20.0589170876589
+AddVertex,3.47689761830094 , -0.4 , 20.2148846707556
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 21 ---
+
+CreateMeshBuilder
+AddVertex,-0.257222335318632 , 0 , 21.8150358032712
+AddVertex,-0.316700812498946 , 0 , 21.8071420872698
+AddVertex,-0.193377713280058 , 0 , 20.8257011165288
+AddVertex,-0.133795341323643 , 0 , 20.8327680077865
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.17026111700908 , 0 , 22.0044849873036
+AddVertex,1.22973959418941 , 0 , 22.0123787033049
+AddVertex,1.35576395758664 , 0 , 21.0094402892284
+AddVertex,1.29618158563023 , 0 , 21.0023733979707
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.153656131975786 , 0 , 20.8304123773672
+AddVertex,-0.277048494378722 , 0 , 21.812404564604
+AddVertex,-0.277048494378722 , -0.15 , 21.812404564604
+AddVertex,-0.153656131975786 , -0.15 , 20.8304123773672
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.31604237628236 , 0 , 21.0047290283899
+AddVertex,1.19008727606919 , 0 , 22.0071162259707
+AddVertex,1.19008727606919 , -0.15 , 22.0071162259707
+AddVertex,1.31604237628236 , -0.15 , 21.0047290283899
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.832180948061736 , -0.15 , 21.7387298819248
+AddVertex,1.7452197297522 , -0.15 , 22.08079090865
+AddVertex,1.8721445145422 , -0.15 , 21.0706866801283
+AddVertex,-0.709758270235629 , -0.15 , 20.7644547256289
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.31914287756976 , -0.4 , 21.541386981891
+AddVertex,-0.832180948061736 , -0.15 , 21.7387298819248
+AddVertex,-0.709758270235629 , -0.15 , 20.7644547256289
+AddVertex,-2.19931756914592 , -0.4 , 20.587782444187
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.23218165926023 , -0.4 , 22.2781338086837
+AddVertex,1.7452197297522 , -0.15 , 22.08079090865
+AddVertex,1.8721445145422 , -0.15 , 21.0706866801283
+AddVertex,3.36170381345249 , -0.4 , 21.2473589615702
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 22 ---
+
+CreateMeshBuilder
+AddVertex,-0.3942795945574 , 0 , 22.7954946512515
+AddVertex,-0.453642703674392 , 0 , 22.7867756331895
+AddVertex,-0.316700812498946 , 0 , 21.8071420872698
+AddVertex,-0.257222335318632 , 0 , 21.8150358032712
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,1.03043502425034 , 0 , 23.0047510847381
+AddVertex,1.08979813336733 , 0 , 23.0134701028
+AddVertex,1.22973959418941 , 0 , 22.0123787033049
+AddVertex,1.17026111700908 , 0 , 22.0044849873036
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.277048494378722 , 0 , 21.812404564604
+AddVertex,-0.414067297596397 , 0 , 22.7925883118975
+AddVertex,-0.414067297596397 , -0.15 , 22.7925883118975
+AddVertex,-0.277048494378722 , -0.15 , 21.812404564604
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.19008727606919 , 0 , 22.0071162259707
+AddVertex,1.05022272728934 , 0 , 23.007657424092
+AddVertex,1.05022272728934 , -0.15 , 23.007657424092
+AddVertex,1.19008727606919 , -0.15 , 22.0071162259707
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-0.968122982688298 , -0.15 , 22.7112108099861
+AddVertex,1.60427841238124 , -0.15 , 23.0890349260035
+AddVertex,1.7452197297522 , -0.15 , 22.08079090865
+AddVertex,-0.832180948061736 , -0.15 , 21.7387298819248
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.45220071061301 , -0.4 , 22.4932353584376
+AddVertex,-0.968122982688298 , -0.15 , 22.7112108099861
+AddVertex,-0.832180948061736 , -0.15 , 21.7387298819248
+AddVertex,-2.31914287756976 , -0.4 , 21.541386981891
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,3.08835614030597 , -0.4 , 23.307010377552
+AddVertex,1.60427841238124 , -0.15 , 23.0890349260035
+AddVertex,1.7452197297522 , -0.15 , 22.08079090865
+AddVertex,3.23218165926023 , -0.4 , 22.2781338086837
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 23 ---
+
+CreateMeshBuilder
+AddVertex,-0.544940680950451 , 0 , 23.7739554230456
+AddVertex,-0.604176970971154 , 0 , 23.7644127848053
+AddVertex,-0.453642703674392 , 0 , 22.7867756331895
+AddVertex,-0.3942795945574 , 0 , 22.7954946512515
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.876730279546321 , 0 , 24.0029787408108
+AddVertex,0.935966569567023 , 0 , 24.012521379051
+AddVertex,1.08979813336733 , 0 , 23.0134701028
+AddVertex,1.03043502425034 , 0 , 23.0047510847381
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.414067297596397 , 0 , 22.7925883118975
+AddVertex,-0.564686110957343 , 0 , 23.7707745436321
+AddVertex,-0.564686110957343 , -0.15 , 23.7707745436321
+AddVertex,-0.414067297596397 , -0.15 , 22.7925883118975
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,1.05022272728934 , 0 , 23.007657424092
+AddVertex,0.896475709553211 , 0 , 24.0061596202242
+AddVertex,0.896475709553211 , -0.15 , 24.0061596202242
+AddVertex,1.05022272728934 , -0.15 , 23.007657424092
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-1.11755815115053 , -0.15 , 23.6817099200568
+AddVertex,1.4493477497464 , -0.15 , 24.0952242437996
+AddVertex,1.60427841238124 , -0.15 , 23.0890349260035
+AddVertex,-0.968122982688298 , -0.15 , 22.7112108099861
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.59846540166801 , -0.4 , 23.4431439640513
+AddVertex,-1.11755815115053 , -0.15 , 23.6817099200568
+AddVertex,-0.968122982688298 , -0.15 , 22.7112108099861
+AddVertex,-2.45220071061301 , -0.4 , 22.4932353584376
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,2.93025500026388 , -0.4 , 24.333790199805
+AddVertex,1.4493477497464 , -0.15 , 24.0952242437996
+AddVertex,1.60427841238124 , -0.15 , 23.0890349260035
+AddVertex,3.08835614030597 , -0.4 , 23.307010377552
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+
+; --- segment 24 ---
+
+CreateMeshBuilder
+AddVertex,-0.709176532255399 , 0 , 24.7502293753966
+AddVertex,-0.768274576610017 , 0 , 24.7398649577352
+AddVertex,-0.604176970971154 , 0 , 23.7644127848053
+AddVertex,-0.544940680950451 , 0 , 23.7739554230456
+AddFace,1,0,3,2
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,0.709176532255404 , 0 , 24.9989753992699
+AddVertex,0.768274576610021 , 0 , 25.0093398169313
+AddVertex,0.935966569567023 , 0 , 24.012521379051
+AddVertex,0.876730279546321 , 0 , 24.0029787408108
+AddFace,0,1,2,3
+GenerateNormals
+SetColor,180,190,200
+CreateMeshBuilder
+AddVertex,-0.564686110957343 , 0 , 23.7707745436321
+AddVertex,-0.728875880373601 , 0 , 24.7467745695095
+AddVertex,-0.728875880373601 , -0.15 , 24.7467745695095
+AddVertex,-0.564686110957343 , -0.15 , 23.7707745436321
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,0.896475709553211 , 0 , 24.0061596202242
+AddVertex,0.728875880373606 , 0 , 25.0024302051571
+AddVertex,0.728875880373606 , -0.15 , 25.0024302051571
+AddVertex,0.896475709553211 , -0.15 , 24.0061596202242
+AddFace2,0,1,2,3
+GenerateNormals
+SetColor,85,50,50
+CreateMeshBuilder
+AddVertex,-1.28045762768337 , -0.15 , 24.6500400046698
+AddVertex,1.28045762768336 , -0.15 , 25.0991647699967
+AddVertex,1.4493477497464 , -0.15 , 24.0952242437996
+AddVertex,-1.11755815115053 , -0.15 , 23.6817099200568
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Sleeper.bmp
+SetTextureCoordinates,0,0.010,0.000
+SetTextureCoordinates,1,0.990,0.000
+SetTextureCoordinates,2,0.990,1.000
+SetTextureCoordinates,3,0.010,1.000
+CreateMeshBuilder
+AddVertex,-2.75790873654879 , -0.4 , 24.3909295631351
+AddVertex,-1.28045762768337 , -0.15 , 24.6500400046698
+AddVertex,-1.11755815115053 , -0.15 , 23.6817099200568
+AddVertex,-2.59846540166801 , -0.4 , 23.4431439640513
+AddFace,0,1,2,3
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
+CreateMeshBuilder
+AddVertex,2.7579087365488 , -0.4 , 25.3582752115314
+AddVertex,1.28045762768336 , -0.15 , 25.0991647699967
+AddVertex,1.4493477497464 , -0.15 , 24.0952242437996
+AddVertex,2.93025500026388 , -0.4 , 24.333790199805
+AddFace,1,0,3,2
+GenerateNormals
+LoadTexture,Ballast.bmp
+SetTextureCoordinates,2,0.000,0.000
+SetTextureCoordinates,3,1.000,0.000
+SetTextureCoordinates,0,1.000,1.000
+SetTextureCoordinates,1,0.000,1.000
