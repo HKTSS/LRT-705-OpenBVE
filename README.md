@@ -14,5 +14,30 @@ Nevertheless it is released to the public for potential new people to look into 
 
 Contributing is always welcomed, whether big or small. And perhaps one day enough progress can be made to fulfill the original goal.
 
+## Stage (New 2025 Plan)
+### 1: Rework Rail Alignment
+The existing rail alignment is not geographically accurate, which makes it quite hard to model the scenery (And causes more problem down the line)
+
+The rail alignment including all scenery needed to be modified to match the digital map by Lands Department.
+
+- [x] Rework main rail alignment
+- [ ] Adapt scenery to new alignment
+- [ ] Re-organize route file (Rework indexes)
+
+### 2: LRT Station Structure
+Work on station structure for each LRT stop
+
+### 3: Landmark building
+Work on buildings/structure which are prominently visible in the main LRT 705 line. (Residential building, TIS station etc.)
+
+### 4: Additional Rail
+Work on other non-main line rail. This stage should also start evaluate the need to move to 5m block instead of 25m (There is performance concern for 5m)
+
+### 5: Road
+Work on ground-level detail such as road, bridges & nearby infrastructure
+
+### 6: Finalization
+Finalize any detail that's still missing at this point
+
 ## License
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
