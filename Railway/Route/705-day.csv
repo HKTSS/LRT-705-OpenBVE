@@ -1,8 +1,3 @@
-$Include(assets\train_support\TSS_LR.csv)
-$Include(assets\train_support\Seltrac.csv)
-$Include(assets\train_support\LT1996.csv)
-$Include(assets\train_support\1992TS.csv)
-
 With Options,
 .ObjectVisibility 2
 .BlockLength 25
@@ -416,7 +411,7 @@ With Track
 3945,
 .freeobj 0;613
 
-3970,
+3975,
 .stop 0;10;5
 .Section 2;2
 .brightness 255
